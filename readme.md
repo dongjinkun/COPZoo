@@ -1,12 +1,12 @@
 # Welcome COP Zoo
 - The full name of **COP** is **C**ombinatorial **O**ptimization **P**roblems.
 - The repository is devoted to sharing advanced and lasted papers that solve challenging Combinatorial Optimization Problems.
-# Research
-- Neural combinatorial optimization methods for solving COP
-- Non Neural combinatorial optimization methods for solving COP
-- Supervised Learning for solving COP
-- Reinforcement Learning for solving COP
-- other methods for solving COP
+# Research content
+- Neural combinatorial optimization methods
+- Non Neural combinatorial optimization methods
+- Supervised Learning
+- Reinforcement Learning
+- other methods
 # Task
 - Travling Salesman Problems(**TSP**)
 - Vehicle Routing Problems(**VRP**)
