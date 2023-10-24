@@ -10,7 +10,7 @@
 # Task
 - Travling Salesman Problems(**TSP**)
 - Vehicle Routing Problems(**VRP**)
-- VRP variants, such as CVRP and CVRPTW
+- VRP variants, such as **CVRP** and **CVRPTW**
 # Contact me
 - 📧email： 23115063@bjtu.edu.cn
 - 🤙blog： [JKDong's Blog](https://blog.csdn.net/dongjinkun?spm=1010.2135.3001.5343)
