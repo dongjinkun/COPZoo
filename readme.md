@@ -4,7 +4,7 @@
 # Research
 - Neural combinatorial optimization methods for solving COP
 - Non Neural combinatorial optimization methods for solving COP
-- supervised Learning for solving COP
+- Supervised Learning for solving COP
 - Reinforcement Learning for solving COP
 - other methods for solving COP
 # Contact me
