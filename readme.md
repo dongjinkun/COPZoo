@@ -30,14 +30,18 @@
 - Learning the Travelling Salesperson Problem Requires Rethinking Generalization, 2022, arXiv.[[PDF](https://arxiv.org/pdf/2006.07054.pdf)][[Code](https://github.com/chaitjo/learning-tsp)]
 - Learning to Solve Travelling Salesman Problem with Hardness-Adaptive Curriculum, 2022, AAAI.[[PDF](https://arxiv.org/pdf/2204.03236.pdf)][[Code]()]
 - A GAME-THEORETIC APPROACH FOR IMPROVING GENERALIZATION ABILITY OF TSP SOLVERS, 2022, ICLR.[[PDF](https://arxiv.org/pdf/2110.15105.pdf)][[Code]()]
+- Simulation-guided Beam Search for Neural Combinatorial Optimization, 2022, NeurIPS.[[PDF](https://arxiv.org/pdf/2207.06190.pdf)][[Code](https://github.com/yd-kwon/SGBS)]
+- Large Neighborhood Search based on Neural Construction Heuristics, 2022, arXiv.[[PDF](https://arxiv.org/pdf/2205.00772.pdf)][[Code](https://github.com/jokofa/JAMPR_plus)]
 ## 2021
-- Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, 2021, AAAI.[[PDF](https://arxiv.org/pdf/2012.10658.pdf)][[Code](https://arxiv.org/pdf/2012.10658.pdf)]
+- Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, 2021, AAAI.[[PDF](https://arxiv.org/pdf/2012.10658.pdf)][[Code](https://github.com/Spider-scnu/TSP)]
+- LEARNING A LATENT SEARCH SPACE FOR ROUTING PROBLEMS USING VARIATIONAL AUTOENCODERS, 2021, ICLR.[[PDF](https://openreview.net/pdf?id=90JprVrJBO)][[Code](https://github.com/ahottung/CVAE-Opt)]
+- Deep Policy Dynamic Programming for Vehicle Routing Problems, 2021.[[PDF](https://arxiv.org/pdf/2102.11756.pdf)][[Code](https://github.com/wouterkool/dpdp)]
 ## 2020
 
 
 ## other
-
-
+- Pointer Networks, 2017, NeurIPS.[[PDF](https://arxiv.org/pdf/1506.03134.pdf)][[Code](https://github.com/shirgur/pointernet)]
+- An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, 2019, INFORMS.[[PDF](https://arxiv.org/pdf/1906.01227.pdf)][[Code](https://github.com/chaitjo/graph-convnet-tsp)]
 # Task
 - Travling Salesman Problems(**TSP**)
 - Vehicle Routing Problems(**VRP**)
