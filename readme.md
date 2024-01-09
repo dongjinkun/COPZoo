@@ -21,6 +21,9 @@
 - Memory-efficient Transformer-based network model for Traveling Salesman Problem, 2023, Neural Networks(CCF-B).[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000771)][[Code](https://github.com/yhnju/tspFormer)]
 - H-TSP: Hierarchically Solving the Large-Scale Travelling Salesman Problem, 2023, AAAI.[[PDF](https://arxiv.org/pdf/2304.09395.pdf)][[Code](https://github.com/Learning4Optimization-HUST/H-TSP)]
 - Efficient graph neural architecture search using Monte Carlo Tree search and prediction network, 2023, Expert Systems With Applications(CCF-C).[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0957417422019340)][[Code]()]
+- An Edge-Aware Graph Autoencoder Trained on Scale-Imbalanced Data for Travelling Salesman Problems, 2023.[[PDF](https://arxiv.org/pdf/2310.06543.pdf)][[Code]()]
+- A Hierarchical Destroy and Repair Approach for Solving Very Large-Scale Travelling Salesman Problem, 2023.[[PDF](https://arxiv.org/pdf/2308.04639.pdf)][[Code]()]
+- Select and Optimize: Learning to solve large-scale TSP instances, 2023, AISTATS.[[PDF](https://proceedings.mlr.press/v206/cheng23a/cheng23a.pdf)][[Code](https://github.com/honey0920/select-and-optimize)]
 ## 2022
 - Learning to Solve Routing Problems via Distributionally Robust Optimization, 2022, AAAI.[[PDF](https://arxiv.org/pdf/2202.07241.pdf)][[Code](https://github.com/jiang-yuan/Learning-routing-DRO)]
 - Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation, 2022, NeurIPS.[[PDF](https://arxiv.org/pdf/2210.07686.pdf)][[Code](https://github.com/jieyibi/AMDKD)]
@@ -36,12 +39,13 @@
 - Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, 2021, AAAI.[[PDF](https://arxiv.org/pdf/2012.10658.pdf)][[Code](https://github.com/Spider-scnu/TSP)]
 - LEARNING A LATENT SEARCH SPACE FOR ROUTING PROBLEMS USING VARIATIONAL AUTOENCODERS, 2021, ICLR.[[PDF](https://openreview.net/pdf?id=90JprVrJBO)][[Code](https://github.com/ahottung/CVAE-Opt)]
 - Deep Policy Dynamic Programming for Vehicle Routing Problems, 2021.[[PDF](https://arxiv.org/pdf/2102.11756.pdf)][[Code](https://github.com/wouterkool/dpdp)]
-## 2020
-
-
 ## other
 - Pointer Networks, 2017, NeurIPS.[[PDF](https://arxiv.org/pdf/1506.03134.pdf)][[Code](https://github.com/shirgur/pointernet)]
 - An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, 2019, INFORMS.[[PDF](https://arxiv.org/pdf/1906.01227.pdf)][[Code](https://github.com/chaitjo/graph-convnet-tsp)]
+- ATTENTION, LEARN TO SOLVE ROUTING PROBLEMS!, 2019, ICLR.[[PDF](https://arxiv.org/pdf/1803.08475.pdf)][[Code](https://github.com/wouterkool/attention-learn-to-route)]
+- POMO: Policy Optimization with Multiple Optima for Reinforcement Learning, 2020, NeurIPS.[[PDF](https://arxiv.org/pdf/2010.16011.pdf)][[Code](https://github.com/yd-kwon/POMO)]
+- Reinforcement Learning for Solving the Vehicle Routing Problem, 2018, NeurIPS.[[PDF](https://arxiv.org/pdf/1802.04240.pdf)][[Code](https://github.com/OptMLGroup/VRP-RL)]
+- NEURAL COMBINATORIAL OPTIMIZATION WITH REINFORCEMENT LEARNING, 2017, ICLR.[[PDF](https://arxiv.org/pdf/1611.09940.pdf)][[Code](https://github.com/pemami4911/neural-combinatorial-rl-pytorch)]
 # Task
 - Travling Salesman Problems(**TSP**)
 - Vehicle Routing Problems(**VRP**)
