@@ -8,41 +8,34 @@
 - Reinforcement Learning
 - other methods
 
-# NCO
+# Neural Combinatorial Optimization(NCO)
 ## 2024
-
+- Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, 2024, AAAI.[[PDF](https://arxiv.org/pdf/2312.12469.pdf)][[Code](https://github.com/xybFight/GNARKD)]
 ## 2023
-
-## 2022
-
-
-## 2021
-
-
-# Distribution generalization
-## 2023
+- Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization, 2023, ICML.[[PDF](https://arxiv.org/pdf/2306.02688.pdf)][[Code](https://github.com/kaist-silab/meta-sage)]
+- DATA-EFFICIENT SUPERVISED LEARNING IS POWERFUL FOR NEURAL COMBINATORIAL OPTIMIZATION, 2023, arXiv.[[PDF](https://openreview.net/pdf?id=a_yFkJ4-uEK)][[Code]()]
 - Towards Omni-generalizable Neural Methods for Vehicle Routing Problems, 2023, ICML.[[PDF](https://arxiv.org/pdf/2305.19587.pdf)][[Code](https://github.com/RoyalSkye/Omni-VRP)]
-
-
+- DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization, 2023, NeurIPS.[[PDF](https://arxiv.org/pdf/2302.08224.pdf)][[Code](https://arxiv.org/pdf/2302.08224.pdf)]
+- Neural Combinatorial Optimization with Heavy Decoder: Toward Large Scale Generalization, 2023, NeurIPS.[[PDF](https://arxiv.org/pdf/2310.07985.pdf)][[Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LEHD)]
+- Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling Salesman Problem, 2023, AAAI.[[PDF](https://arxiv.org/pdf/2304.09407.pdf)][[Code](https://github.com/Pointerformer/Pointerformer)]
+- Memory-efficient Transformer-based network model for Traveling Salesman Problem, 2023, Neural Networks(CCF-B).[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000771)][[Code](https://github.com/yhnju/tspFormer)]
+- H-TSP: Hierarchically Solving the Large-Scale Travelling Salesman Problem, 2023, AAAI.[[PDF](https://arxiv.org/pdf/2304.09395.pdf)][[Code](https://github.com/Learning4Optimization-HUST/H-TSP)]
+- Efficient graph neural architecture search using Monte Carlo Tree search and prediction network, 2023, Expert Systems With Applications(CCF-C).[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0957417422019340)][[Code]()]
 ## 2022
 - Learning to Solve Routing Problems via Distributionally Robust Optimization, 2022, AAAI.[[PDF](https://arxiv.org/pdf/2202.07241.pdf)][[Code](https://github.com/jiang-yuan/Learning-routing-DRO)]
 - Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation, 2022, NeurIPS.[[PDF](https://arxiv.org/pdf/2210.07686.pdf)][[Code](https://github.com/jieyibi/AMDKD)]
-
+- DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems, 2022, NeurIPS.[[PDF](https://arxiv.org/pdf/2210.04123.pdf)][[Code](https://github.com/DIMESTeam/DIMES)]
+- EFFICIENT ACTIVE SEARCH FOR COMBINATORIAL OPTIMIZATION PROBLEMS, 2022, ICLR.[[PDF](https://arxiv.org/pdf/2106.05126.pdf)][[Code](https://github.com/ahottung/EAS)]
+- Graph Neural Network Guided Local Search for the Traveling Salesperson Problem, 2022, ICLR.[[PDF](https://arxiv.org/pdf/2110.05291.pdf)][[Code](https://github.com/proroklab/gnngls)]
+- Learning the Travelling Salesperson Problem Requires Rethinking Generalization, 2022, arXiv.[[PDF](https://arxiv.org/pdf/2006.07054.pdf)][[Code](https://github.com/chaitjo/learning-tsp)]
+- Learning to Solve Travelling Salesman Problem with Hardness-Adaptive Curriculum, 2022, AAAI.[[PDF](https://arxiv.org/pdf/2204.03236.pdf)][[Code]()]
+- A GAME-THEORETIC APPROACH FOR IMPROVING GENERALIZATION ABILITY OF TSP SOLVERS, 2022, ICLR.[[PDF](https://arxiv.org/pdf/2110.15105.pdf)][[Code]()]
 ## 2021
+- Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, 2021, AAAI.[[PDF](https://arxiv.org/pdf/2012.10658.pdf)][[Code](https://arxiv.org/pdf/2012.10658.pdf)]
+## 2020
 
 
-# Size generalization
-
-## 2023
-
-## 2022
-
-## 2021
-
-
-
-
-
+## other
 
 
 # Task
