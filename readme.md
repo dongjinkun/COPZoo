@@ -7,6 +7,28 @@
 - Supervised Learning
 - Reinforcement Learning
 - other methods
+
+# Distribution generalization
+## 2023
+- Towards Omni-generalizable Neural Methods for Vehicle Routing Problems,2023,ICML.[[PDF](https://arxiv.org/pdf/2305.19587.pdf)][[Code](https://github.com/RoyalSkye/Omni-VRP)]
+
+## 2022
+
+## 2021
+
+
+# Size generalization
+
+## 2023
+
+## 2022
+
+## 2021
+
+
+
+
+
 # Task
 - Travling Salesman Problems(**TSP**)
 - Vehicle Routing Problems(**VRP**)
