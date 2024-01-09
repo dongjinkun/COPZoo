@@ -1,13 +1,11 @@
 # Welcome COP Zoo
 - The full name of **COP** is **C**ombinatorial **O**ptimization **P**roblems.
 - The repository is devoted to sharing advanced and lasted papers that solve challenging Combinatorial Optimization Problems.
-# Research content
-- Neural combinatorial optimization methods
-- Non Neural combinatorial optimization methods
-- Supervised Learning
-- Reinforcement Learning
-- other methods
-
+# Biography
+Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
+# CCF recommendation
+- [[CCF推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
+- [[CCF计算领域高质量科技期刊分级目录](https://www.ccf.org.cn/ccftjgjxskwml/)]
 # Neural Combinatorial Optimization(NCO)
 ## 2024
 - Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, 2024, AAAI.[[PDF](https://arxiv.org/pdf/2312.12469.pdf)][[Code](https://github.com/xybFight/GNARKD)]
@@ -48,6 +46,12 @@
 - POMO: Policy Optimization with Multiple Optima for Reinforcement Learning, 2020, NeurIPS.[[PDF](https://arxiv.org/pdf/2010.16011.pdf)][[Code](https://github.com/yd-kwon/POMO)]
 - Reinforcement Learning for Solving the Vehicle Routing Problem, 2018, NeurIPS.[[PDF](https://arxiv.org/pdf/1802.04240.pdf)][[Code](https://github.com/OptMLGroup/VRP-RL)]
 - NEURAL COMBINATORIAL OPTIMIZATION WITH REINFORCEMENT LEARNING, 2017, ICLR.[[PDF](https://arxiv.org/pdf/1611.09940.pdf)][[Code](https://github.com/pemami4911/neural-combinatorial-rl-pytorch)]
+# Research content
+- Neural combinatorial optimization methods
+- Non Neural combinatorial optimization methods
+- Supervised Learning
+- Reinforcement Learning
+- other methods
 # Task
 - Travling Salesman Problems(**TSP**)
 - Vehicle Routing Problems(**VRP**)
