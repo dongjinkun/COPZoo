@@ -8,11 +8,25 @@
 - Reinforcement Learning
 - other methods
 
-# Distribution generalization
+# NCO
+## 2024
+
 ## 2023
-- Towards Omni-generalizable Neural Methods for Vehicle Routing Problems,2023,ICML.[[PDF](https://arxiv.org/pdf/2305.19587.pdf)][[Code](https://github.com/RoyalSkye/Omni-VRP)]
 
 ## 2022
+
+
+## 2021
+
+
+# Distribution generalization
+## 2023
+- Towards Omni-generalizable Neural Methods for Vehicle Routing Problems, 2023, ICML.[[PDF](https://arxiv.org/pdf/2305.19587.pdf)][[Code](https://github.com/RoyalSkye/Omni-VRP)]
+
+
+## 2022
+- Learning to Solve Routing Problems via Distributionally Robust Optimization, 2022, AAAI.[[PDF](https://arxiv.org/pdf/2202.07241.pdf)][[Code](https://github.com/jiang-yuan/Learning-routing-DRO)]
+- Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation, 2022, NeurIPS.[[PDF](https://arxiv.org/pdf/2210.07686.pdf)][[Code](https://github.com/jieyibi/AMDKD)]
 
 ## 2021
 
@@ -24,6 +38,8 @@
 ## 2022
 
 ## 2021
+
+
 
 
 
