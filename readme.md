@@ -25,6 +25,8 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - A Hierarchical Destroy and Repair Approach for Solving Very Large-Scale Travelling Salesman Problem, 2023.[[PDF](https://arxiv.org/pdf/2308.04639.pdf)][[Code]()]
 - Select and Optimize: Learning to solve large-scale TSP instances, 2023, AISTATS.[[PDF](https://proceedings.mlr.press/v206/cheng23a/cheng23a.pdf)][[Code](https://github.com/honey0920/select-and-optimize)]
 - Revisiting Sampling for Combinatorial Optimization, 2023, ICML.[[PDF](https://openreview.net/pdf?id=ZMP0Bki9aK)][[Code]()]
+- Combinatorial Optimization with Policy Adaptation using Latent Space Search, 2023, NeurIPS.[[PDF](https://arxiv.org/pdf/2311.13569.pdf)][[Code](https://github.com/instadeepai/compass)]
+- ROCO: A General Framework for Evaluating Robustness of Combinatorial Optimization Solvers on Graphs, 2023, ICLR.[[PDF](https://openreview.net/forum?id=2r6YMqz4Mml)][[Code](https://github.com/Thinklab-SJTU/ROCO)]
 ## 2022
 - Learning to Solve Routing Problems via Distributionally Robust Optimization, 2022, AAAI.[[PDF](https://arxiv.org/pdf/2202.07241.pdf)][[Code](https://github.com/jiang-yuan/Learning-routing-DRO)]
 - Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation, 2022, NeurIPS.[[PDF](https://arxiv.org/pdf/2210.07686.pdf)][[Code](https://github.com/jieyibi/AMDKD)]
