@@ -9,6 +9,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 # Neural Combinatorial Optimization(NCO)
 ## 2024
 - Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, 2024, AAAI.[[PDF](https://arxiv.org/pdf/2312.12469.pdf)][[Code](https://github.com/xybFight/GNARKD)]
+- An adaptive variable neighbourhood search approach for the dynamic vehicle routing problem, 2024, Computers and Operations Research.[[PDF](https://www.sciencedirect.com/science/article/pii/S0305054824000030)][[Code]()]
 ## 2023
 - Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization, 2023, ICML.[[PDF](https://arxiv.org/pdf/2306.02688.pdf)][[Code](https://github.com/kaist-silab/meta-sage)]
 - DATA-EFFICIENT SUPERVISED LEARNING IS POWERFUL FOR NEURAL COMBINATORIAL OPTIMIZATION, 2023, arXiv.[[PDF](https://openreview.net/pdf?id=a_yFkJ4-uEK)][[Code]()]
