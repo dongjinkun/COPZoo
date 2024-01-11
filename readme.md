@@ -53,6 +53,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Reinforcement Learning for Solving the Vehicle Routing Problem, 2018, NeurIPS.[[PDF](https://arxiv.org/pdf/1802.04240.pdf)][[Code](https://github.com/OptMLGroup/VRP-RL)]
 - NEURAL COMBINATORIAL OPTIMIZATION WITH REINFORCEMENT LEARNING, 2017, ICLR.[[PDF](https://arxiv.org/pdf/1611.09940.pdf)][[Code](https://github.com/pemami4911/neural-combinatorial-rl-pytorch)]
 - Knowledge-guided local search for the vehicle routing problem, 2019, Computers & Operations Research.[[PDF](https://www.sciencedirect.com/science/article/pii/S0305054819300024)][[Code]()]
+- Combinatorial optimization by graph pointer networks and hierarchical reinforcement learning, 2019, arXiv.[[PDF](https://arxiv.org/pdf/1911.04936.pdf)][[Code](https://github.com/qiang-ma/graph-pointer-network)]
 # Research content
 - Neural combinatorial optimization methods
 - Non Neural combinatorial optimization methods
