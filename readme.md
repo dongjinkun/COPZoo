@@ -27,6 +27,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Revisiting Sampling for Combinatorial Optimization, 2023, ICML.[[PDF](https://openreview.net/pdf?id=ZMP0Bki9aK)][[Code]()]
 - Combinatorial Optimization with Policy Adaptation using Latent Space Search, 2023, NeurIPS.[[PDF](https://arxiv.org/pdf/2311.13569.pdf)][[Code](https://github.com/instadeepai/compass)]
 - ROCO: A General Framework for Evaluating Robustness of Combinatorial Optimization Solvers on Graphs, 2023, ICLR.[[PDF](https://openreview.net/forum?id=2r6YMqz4Mml)][[Code](https://github.com/Thinklab-SJTU/ROCO)]
+- A GNN-GUIDED PREDICT-AND-SEARCH FRAMEWORK FOR MIXED-INTEGER LINEAR PROGRAMMING, 2023, ICLR.[[PDF](https://openreview.net/forum?id=pHMpgT5xWaE)][[Code](https://github.com/sribdcn/Predict-and-Search_MILP_method)]
 ## 2022
 - Learning to Solve Routing Problems via Distributionally Robust Optimization, 2022, AAAI.[[PDF](https://arxiv.org/pdf/2202.07241.pdf)][[Code](https://github.com/jiang-yuan/Learning-routing-DRO)]
 - Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation, 2022, NeurIPS.[[PDF](https://arxiv.org/pdf/2210.07686.pdf)][[Code](https://github.com/jieyibi/AMDKD)]
