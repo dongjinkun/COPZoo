@@ -7,6 +7,9 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - [[CCF推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
 - [[CCF计算领域高质量科技期刊分级目录](https://www.ccf.org.cn/ccftjgjxskwml/)]
 # Neural Combinatorial Optimization(NCO)
+## Survey
+- Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, Bengio, 2018, European Journal of Operations Research.[[PDF](https://arxiv.org/abs/1811.06128)]
+- Learning to Solve Vehicle Routing Problems: A Survey, 2022.[[PDF](https://arxiv.org/abs/2205.02453)]
 ## 2024
 - Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, 2024, AAAI.[[PDF](https://arxiv.org/pdf/2312.12469.pdf)][[Code](https://github.com/xybFight/GNARKD)]
 - An adaptive variable neighbourhood search approach for the dynamic vehicle routing problem, 2024, Computers and Operations Research.[[PDF](https://www.sciencedirect.com/science/article/pii/S0305054824000030)][[Code]()]
@@ -29,6 +32,8 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - ROCO: A General Framework for Evaluating Robustness of Combinatorial Optimization Solvers on Graphs, 2023, ICLR.[[PDF](https://openreview.net/forum?id=2r6YMqz4Mml)][[Code](https://github.com/Thinklab-SJTU/ROCO)]
 - A GNN-GUIDED PREDICT-AND-SEARCH FRAMEWORK FOR MIXED-INTEGER LINEAR PROGRAMMING, 2023, ICLR.[[PDF](https://openreview.net/forum?id=pHMpgT5xWaE)][[Code](https://github.com/sribdcn/Predict-and-Search_MILP_method)]
 - Multi-View Graph Contrastive Learning for Solving Vehicle Routing Problems, 2023, UAI.[[PDF](https://proceedings.mlr.press/v216/jiang23a/jiang23a.pdf)][[Code]()]
+- BOOSTING DIFFERENTIABLE CAUSAL DISCOVERY VIA ADAPTIVE SAMPLE REWEIGHTING, 2023, ICLR.[[PDF](https://arxiv.org/abs/2303.03187)][[Code](https://github.com/anzhang314/ReScore
+)]
 ## 2022
 - Learning to Solve Routing Problems via Distributionally Robust Optimization, 2022, AAAI.[[PDF](https://arxiv.org/pdf/2202.07241.pdf)][[Code](https://github.com/jiang-yuan/Learning-routing-DRO)]
 - Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation, 2022, NeurIPS.[[PDF](https://arxiv.org/pdf/2210.07686.pdf)][[Code](https://github.com/jieyibi/AMDKD)]
