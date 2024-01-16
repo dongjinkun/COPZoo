@@ -15,6 +15,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - An adaptive variable neighbourhood search approach for the dynamic vehicle routing problem, 2024, Computers and Operations Research.[[PDF](https://www.sciencedirect.com/science/article/pii/S0305054824000030)][[Code]()]
 - GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, 2024, AAAI.[[PDF](https://arxiv.org/pdf/2312.08224.pdf)][[Code](https://github.com/henry-yeh/GLOP)]
 ## 2023
+- Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time, 2023, ICLR.[[PDF](https://openreview.net/pdf?id=6ZajpxqTlQ)][[Code]()]
 - Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization, 2023, ICML.[[PDF](https://arxiv.org/pdf/2306.02688.pdf)][[Code](https://github.com/kaist-silab/meta-sage)]
 - DATA-EFFICIENT SUPERVISED LEARNING IS POWERFUL FOR NEURAL COMBINATORIAL OPTIMIZATION, 2023, arXiv.[[PDF](https://openreview.net/pdf?id=a_yFkJ4-uEK)][[Code]()]
 - Towards Omni-generalizable Neural Methods for Vehicle Routing Problems, 2023, ICML.[[PDF](https://arxiv.org/pdf/2305.19587.pdf)][[Code](https://github.com/RoyalSkye/Omni-VRP)]
