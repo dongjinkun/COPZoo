@@ -53,6 +53,8 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - LEARNING A LATENT SEARCH SPACE FOR ROUTING PROBLEMS USING VARIATIONAL AUTOENCODERS, 2021, ICLR.[[PDF](https://openreview.net/pdf?id=90JprVrJBO)][[Code](https://github.com/ahottung/CVAE-Opt)]
 - Deep Policy Dynamic Programming for Vehicle Routing Problems, 2021.[[PDF](https://arxiv.org/pdf/2102.11756.pdf)][[Code](https://github.com/wouterkool/dpdp)]
 - NeuroLKH: Combining Deep Learning Model with Lin-Kernighan-Helsgaun Heuristic for Solving the Traveling Salesman Problem, 2021, NeurIPS.[[PDF](https://arxiv.org/pdf/2110.07983.pdf)][[Code](https://github.com/liangxinedu/NeuroLKH)]
+- Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization, 2022, NeurIPS.[[PDF](https://arxiv.org/abs/2205.13209)][[Code](https://github.com/fedebotu/Sym-NCO/blob/main/README.md)]
+- Learning Collaborative Policies to Solve NP-hard Routing Problems, 2021, NeurIPS.[[PDF](https://arxiv.org/abs/2110.13987)][[Code](https://github.com/alstn12088/LCP)]
 ## other
 - Pointer Networks, 2017, NeurIPS.[[PDF](https://arxiv.org/pdf/1506.03134.pdf)][[Code](https://github.com/shirgur/pointernet)]
 - An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, 2019, INFORMS.[[PDF](https://arxiv.org/pdf/1906.01227.pdf)][[Code](https://github.com/chaitjo/graph-convnet-tsp)]
@@ -62,16 +64,6 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - NEURAL COMBINATORIAL OPTIMIZATION WITH REINFORCEMENT LEARNING, 2017, ICLR.[[PDF](https://arxiv.org/pdf/1611.09940.pdf)][[Code](https://github.com/pemami4911/neural-combinatorial-rl-pytorch)]
 - Knowledge-guided local search for the vehicle routing problem, 2019, Computers & Operations Research.[[PDF](https://www.sciencedirect.com/science/article/pii/S0305054819300024)][[Code]()]
 - Combinatorial optimization by graph pointer networks and hierarchical reinforcement learning, 2019, arXiv.[[PDF](https://arxiv.org/pdf/1911.04936.pdf)][[Code](https://github.com/qiang-ma/graph-pointer-network)]
-# Research content
-- Neural combinatorial optimization methods
-- Non Neural combinatorial optimization methods
-- Supervised Learning
-- Reinforcement Learning
-- other methods
-# Task
-- Travling Salesman Problems(**TSP**)
-- Vehicle Routing Problems(**VRP**)
-- VRP variants, such as **CVRP** and **CVRPTW**
 # Contact me
 - 📧email： jinkundong@bjtu.edu.cn
 - 🤙blog： [JKDong's Blog](https://blog.csdn.net/dongjinkun?spm=1010.2135.3001.5343)
