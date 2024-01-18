@@ -14,8 +14,17 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, 2024, AAAI.[[PDF](https://arxiv.org/pdf/2312.12469.pdf)][[Code](https://github.com/xybFight/GNARKD)]
 - An adaptive variable neighbourhood search approach for the dynamic vehicle routing problem, 2024, Computers and Operations Research.[[PDF](https://www.sciencedirect.com/science/article/pii/S0305054824000030)][[Code]()]
 - GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, 2024, AAAI.[[PDF](https://arxiv.org/pdf/2312.08224.pdf)][[Code](https://github.com/henry-yeh/GLOP)]
+- Rl4co: an extensive reinforcement learning for combinatorial optimization benchmark, 2024, ICLR.[[PDF](https://arxiv.org/pdf/2306.17100.pdf)][[Code](https://github.com/ai4co/rl4co)]
+- Unsupervised graph neural networks with recurrent features for solving combinatorial optimization problems, 2024, ICLR.[[PDF](https://openreview.net/pdf?id=9qtswuW5ux)][[Code]()]
+- Train Short, Test Long In Combinatorial Optimization, 2024, ICLR.[[PDF](https://openreview.net/pdf?id=j2F9jDsjcC)][[Code]()]
+- PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization, 2024, ICLR.[[PDF](https://openreview.net/pdf?id=Q9R10ZKd8z)][[Code]()]
+- Enhancing Sample Efficiency in Black-box Combinatorial Optimization via Symmetric Replay Training, 2024, ICLR.[[PDF](https://openreview.net/pdf?id=xzRnzHUVE9)][[Code]()]
+- Enhancing the Cross-Size Generalization for Solving Vehicle Routing Problems via Continual Learning, 2024, ICLR.[[PDF](https://openreview.net/pdf?id=WdvT2UgsTK)][[Code]()]
+- Collaboration! Towards Robust Neural Methods for Vehicle Routing Problems, 2024, ICLR.[[PDF](https://openreview.net/pdf?id=zEOnlJaRKp)][[Code]()]
+- EXPLORING BATTERY USAGE IN ELECTRIC VEHICLES THROUGH GRAPH BASED CASCADED CLUSTERING, 2024, ICLR.[[PDF](https://openreview.net/pdf?id=BUxuW0f6EE)][[Code]()]
+- Deep Reinforcement Learning for Dynamic Capacitated Vehicle Routing Problem, 2024, ICLR.[[PDF](https://openreview.net/pdf?id=Gs8jWk0F01)][[Code]()]
 ## 2023
-- Rl4co: an extensive reinforcement learning for combinatorial optimization benchmark, 2023, arXiv.[[PDF](https://arxiv.org/pdf/2306.17100.pdf)][[Code](https://github.com/ai4co/rl4co)]
+
 - Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time, 2023, ICLR.[[PDF](https://openreview.net/pdf?id=6ZajpxqTlQ)][[Code]()]
 - Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization, 2023, ICML.[[PDF](https://arxiv.org/pdf/2306.02688.pdf)][[Code](https://github.com/kaist-silab/meta-sage)]
 - DATA-EFFICIENT SUPERVISED LEARNING IS POWERFUL FOR NEURAL COMBINATORIAL OPTIMIZATION, 2023, arXiv.[[PDF](https://openreview.net/pdf?id=a_yFkJ4-uEK)][[Code]()]
