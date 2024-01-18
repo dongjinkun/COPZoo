@@ -36,6 +36,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Multi-View Graph Contrastive Learning for Solving Vehicle Routing Problems, 2023, UAI.[[PDF](https://proceedings.mlr.press/v216/jiang23a/jiang23a.pdf)][[Code]()]
 - BOOSTING DIFFERENTIABLE CAUSAL DISCOVERY VIA ADAPTIVE SAMPLE REWEIGHTING, 2023, ICLR.[[PDF](https://arxiv.org/abs/2303.03187)][[Code](https://github.com/anzhang314/ReScore
 )]
+- DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization, 2023, NeurIPS.[[PDF](https://arxiv.org/abs/2309.14032)][[Code](https://github.com/henry-yeh/DeepACO)]
 ## 2022
 - Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization, 2022, NeurIPS.[[PDF](https://arxiv.org/abs/2205.13209)][[Code](https://github.com/fedebotu/Sym-NCO/blob/main/README.md)]
 - Learning to Solve Routing Problems via Distributionally Robust Optimization, 2022, AAAI.[[PDF](https://arxiv.org/pdf/2202.07241.pdf)][[Code](https://github.com/jiang-yuan/Learning-routing-DRO)]
