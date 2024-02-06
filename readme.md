@@ -11,6 +11,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, Bengio, 2018, European Journal of Operations Research.[[PDF](https://arxiv.org/abs/1811.06128)]
 - Learning to Solve Vehicle Routing Problems: A Survey, 2022.[[PDF](https://arxiv.org/abs/2205.02453)]
 ## 2024
+- INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer, 2024, arXiv.[[PDF](https://arxiv.org/abs/2402.02317)][[Code]()]
 - Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, 2024, AAAI.[[PDF](https://arxiv.org/pdf/2312.12469.pdf)][[Code](https://github.com/xybFight/GNARKD)]
 - An adaptive variable neighbourhood search approach for the dynamic vehicle routing problem, 2024, Computers and Operations Research.[[PDF](https://www.sciencedirect.com/science/article/pii/S0305054824000030)][[Code]()]
 - GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, 2024, AAAI.[[PDF](https://arxiv.org/pdf/2312.08224.pdf)][[Code](https://github.com/henry-yeh/GLOP)]
