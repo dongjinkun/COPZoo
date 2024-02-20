@@ -15,7 +15,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, 2024, AAAI.[[PDF](https://arxiv.org/pdf/2312.12469.pdf)][[Code](https://github.com/xybFight/GNARKD)]
 - An adaptive variable neighbourhood search approach for the dynamic vehicle routing problem, 2024, Computers and Operations Research.[[PDF](https://www.sciencedirect.com/science/article/pii/S0305054824000030)][[Code]()]
 - GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, 2024, AAAI.[[PDF](https://arxiv.org/pdf/2312.08224.pdf)][[Code](https://github.com/henry-yeh/GLOP)]
-- Rl4co: an extensive reinforcement learning for combinatorial optimization benchmark, 2024, ICLR.[[PDF](https://arxiv.org/pdf/2306.17100.pdf)][[Code](https://github.com/ai4co/rl4co)]
+- :star:Rl4co: an extensive reinforcement learning for combinatorial optimization benchmark, 2024, ICLR.[[PDF](https://arxiv.org/pdf/2306.17100.pdf)][[Code](https://github.com/ai4co/rl4co)]
 - Unsupervised graph neural networks with recurrent features for solving combinatorial optimization problems, 2024, ICLR.[[PDF](https://openreview.net/pdf?id=9qtswuW5ux)][[Code]()]
 - Train Short, Test Long In Combinatorial Optimization, 2024, ICLR.[[PDF](https://openreview.net/pdf?id=j2F9jDsjcC)][[Code]()]
 - PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization, 2024, ICLR.[[PDF](https://openreview.net/pdf?id=Q9R10ZKd8z)][[Code]()]
