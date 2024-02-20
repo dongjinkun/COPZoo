@@ -24,6 +24,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Collaboration! Towards Robust Neural Methods for Vehicle Routing Problems, 2024, ICLR.[[PDF](https://openreview.net/pdf?id=zEOnlJaRKp)][[Code]()]
 - EXPLORING BATTERY USAGE IN ELECTRIC VEHICLES THROUGH GRAPH BASED CASCADED CLUSTERING, 2024, ICLR.[[PDF](https://openreview.net/pdf?id=BUxuW0f6EE)][[Code]()]
 - Deep Reinforcement Learning for Dynamic Capacitated Vehicle Routing Problem, 2024, ICLR.[[PDF](https://openreview.net/pdf?id=Gs8jWk0F01)][[Code]()]
+- Towards Generalizable Neural Solvers for Vehicle Routing Problems via Ensemble with Transferrable Local Policy, 2024, arXiv.[[PDF](https://arxiv.org/abs/2308.14104)][[Code](https://github.com/gaocrr/elg)]
 ## 2023
 
 - Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time, 2023, ICLR.[[PDF](https://openreview.net/pdf?id=6ZajpxqTlQ)][[Code]()]
