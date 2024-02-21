@@ -67,6 +67,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Deep Policy Dynamic Programming for Vehicle Routing Problems, 2021.[[PDF](https://arxiv.org/pdf/2102.11756.pdf)][[Code](https://github.com/wouterkool/dpdp)]
 - NeuroLKH: Combining Deep Learning Model with Lin-Kernighan-Helsgaun Heuristic for Solving the Traveling Salesman Problem, 2021, NeurIPS.[[PDF](https://arxiv.org/pdf/2110.07983.pdf)][[Code](https://github.com/liangxinedu/NeuroLKH)]
 - Learning Collaborative Policies to Solve NP-hard Routing Problems, 2021, NeurIPS.[[PDF](https://arxiv.org/abs/2110.13987)][[Code](https://github.com/alstn12088/LCP)]
+- Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer, 2021, NeurIPS.[[PDF](https://arxiv.org/abs/2110.02544)][[Code](https://github.com/yining043/VRP-DACT?tab=readme-ov-file)]
 ## other
 - Pointer Networks, 2017, NeurIPS.[[PDF](https://arxiv.org/pdf/1506.03134.pdf)][[Code](https://github.com/shirgur/pointernet)]
 - An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, 2019, INFORMS.[[PDF](https://arxiv.org/pdf/1906.01227.pdf)][[Code](https://github.com/chaitjo/graph-convnet-tsp)]
