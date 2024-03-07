@@ -3,9 +3,11 @@
 - The repository is devoted to sharing advanced and lasted papers that solve challenging Combinatorial Optimization Problems.
 # Biography
 Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
-# CCF recommendation
+# CCF ranking
 - [[CCF推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
 - [[CCF计算领域高质量科技期刊分级目录](https://www.ccf.org.cn/ccftjgjxskwml/)]
+# Tsinghua ranking
+- [[Tsinghua ranking](https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)]
 # Neural Combinatorial Optimization(NCO)
 ## Survey
 - Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, Bengio, 2018, European Journal of Operations Research.[[PDF](https://arxiv.org/abs/1811.06128)]
