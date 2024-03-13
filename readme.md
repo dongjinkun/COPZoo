@@ -30,6 +30,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - 【mEGAT】SYMMETRY-PRESERVING GRAPH ATTENTION NETWORK TO SOLVE ROUTING PROBLEMS AT MULTIPLE RESOLUTIONS, 2024, arXiv.[[PDF](https://arxiv.org/abs/2310.15543)][[Code](https://github.com/HySonLab/Multires-NP-hard)]
 - Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization, 2014, arXiv.[[PDF](https://arxiv.org/abs/2402.16891v1)][None]
 ## 2023
+- 【Poppy】Population-based reinforcement learning for combinatorial optimization, 2023, ICLR.[[PDF](https://openreview.net/forum?id=JRFSLFyYAII)][[Code](https://github.com/instadeepai/poppy)]
 - 【COMPASS】Combinatorial Optimization with Policy Adaptation using Latent Space Search, 2023, NeurIPS.[[PDF](https://arxiv.org/abs/2311.13569)][[Code](https://github.com/instadeepai/compass)]
 - Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time, 2023, ICLR.[[PDF](https://openreview.net/pdf?id=6ZajpxqTlQ)][None]
 - 【Meta-SAGE】Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization, 2023, ICML.[[PDF](https://arxiv.org/pdf/2306.02688.pdf)][[Code](https://github.com/kaist-silab/meta-sage)]
@@ -65,7 +66,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Simulation-guided Beam Search for Neural Combinatorial Optimization, 2022, NeurIPS.[[PDF](https://arxiv.org/pdf/2207.06190.pdf)][[Code](https://github.com/yd-kwon/SGBS)]
 - Large Neighborhood Search based on Neural Construction Heuristics, 2022, arXiv.[[PDF](https://arxiv.org/pdf/2205.00772.pdf)][[Code](https://github.com/jokofa/JAMPR_plus)]
 - Reinforced Hybrid Genetic Algorithm for the Traveling Salesman Problem, 2022, Computers & Operations Research.[[PDF](https://arxiv.org/pdf/2107.06870.pdf)][None]
-- 【Poppy】Population-based reinforcement learning for combinatorial optimization, 2022, NeurIPS.[[PDF](https://openreview.net/forum?id=JRFSLFyYAII)][[Code](https://github.com/instadeepai/poppy)]
+
 ## 2021
 - 【Att_GCRN】Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, 2021, AAAI.[[PDF](https://arxiv.org/pdf/2012.10658.pdf)][[Code](https://github.com/Spider-scnu/TSP)]
 - LEARNING A LATENT SEARCH SPACE FOR ROUTING PROBLEMS USING VARIATIONAL AUTOENCODERS, 2021, ICLR.[[PDF](https://openreview.net/pdf?id=90JprVrJBO)][[Code](https://github.com/ahottung/CVAE-Opt)]
