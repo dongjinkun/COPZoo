@@ -65,7 +65,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Simulation-guided Beam Search for Neural Combinatorial Optimization, 2022, NeurIPS.[[PDF](https://arxiv.org/pdf/2207.06190.pdf)][[Code](https://github.com/yd-kwon/SGBS)]
 - Large Neighborhood Search based on Neural Construction Heuristics, 2022, arXiv.[[PDF](https://arxiv.org/pdf/2205.00772.pdf)][[Code](https://github.com/jokofa/JAMPR_plus)]
 - Reinforced Hybrid Genetic Algorithm for the Traveling Salesman Problem, 2022, Computers & Operations Research.[[PDF](https://arxiv.org/pdf/2107.06870.pdf)][None]
-- Population-based reinforcement learning for combinatorial optimization, 2022, NeurIPS.[[PDF](https://openreview.net/forum?id=JRFSLFyYAII)][[Code](https://github.com/instadeepai/poppy)]
+- 【Poppy】Population-based reinforcement learning for combinatorial optimization, 2022, NeurIPS.[[PDF](https://openreview.net/forum?id=JRFSLFyYAII)][[Code](https://github.com/instadeepai/poppy)]
 ## 2021
 - 【Att_GCRN】Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, 2021, AAAI.[[PDF](https://arxiv.org/pdf/2012.10658.pdf)][[Code](https://github.com/Spider-scnu/TSP)]
 - LEARNING A LATENT SEARCH SPACE FOR ROUTING PROBLEMS USING VARIATIONAL AUTOENCODERS, 2021, ICLR.[[PDF](https://openreview.net/pdf?id=90JprVrJBO)][[Code](https://github.com/ahottung/CVAE-Opt)]
