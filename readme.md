@@ -85,6 +85,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Combinatorial optimization by graph pointer networks and hierarchical reinforcement learning, 2019, arXiv.[[PDF](https://arxiv.org/pdf/1911.04936.pdf)][[Code](https://github.com/qiang-ma/graph-pointer-network)]
 - 【MDAM】Multi-Decoder Attention Model with Embedding Glimpse for Solving Vehicle Routing Problems, 2020, AAAI.[[PDF](https://arxiv.org/abs/2012.10638)][[Code](https://github.com/liangxinedu/MDAM)]
 - Step-wise Deep Learning Models for Solving Routing Problems, 2020, TII.[[PDF](https://ieeexplore.ieee.org/document/9226142)][[Code](https://github.com/liangxinedu/stepwise)]
+- A Deep Reinforcement Learning Algorithm Using Dynamic Attention Model for Vehicle Routing Problems, 2022, ECML-PKDD.[[PDF](https://arxiv.org/abs/2002.03282)][[Code](https://github.com/Roberto09/Dynamic-Attention-Model-for-VRP---Pytorch)]
 # Contact me
 - 📧email： jinkundong@bjtu.edu.cn
 - 🤙blog： [JKDong's Blog](https://blog.csdn.net/dongjinkun?spm=1010.2135.3001.5343)
