@@ -68,6 +68,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Large Neighborhood Search based on Neural Construction Heuristics, 2022, arXiv.[[PDF](https://arxiv.org/pdf/2205.00772.pdf)][[Code](https://github.com/jokofa/JAMPR_plus)]
 - Reinforced Hybrid Genetic Algorithm for the Traveling Salesman Problem, 2022, Computers & Operations Research.[[PDF](https://arxiv.org/pdf/2107.06870.pdf)][None]
 - 【RBG】Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, 2022, KDD.[[PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539037)][None]
+- 【SADM】Attention, Filling in The Gaps for Generalization in Routing Problems, 2022, ECML-PKDD.[[PDF](https://arxiv.org/abs/2207.07212)][None]
 ## 2021
 - 【Att-GCRN】Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, 2021, AAAI.[[PDF](https://arxiv.org/pdf/2012.10658.pdf)][[Code](https://github.com/Spider-scnu/TSP)]
 - LEARNING A LATENT SEARCH SPACE FOR ROUTING PROBLEMS USING VARIATIONAL AUTOENCODERS, 2021, ICLR.[[PDF](https://openreview.net/pdf?id=90JprVrJBO)][[Code](https://github.com/ahottung/CVAE-Opt)]
@@ -86,7 +87,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Combinatorial optimization by graph pointer networks and hierarchical reinforcement learning, 2019, arXiv.[[PDF](https://arxiv.org/pdf/1911.04936.pdf)][[Code](https://github.com/qiang-ma/graph-pointer-network)]
 - 【MDAM】Multi-Decoder Attention Model with Embedding Glimpse for Solving Vehicle Routing Problems, 2020, AAAI.[[PDF](https://arxiv.org/abs/2012.10638)][[Code](https://github.com/liangxinedu/MDAM)]
 - Step-wise Deep Learning Models for Solving Routing Problems, 2020, TII.[[PDF](https://ieeexplore.ieee.org/document/9226142)][[Code](https://github.com/liangxinedu/stepwise)]
-- A Deep Reinforcement Learning Algorithm Using Dynamic Attention Model for Vehicle Routing Problems, 2022, ECML-PKDD.[[PDF](https://arxiv.org/abs/2002.03282)][[Code](https://github.com/Roberto09/Dynamic-Attention-Model-for-VRP---Pytorch)]
+- A Deep Reinforcement Learning Algorithm Using Dynamic Attention Model for Vehicle Routing Problems, 2022, ISICA.[[PDF](https://arxiv.org/abs/2002.03282)][[Code](https://github.com/Roberto09/Dynamic-Attention-Model-for-VRP---Pytorch)]
 # Contact me
 - 📧email： jinkundong@bjtu.edu.cn
 - 🤙blog： [JKDong's Blog](https://blog.csdn.net/dongjinkun?spm=1010.2135.3001.5343)
