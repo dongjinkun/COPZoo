@@ -70,6 +70,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - 【RBG】Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, 2022, KDD.[[PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539037)][None]
 - 【SADM】Attention, Filling in The Gaps for Generalization in Routing Problems, 2022, ECML-PKDD.[[PDF](https://arxiv.org/abs/2207.07212)][None]
 ## 2021
+- Step-Wise Deep Learning Models for Solving Routing Problems, 2021, TII.[[PDF](https://ieeexplore.ieee.org/document/9226142)][[Code](https://github.com/liangxinedu/stepwise)]
 - 【Att-GCRN】Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, 2021, AAAI.[[PDF](https://arxiv.org/pdf/2012.10658.pdf)][[Code](https://github.com/Spider-scnu/TSP)]
 - LEARNING A LATENT SEARCH SPACE FOR ROUTING PROBLEMS USING VARIATIONAL AUTOENCODERS, 2021, ICLR.[[PDF](https://openreview.net/pdf?id=90JprVrJBO)][[Code](https://github.com/ahottung/CVAE-Opt)]
 - Deep Policy Dynamic Programming for Vehicle Routing Problems, 2021.[[PDF](https://arxiv.org/pdf/2102.11756.pdf)][[Code](https://github.com/wouterkool/dpdp)]
