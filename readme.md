@@ -30,7 +30,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - 【mEGAT】SYMMETRY-PRESERVING GRAPH ATTENTION NETWORK TO SOLVE ROUTING PROBLEMS AT MULTIPLE RESOLUTIONS, 2024, arXiv.[[PDF](https://arxiv.org/abs/2310.15543)][[Code](https://github.com/HySonLab/Multires-NP-hard)]
 - Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization, 2014, arXiv.[[PDF](https://arxiv.org/abs/2402.16891v1)][None]
 ## 2023
-- 【UTSP】Unsupervised Learning for solving the TSP, 2023, NeurIPS.[[PDF](https://arxiv.org/abs/2303.10538)][[Code]()]
+- 【UTSP】Unsupervised Learning for solving the TSP, 2023, NeurIPS.[[PDF](https://arxiv.org/abs/2303.10538)][[Code](https://github.com/yimengmin/UTSP)]
 - 【FER】Learning Feature Embedding Refiner for Solving Vehicle Routing Problems, 2023, TNNLS.[[PDF](https://ieeexplore.ieee.org/document/10160045)][[Code](https://github.com/Demon0312/Feature-Embedding-Refiner)]
 - 【Poppy】Population-based reinforcement learning for combinatorial optimization, 2023, ICLR.[[PDF](https://openreview.net/forum?id=JRFSLFyYAII)][[Code](https://github.com/instadeepai/poppy)]
 - 【COMPASS】Combinatorial Optimization with Policy Adaptation using Latent Space Search, 2023, NeurIPS.[[PDF](https://arxiv.org/abs/2311.13569)][[Code](https://github.com/instadeepai/compass)]
