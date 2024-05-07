@@ -29,6 +29,8 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - 【ELG】Towards Generalizable Neural Solvers for Vehicle Routing Problems via Ensemble with Transferrable Local Policy, 2024, arXiv.[[PDF](https://arxiv.org/abs/2308.14104)][[Code](https://github.com/gaocrr/elg)]
 - 【mEGAT】SYMMETRY-PRESERVING GRAPH ATTENTION NETWORK TO SOLVE ROUTING PROBLEMS AT MULTIPLE RESOLUTIONS, 2024, arXiv.[[PDF](https://arxiv.org/abs/2310.15543)][[Code](https://github.com/HySonLab/Multires-NP-hard)]
 - Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization, 2014, arXiv.[[PDF](https://arxiv.org/abs/2402.16891v1)][None]
+- 【SIL】Self-Improved Learning for Scalable Neural Combinatorial Optimization, 2024, arXiv.[[PDF](https://arxiv.org/pdf/2403.19561)][None]
+- 【LCH-Regret】Learning Encodings for Constructive Neural Combinatorial Optimization Needs to Regret, 2024, AAAI.[[PDF](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LCH-Regret)][[Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LCH-Regret)]
 ## 2023
 - 【UTSP】Unsupervised Learning for solving the TSP, 2023, NeurIPS.[[PDF](https://arxiv.org/abs/2303.10538)][[Code](https://github.com/yimengmin/UTSP)]
 - 【FER】Learning Feature Embedding Refiner for Solving Vehicle Routing Problems, 2023, TNNLS.[[PDF](https://ieeexplore.ieee.org/document/10160045)][[Code](https://github.com/Demon0312/Feature-Embedding-Refiner)]
@@ -54,6 +56,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - BOOSTING DIFFERENTIABLE CAUSAL DISCOVERY VIA ADAPTIVE SAMPLE REWEIGHTING, 2023, ICLR.[[PDF](https://arxiv.org/abs/2303.03187)][[Code](https://github.com/anzhang314/ReScore
 )]
 - 【DeepACO】DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization, 2023, NeurIPS.[[PDF](https://arxiv.org/abs/2309.14032)][[Code](https://github.com/henry-yeh/DeepACO)]
+- 【BQ-NCO】BQ-NCO: Bisimulation Quotienting for Efficient Neural Combinatorial Optimization, 2023, NIPS.[[PDF](https://arxiv.org/abs/2301.03313)][[Code](https://github.com/naver/bq-nco)]
 ## 2022
 - 【Sym-NCO】Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization, 2022, NeurIPS.[[PDF](https://arxiv.org/abs/2205.13209)][[Code](https://github.com/fedebotu/Sym-NCO/blob/main/README.md)]
 - Learning to Solve Routing Problems via Distributionally Robust Optimization, 2022, AAAI.[[PDF](https://arxiv.org/pdf/2202.07241.pdf)][[Code](https://github.com/jiang-yuan/Learning-routing-DRO)]
