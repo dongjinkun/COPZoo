@@ -67,7 +67,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Learning the Travelling Salesperson Problem Requires Rethinking Generalization, 2022, arXiv.[[PDF](https://arxiv.org/pdf/2006.07054.pdf)][[Code](https://github.com/chaitjo/learning-tsp)]
 - Learning to Solve Travelling Salesman Problem with Hardness-Adaptive Curriculum, 2022, AAAI.[[PDF](https://arxiv.org/pdf/2204.03236.pdf)][None]
 - A GAME-THEORETIC APPROACH FOR IMPROVING GENERALIZATION ABILITY OF TSP SOLVERS, 2022, ICLR.[[PDF](https://arxiv.org/pdf/2110.15105.pdf)][None]
-- Simulation-guided Beam Search for Neural Combinatorial Optimization, 2022, NeurIPS.[[PDF](https://arxiv.org/pdf/2207.06190.pdf)][[Code](https://github.com/yd-kwon/SGBS)]
+- 【SGBS】Simulation-guided Beam Search for Neural Combinatorial Optimization, 2022, NeurIPS.[[PDF](https://arxiv.org/pdf/2207.06190.pdf)][[Code](https://github.com/yd-kwon/SGBS)]
 - Large Neighborhood Search based on Neural Construction Heuristics, 2022, arXiv.[[PDF](https://arxiv.org/pdf/2205.00772.pdf)][[Code](https://github.com/jokofa/JAMPR_plus)]
 - Reinforced Hybrid Genetic Algorithm for the Traveling Salesman Problem, 2022, Computers & Operations Research.[[PDF](https://arxiv.org/pdf/2107.06870.pdf)][None]
 - 【RBG】Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, 2022, KDD.[[PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539037)][None]
