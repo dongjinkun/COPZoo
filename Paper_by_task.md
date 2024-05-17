@@ -20,7 +20,7 @@
 
 ## Cross-scale generalization
 | Abb | Paper | Year | J/C | Level |PaperLink | CodeLink |
-|:-------:|:-------:|:-------:|:---------:|:-------:|:-------|:-------|
+|:-------:|:-------:|:-------:|:---------:|:-------:|:-------:|:-------:|
 | ELG | Towards Generalizable Neural Solvers for Vehicle Routing Problems via Ensemble with Transferrable Local Policy | 2024 |IJCAI|CCF-A|[PDF](https://arxiv.org/abs/2308.14104)|[Code](https://github.com/gaocrr/elg)|
 |Meta-SAGE|Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization|2023|ICML|CCF-A|[PDF](https://arxiv.org/pdf/2306.02688.pdf)|[Code](https://github.com/kaist-silab/meta-sage)|
 |Omni-VRP|Towards Omni-generalizable Neural Methods for Vehicle Routing Problems|2023|ICML|CCF-A|[PDF](https://arxiv.org/pdf/2305.19587.pdf)|[Code](https://github.com/RoyalSkye/Omni-VRP)|
@@ -30,7 +30,7 @@
 
 ## Cross-distribution generalization
 | Abb | Paper | Year | J/C | Level |PaperLink | CodeLink |
-|:-------:|:-------:|:-------:|:---------:|:-------:|:-------|:-------|
+|:-------:|:-------:|:-------:|:---------:|:-------:|:-------:|:-------:|
 |AMDKD|Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation|2022|NIPS|CCF-A|[PDF](https://arxiv.org/pdf/2210.07686.pdf)|[Code](https://github.com/jieyibi/AMDKD)|
 |MVGCL|Multi-View Graph Contrastive Learning for Solving Vehicle Routing Problems|2023|UAI|CCF-B|[PDF](https://proceedings.mlr.press/v216/jiang23a/jiang23a.pdf)||
 |T2T|T2T: From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization|2023|NIPS|CCF-A|||
