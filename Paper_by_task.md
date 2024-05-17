@@ -6,11 +6,11 @@
 | Att-GCRN | Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instance | 2021 |AAAI|CCF-A|[PDF](https://arxiv.org/pdf/2012.10658.pdf)|[Code](https://github.com/Spider-scnu/TSP)|
 | GLOP | GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time | 2024 |AAAI|CCF-A|[PDF](https://arxiv.org/pdf/2312.08224.pdf)|[Code](https://github.com/henry-yeh/GLOP)|
 | HDR | A Hierarchical Destroy and Repair Approach for Solving Very Large-Scale Travelling Salesman Problem | 2023 |arXiv|None|[PDF](https://arxiv.org/pdf/2308.04639.pdf)||
-| SO | Select and Optimize: Learning to solve large-scale TSP instances | 2023 |AISTATS|CCF-C|[PDF](https://proceedings.mlr.press/v206/cheng23a/cheng23a.pdf|[Code](https://github.com/honey0920/select-and-optimize)|
+| SO | Select and Optimize: Learning to solve large-scale TSP instances | 2023 |AISTATS|CCF-C|[PDF](https://proceedings.mlr.press/v206/cheng23a/cheng23a.pdf)|[Code](https://github.com/honey0920/select-and-optimize)|
 | LCP | Learning Collaborative Policies to Solve NP-hard Routing Problems | 2021 |Nips|CCF-A|[PDF](https://arxiv.org/abs/2110.13987)|[Code](https://github.com/alstn12088/LCP)|
 | DIMES | DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems | 2022 |Nips|CCF-A|[PDF](https://arxiv.org/pdf/2210.04123.pdf)|[Code](https://github.com/DIMESTeam/DIMES)|
 | H-TSP | H-TSP: Hierarchically Solving the Large-Scale Travelling Salesman Problem | 2023 |AAAI|CCF-A|[PDF](https://arxiv.org/pdf/2304.09395.pdf)|[Code](https://github.com/Learning4Optimization-HUST/H-TSP)|
-| LEHD | Neural Combinatorial Optimization with Heavy Decoder: Toward Large Scale Generalization | 2023 |Nips|CCF-A|[PDF](https://arxiv.org/pdf/2310.07985.pdf|[Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LEHD)|
+| LEHD | Neural Combinatorial Optimization with Heavy Decoder: Toward Large Scale Generalization | 2023 |Nips|CCF-A|[PDF](https://arxiv.org/pdf/2310.07985.pdf)|[Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LEHD)|
 | tspformer | Memory-efficient Transformer-based network model for Traveling Salesman Problem | 2023 |Neural Networks|CCF-C|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000771)|[Code](https://github.com/yhnju/tspFormer)|
 | SIL | Self-Improved Learning for Scalable Neural Combinatorial Optimization | 2024 |arXiv| None|[PDF](https://arxiv.org/pdf/2403.19561)||
 | NRR |Too Big, so Fail? – Enabling Neural Construction Methods to Solve Large-Scale Routing Problems|2023|arXiv|None|||
@@ -26,7 +26,7 @@
 |Omni-VRP|Towards Omni-generalizable Neural Methods for Vehicle Routing Problems|2023|ICML|CCF-A|[PDF](https://arxiv.org/pdf/2305.19587.pdf)|[Code](https://github.com/RoyalSkye/Omni-VRP)|
 |COMPASS|Combinatorial Optimization with Policy Adaptation using Latent Space Search|2023|NIPS|CCF-A|[PDF](https://arxiv.org/abs/2311.13569)|[Code](https://github.com/instadeepai/compass)|
 |Poppy|Winner Takes It All: Training Performant RL Populations for Combinatorial Optimization|2023|NIPS|CCF-A|||
-|LEHD|Neural Combinatorial Optimization with Heavy Decoder: Toward Large Scale Generalization|2023|NIPS|CCF-A|[PDF](https://arxiv.org/pdf/2310.07985.pdf|[Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LEHD)|
+|LEHD|Neural Combinatorial Optimization with Heavy Decoder: Toward Large Scale Generalization|2023|NIPS|CCF-A|[PDF](https://arxiv.org/pdf/2310.07985.pdf)|[Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LEHD)|
 
 ## Cross-distribution generalization
 | Abb | Paper | Year | J/C | Level |PaperLink | CodeLink |
