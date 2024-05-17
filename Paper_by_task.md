@@ -29,10 +29,12 @@
 |LEHD|Neural Combinatorial Optimization with Heavy Decoder: Toward Large Scale Generalization|2023|NIPS|CCF-A|||
 
 ## Cross-distribution generalization
+| Abb | Paper | Year | J/C | Level |PaperLink | CodeLink |
+|:-------:|:-------:|:-------:|:---------:|:-------:|:-------|:-------|
 |AMDKD|Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation|2022|NIPS|CCF-A|||
 |MVGCL|Multi-View Graph Contrastive Learning for Solving Vehicle Routing Problems|2023|UAI|CCF-B|||
 |T2T|T2T: From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization|2023|NIPS|CCF-A|||
-|INViT|INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer|2024|arXiv||||
+|INViT|INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer|2024|arXiv|None|||
 |EL-DRL|Ensemble-based Deep Reinforcement Learning for Vehicle Routing Problems under Distribution Shift|2023|NIPS|CCF-A|||
 
 
