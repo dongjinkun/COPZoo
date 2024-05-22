@@ -58,7 +58,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - 【DeepACO】DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization, 2023, NeurIPS.[[PDF](https://arxiv.org/abs/2309.14032)][[Code](https://github.com/henry-yeh/DeepACO)]
 - 【BQ-NCO】BQ-NCO: Bisimulation Quotienting for Efficient Neural Combinatorial Optimization, 2023, NIPS.[[PDF](https://arxiv.org/abs/2301.03313)][[Code](https://github.com/naver/bq-nco)]
 - 【RL-CSL】RL-CSL: A Combinatorial Optimization Method Using Reinforcement Learning and Contrastive Self-Supervised Learning, 2023, TETCI.[[PDF](https://ieeexplore.ieee.org/document/9690950)][[Code](https://github.com/zjyuan1208/CPC_AM_master)]
-## other
+## 2022
 - 【Sym-NCO】Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization, 2022, NeurIPS.[[PDF](https://arxiv.org/abs/2205.13209)][[Code](https://github.com/fedebotu/Sym-NCO/blob/main/README.md)]
 - Learning to Solve Routing Problems via Distributionally Robust Optimization, 2022, AAAI.[[PDF](https://arxiv.org/pdf/2202.07241.pdf)][[Code](https://github.com/jiang-yuan/Learning-routing-DRO)]
 - 【AMDKD】Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation, 2022, NeurIPS.[[PDF](https://arxiv.org/pdf/2210.07686.pdf)][[Code](https://github.com/jieyibi/AMDKD)]
@@ -72,6 +72,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Large Neighborhood Search based on Neural Construction Heuristics, 2022, arXiv.[[PDF](https://arxiv.org/pdf/2205.00772.pdf)][[Code](https://github.com/jokofa/JAMPR_plus)]
 - Reinforced Hybrid Genetic Algorithm for the Traveling Salesman Problem, 2022, Computers & Operations Research.[[PDF](https://arxiv.org/pdf/2107.06870.pdf)][None]
 - 【RBG】Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, 2022, KDD.[[PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539037)][None]
+## other
 - 【SADM】Attention, Filling in The Gaps for Generalization in Routing Problems, 2022, ECML-PKDD.[[PDF](https://arxiv.org/abs/2207.07212)][None]
 - 【Att-GCRN】Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, 2021, AAAI.[[PDF](https://arxiv.org/pdf/2012.10658.pdf)][[Code](https://github.com/Spider-scnu/TSP)]
 - LEARNING A LATENT SEARCH SPACE FOR ROUTING PROBLEMS USING VARIATIONAL AUTOENCODERS, 2021, ICLR.[[PDF](https://openreview.net/pdf?id=90JprVrJBO)][[Code](https://github.com/ahottung/CVAE-Opt)]
