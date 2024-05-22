@@ -58,7 +58,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - 【DeepACO】DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization, 2023, NeurIPS.[[PDF](https://arxiv.org/abs/2309.14032)][[Code](https://github.com/henry-yeh/DeepACO)]
 - 【BQ-NCO】BQ-NCO: Bisimulation Quotienting for Efficient Neural Combinatorial Optimization, 2023, NIPS.[[PDF](https://arxiv.org/abs/2301.03313)][[Code](https://github.com/naver/bq-nco)]
 - 【RL-CSL】RL-CSL: A Combinatorial Optimization Method Using Reinforcement Learning and Contrastive Self-Supervised Learning, 2023, TETCI.[[PDF](https://ieeexplore.ieee.org/document/9690950)][[Code](https://github.com/zjyuan1208/CPC_AM_master)]
-## 2022
+## other
 - 【Sym-NCO】Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization, 2022, NeurIPS.[[PDF](https://arxiv.org/abs/2205.13209)][[Code](https://github.com/fedebotu/Sym-NCO/blob/main/README.md)]
 - Learning to Solve Routing Problems via Distributionally Robust Optimization, 2022, AAAI.[[PDF](https://arxiv.org/pdf/2202.07241.pdf)][[Code](https://github.com/jiang-yuan/Learning-routing-DRO)]
 - 【AMDKD】Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation, 2022, NeurIPS.[[PDF](https://arxiv.org/pdf/2210.07686.pdf)][[Code](https://github.com/jieyibi/AMDKD)]
@@ -73,7 +73,6 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Reinforced Hybrid Genetic Algorithm for the Traveling Salesman Problem, 2022, Computers & Operations Research.[[PDF](https://arxiv.org/pdf/2107.06870.pdf)][None]
 - 【RBG】Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, 2022, KDD.[[PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539037)][None]
 - 【SADM】Attention, Filling in The Gaps for Generalization in Routing Problems, 2022, ECML-PKDD.[[PDF](https://arxiv.org/abs/2207.07212)][None]
-## 2021
 - 【Att-GCRN】Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, 2021, AAAI.[[PDF](https://arxiv.org/pdf/2012.10658.pdf)][[Code](https://github.com/Spider-scnu/TSP)]
 - LEARNING A LATENT SEARCH SPACE FOR ROUTING PROBLEMS USING VARIATIONAL AUTOENCODERS, 2021, ICLR.[[PDF](https://openreview.net/pdf?id=90JprVrJBO)][[Code](https://github.com/ahottung/CVAE-Opt)]
 - Deep Policy Dynamic Programming for Vehicle Routing Problems, 2021.[[PDF](https://arxiv.org/pdf/2102.11756.pdf)][[Code](https://github.com/wouterkool/dpdp)]
@@ -81,7 +80,6 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - 【LCP】Learning Collaborative Policies to Solve NP-hard Routing Problems, 2021, NeurIPS.[[PDF](https://arxiv.org/abs/2110.13987)][[Code](https://github.com/alstn12088/LCP)]
 - 【DACT】Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer, 2021, NeurIPS.[[PDF](https://arxiv.org/abs/2110.02544)][[Code](https://github.com/yining043/VRP-DACT?tab=readme-ov-file)]
 - 【MatNet】Matrix Encoding Networks for Neural Combinatorial Optimization, 2021, NIPS.[[PDF](https://arxiv.org/abs/2106.11113)][[Code](https://github.com/yd-kwon/MatNet)]
-## other
 - Pointer Networks, 2017, NeurIPS.[[PDF](https://arxiv.org/pdf/1506.03134.pdf)][[Code](https://github.com/shirgur/pointernet)]
 - 【GCN】An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, 2019, INFORMS.[[PDF](https://arxiv.org/pdf/1906.01227.pdf)][[Code](https://github.com/chaitjo/graph-convnet-tsp)]
 - :star:【AM】ATTENTION, LEARN TO SOLVE ROUTING PROBLEMS!, 2019, ICLR.[[PDF](https://arxiv.org/pdf/1803.08475.pdf)][[Code](https://github.com/wouterkool/attention-learn-to-route)]
