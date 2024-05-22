@@ -28,7 +28,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Deep Reinforcement Learning for Dynamic Capacitated Vehicle Routing Problem, 2024, ICLR.[[PDF](https://openreview.net/pdf?id=Gs8jWk0F01)][None]
 - 【ELG】Towards Generalizable Neural Solvers for Vehicle Routing Problems via Ensemble with Transferrable Local Policy, 2024, IJCAI.[[PDF](https://arxiv.org/abs/2308.14104)][[Code](https://github.com/gaocrr/elg)]
 - 【mEGAT】SYMMETRY-PRESERVING GRAPH ATTENTION NETWORK TO SOLVE ROUTING PROBLEMS AT MULTIPLE RESOLUTIONS, 2024, arXiv.[[PDF](https://arxiv.org/abs/2310.15543)][[Code](https://github.com/HySonLab/Multires-NP-hard)]
-- Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization, 2014, arXiv.[[PDF](https://arxiv.org/abs/2402.16891v1)][None]
+- Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization, 2024, arXiv.[[PDF](https://arxiv.org/abs/2402.16891v1)][None]
 - 【SIL】Self-Improved Learning for Scalable Neural Combinatorial Optimization, 2024, arXiv.[[PDF](https://arxiv.org/pdf/2403.19561)][None]
 - 【LCH-Regret】Learning Encodings for Constructive Neural Combinatorial Optimization Needs to Regret, 2024, AAAI.[[PDF](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LCH-Regret)][[Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LCH-Regret)]
 ## 2023
@@ -57,6 +57,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 )]
 - 【DeepACO】DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization, 2023, NeurIPS.[[PDF](https://arxiv.org/abs/2309.14032)][[Code](https://github.com/henry-yeh/DeepACO)]
 - 【BQ-NCO】BQ-NCO: Bisimulation Quotienting for Efficient Neural Combinatorial Optimization, 2023, NIPS.[[PDF](https://arxiv.org/abs/2301.03313)][[Code](https://github.com/naver/bq-nco)]
+- 【RL-CSL】RL-CSL: A Combinatorial Optimization Method Using Reinforcement Learning and Contrastive Self-Supervised Learning, 2023, TETCI.[[PDF](https://ieeexplore.ieee.org/document/9690950)][[Code](https://github.com/zjyuan1208/CPC_AM_master)]
 ## 2022
 - 【Sym-NCO】Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization, 2022, NeurIPS.[[PDF](https://arxiv.org/abs/2205.13209)][[Code](https://github.com/fedebotu/Sym-NCO/blob/main/README.md)]
 - Learning to Solve Routing Problems via Distributionally Robust Optimization, 2022, AAAI.[[PDF](https://arxiv.org/pdf/2202.07241.pdf)][[Code](https://github.com/jiang-yuan/Learning-routing-DRO)]
@@ -77,8 +78,9 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - LEARNING A LATENT SEARCH SPACE FOR ROUTING PROBLEMS USING VARIATIONAL AUTOENCODERS, 2021, ICLR.[[PDF](https://openreview.net/pdf?id=90JprVrJBO)][[Code](https://github.com/ahottung/CVAE-Opt)]
 - Deep Policy Dynamic Programming for Vehicle Routing Problems, 2021.[[PDF](https://arxiv.org/pdf/2102.11756.pdf)][[Code](https://github.com/wouterkool/dpdp)]
 - 【NeuroLKH】NeuroLKH: Combining Deep Learning Model with Lin-Kernighan-Helsgaun Heuristic for Solving the Traveling Salesman Problem, 2021, NeurIPS.[[PDF](https://arxiv.org/pdf/2110.07983.pdf)][[Code](https://github.com/liangxinedu/NeuroLKH)]
-- :star:【LCP】Learning Collaborative Policies to Solve NP-hard Routing Problems, 2021, NeurIPS.[[PDF](https://arxiv.org/abs/2110.13987)][[Code](https://github.com/alstn12088/LCP)]
+- 【LCP】Learning Collaborative Policies to Solve NP-hard Routing Problems, 2021, NeurIPS.[[PDF](https://arxiv.org/abs/2110.13987)][[Code](https://github.com/alstn12088/LCP)]
 - 【DACT】Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer, 2021, NeurIPS.[[PDF](https://arxiv.org/abs/2110.02544)][[Code](https://github.com/yining043/VRP-DACT?tab=readme-ov-file)]
+- 【MatNet】Matrix Encoding Networks for Neural Combinatorial Optimization, 2021, NIPS.[[PDF](https://arxiv.org/abs/2106.11113)][[Code](https://github.com/yd-kwon/MatNet)]
 ## other
 - Pointer Networks, 2017, NeurIPS.[[PDF](https://arxiv.org/pdf/1506.03134.pdf)][[Code](https://github.com/shirgur/pointernet)]
 - 【GCN】An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, 2019, INFORMS.[[PDF](https://arxiv.org/pdf/1906.01227.pdf)][[Code](https://github.com/chaitjo/graph-convnet-tsp)]
