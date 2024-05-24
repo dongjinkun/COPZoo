@@ -31,6 +31,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization, 2024, arXiv.[[PDF](https://arxiv.org/abs/2402.16891v1)][None]
 - 【SIL】Self-Improved Learning for Scalable Neural Combinatorial Optimization, 2024, arXiv.[[PDF](https://arxiv.org/pdf/2403.19561)][None]
 - 【LCH-Regret】Learning Encodings for Constructive Neural Combinatorial Optimization Needs to Regret, 2024, AAAI.[[PDF](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LCH-Regret)][[Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LCH-Regret)]
+- 【Moco】MOCO: A Learnable Meta Optimizer for Combinatorial Optimization, 2024, arXiv.[[PDF](https://arxiv.org/abs/2402.04915)][[Code](https://github.com/TimD3/Moco/blob/main/README.md)]
 ## 2023
 - 【UTSP】Unsupervised Learning for solving the TSP, 2023, NeurIPS.[[PDF](https://arxiv.org/abs/2303.10538)][[Code](https://github.com/yimengmin/UTSP)]
 - 【FER】Learning Feature Embedding Refiner for Solving Vehicle Routing Problems, 2023, TNNLS.[[PDF](https://ieeexplore.ieee.org/document/10160045)][[Code](https://github.com/Demon0312/Feature-Embedding-Refiner)]
