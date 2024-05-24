@@ -38,6 +38,14 @@
 |EL-DRL|Ensemble-based Deep Reinforcement Learning for Vehicle Routing Problems under Distribution Shift|2023|NIPS|CCF-A|||
 
 
+## Cross-problem generalization
+| Abb | Paper | Year | J/C | Level |PaperLink | CodeLink |
+|:-------:|:-------:|:-------:|:---------:|:-------:|:-------:|:-------:|
+|MTNCO|Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization|2024|arXiv|None|[PDF](https://arxiv.org/abs/2402.16891)|[Code](https://github.com/FeiLiu36/MTNCO)|
+||Cross-Problem Learning for Solving Vehicle Routing Problems|2024|IJCAI|CCF-A|[PDF](https://arxiv.org/abs/2404.11677)|None|
+
+
+
 
 
 
