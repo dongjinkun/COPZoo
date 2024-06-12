@@ -33,6 +33,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - 【LCH-Regret】Learning Encodings for Constructive Neural Combinatorial Optimization Needs to Regret, 2024, AAAI.[[PDF](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LCH-Regret)][[Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LCH-Regret)]
 - 【Moco】MOCO: A Learnable Meta Optimizer for Combinatorial Optimization, 2024, arXiv.[[PDF](https://arxiv.org/abs/2402.04915)][[Code](https://github.com/TimD3/Moco/blob/main/README.md)]
 ## 2023
+- 【IIL】IMITATION IMPROVEMENT LEARNING FOR LARGESCALE CAPACITATED VEHICLE ROUTING PROBLEMS, 2023, ICAPS.[[PDF](https://dl.acm.org/doi/10.1609/icaps.v33i1.27236)][[Code](https://github.com/vietbtx/VRPpp)]
 - 【UTSP】Unsupervised Learning for solving the TSP, 2023, NeurIPS.[[PDF](https://arxiv.org/abs/2303.10538)][[Code](https://github.com/yimengmin/UTSP)]
 - 【FER】Learning Feature Embedding Refiner for Solving Vehicle Routing Problems, 2023, TNNLS.[[PDF](https://ieeexplore.ieee.org/document/10160045)][[Code](https://github.com/Demon0312/Feature-Embedding-Refiner)]
 - 【Poppy】Population-based reinforcement learning for combinatorial optimization, 2023, ICLR.[[PDF](https://openreview.net/forum?id=JRFSLFyYAII)][[Code](https://github.com/instadeepai/poppy)]
@@ -74,6 +75,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Reinforced Hybrid Genetic Algorithm for the Traveling Salesman Problem, 2022, Computers & Operations Research.[[PDF](https://arxiv.org/pdf/2107.06870.pdf)][None]
 - 【RBG】Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, 2022, KDD.[[PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539037)][None]
 ## other
+- Learning 2‑Opt Heuristics for Routing Problems via Deep Reinforcement Learning, 2021, SN Computer Science.[[PDF](https://link.springer.com/article/10.1007/s42979-021-00779-2)][[Code](https://github.com/paulorocosta/learning-2opt-drl)]
 - 【SADM】Attention, Filling in The Gaps for Generalization in Routing Problems, 2022, ECML-PKDD.[[PDF](https://arxiv.org/abs/2207.07212)][None]
 - 【Att-GCRN】Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, 2021, AAAI.[[PDF](https://arxiv.org/pdf/2012.10658.pdf)][[Code](https://github.com/Spider-scnu/TSP)]
 - LEARNING A LATENT SEARCH SPACE FOR ROUTING PROBLEMS USING VARIATIONAL AUTOENCODERS, 2021, ICLR.[[PDF](https://openreview.net/pdf?id=90JprVrJBO)][[Code](https://github.com/ahottung/CVAE-Opt)]
