@@ -34,6 +34,8 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - 【SIL】Self-Improved Learning for Scalable Neural Combinatorial Optimization, 2024, arXiv.[[PDF](https://arxiv.org/pdf/2403.19561)]
 - 【LCH-Regret】Learning Encodings for Constructive Neural Combinatorial Optimization Needs to Regret, 2024, AAAI.[[PDF](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LCH-Regret)][[Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LCH-Regret)]
 - 【Moco】MOCO: A Learnable Meta Optimizer for Combinatorial Optimization, 2024, arXiv.[[PDF](https://arxiv.org/abs/2402.04915)][[Code](https://github.com/TimD3/Moco/blob/main/README.md)]
+- 【Position】Position: Rethinking Post-Hoc Search-Based Neural Approaches for Solving Large-Scale Traveling Salesman Problems, ICML, 2024.[[PDF](https://arxiv.org/abs/2406.03503)][[Code](https://github.com/xyfffff/rethink_mcts_for_tsp)]
+- 【ESF-DS】Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture, arXiv, 2024.[[PDF](https://arxiv.org/abs/2406.06652)][[Code](https://github.com/xybFight/VRP-Generalization)]
 ## 2023
 - 【IIL】IMITATION IMPROVEMENT LEARNING FOR LARGESCALE CAPACITATED VEHICLE ROUTING PROBLEMS, 2023, ICAPS.[[PDF](https://dl.acm.org/doi/10.1609/icaps.v33i1.27236)][[Code](https://github.com/vietbtx/VRPpp)]
 - 【UTSP】Unsupervised Learning for solving the TSP, 2023, NeurIPS.[[PDF](https://arxiv.org/abs/2303.10538)][[Code](https://github.com/yimengmin/UTSP)]
