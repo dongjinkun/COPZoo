@@ -10,11 +10,11 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - [[Tsinghua ranking](https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)]
 # Neural Combinatorial Optimization(NCO)
 ## Survey
-- Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, Bengio, 2018, European Journal of Operations Research.[[PDF](https://arxiv.org/abs/1811.06128)]
-- Learning to Solve Vehicle Routing Problems: A Survey, 2022.[[PDF](https://arxiv.org/abs/2205.02453)]
+- 【Survey】Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, Bengio, 2018, European Journal of Operations Research.[[PDF](https://arxiv.org/abs/1811.06128)]
+- 【Survey】Learning to Solve Vehicle Routing Problems: A Survey, T-ITS, 2022.[[PDF](https://arxiv.org/abs/2205.02453)]
+- 【Survey】Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives, 2024. [[PDF](https://arxiv.org/pdf/2406.00415)]
 ## 2024
 - 【LR-POMO】Leader Reward for POMO-Based Neural Combinatorial Optimization, 2024, arXiv.[[PDF](https://arxiv.org/abs/2405.13947)][[None]()]
-- Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture, 2024, arXiv.[[PDF](https://arxiv.org/html/2406.06652v2)][[Code](https://github.com/xybFight/VRP-Generalization)]
 - 【INViT】INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer, 2024, arXiv.[[PDF](https://arxiv.org/abs/2402.02317)][[Code](https://github.com/Kasumigaoka-Utaha/INViT)]
 - 【GNARKD】Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, 2024, AAAI.[[PDF](https://arxiv.org/pdf/2312.12469.pdf)][[Code](https://github.com/xybFight/GNARKD)]
 - An adaptive variable neighbourhood search approach for the dynamic vehicle routing problem, 2024, Computers and Operations Research.[[PDF](https://www.sciencedirect.com/science/article/pii/S0305054824000030)]
@@ -36,6 +36,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - 【Moco】MOCO: A Learnable Meta Optimizer for Combinatorial Optimization, 2024, arXiv.[[PDF](https://arxiv.org/abs/2402.04915)][[Code](https://github.com/TimD3/Moco/blob/main/README.md)]
 - 【Position】Position: Rethinking Post-Hoc Search-Based Neural Approaches for Solving Large-Scale Traveling Salesman Problems, ICML, 2024.[[PDF](https://arxiv.org/abs/2406.03503)][[Code](https://github.com/xyfffff/rethink_mcts_for_tsp)]
 - 【ESF-DS】Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture, arXiv, 2024.[[PDF](https://arxiv.org/abs/2406.06652)][[Code](https://github.com/xybFight/VRP-Generalization)]
+- 【RouteFinder】RouteFinder: Towards Foundation Models for Vehicle Routing Problems, ICML, 2024.[[PDF](https://arxiv.org/abs/2406.15007)][[Code](https://github.com/ai4co/routefinder)]
 ## 2023
 - 【IIL】IMITATION IMPROVEMENT LEARNING FOR LARGESCALE CAPACITATED VEHICLE ROUTING PROBLEMS, 2023, ICAPS.[[PDF](https://dl.acm.org/doi/10.1609/icaps.v33i1.27236)][[Code](https://github.com/vietbtx/VRPpp)]
 - 【UTSP】Unsupervised Learning for solving the TSP, 2023, NeurIPS.[[PDF](https://arxiv.org/abs/2303.10538)][[Code](https://github.com/yimengmin/UTSP)]
@@ -79,6 +80,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Reinforced Hybrid Genetic Algorithm for the Traveling Salesman Problem, 2022, Computers & Operations Research.[[PDF](https://arxiv.org/pdf/2107.06870.pdf)][None]
 - 【RBG】Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, 2022, KDD.[[PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539037)][None]
 ## other
+- GENERALIZATION IN DEEP RL FOR TSP PROBLEMS VIA EQUIVARIANCE AND LOCAL SEARCH, 2021, SN Computer Science.[[PDF](https://arxiv.org/abs/2110.03595)][None]
 - Learning 2‑Opt Heuristics for Routing Problems via Deep Reinforcement Learning, 2021, SN Computer Science.[[PDF](https://link.springer.com/article/10.1007/s42979-021-00779-2)][[Code](https://github.com/paulorocosta/learning-2opt-drl)]
 - 【SADM】Attention, Filling in The Gaps for Generalization in Routing Problems, 2022, ECML-PKDD.[[PDF](https://arxiv.org/abs/2207.07212)][None]
 - 【Att-GCRN】Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, 2021, AAAI.[[PDF](https://arxiv.org/pdf/2012.10658.pdf)][[Code](https://github.com/Spider-scnu/TSP)]
