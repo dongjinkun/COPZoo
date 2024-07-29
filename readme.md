@@ -70,7 +70,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - Learning to Solve Routing Problems via Distributionally Robust Optimization, 2022, **_AAAI_**.[[PDF](https://arxiv.org/pdf/2202.07241.pdf)][[Code](https://github.com/jiang-yuan/Learning-routing-DRO)]
 - 【AMDKD】Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation, 2022, **_NeurIPS_**.[[PDF](https://arxiv.org/pdf/2210.07686.pdf)][[Code](https://github.com/jieyibi/AMDKD)]
 - 【DIMES】DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems, 2022, **_NeurIPS_**.[[PDF](https://arxiv.org/pdf/2210.04123.pdf)][[Code](https://github.com/DIMESTeam/DIMES)]
-- 【EAS】EFFICIENT ACTIVE SEARCH FOR COMBINATORIAL OPTIMIZATION PROBLEMS, 2022, ICLR.[[PDF](https://arxiv.org/pdf/2106.05126.pdf)][[Code](https://github.com/ahottung/EAS)]
+- 【EAS】EFFICIENT ACTIVE SEARCH FOR COMBINATORIAL OPTIMIZATION PROBLEMS, 2022, **_ICLR_**.[[PDF](https://arxiv.org/pdf/2106.05126.pdf)][[Code](https://github.com/ahottung/EAS)]
 - Graph Neural Network Guided Local Search for the Traveling Salesperson Problem, 2022, **_ICLR_**.[[PDF](https://arxiv.org/pdf/2110.05291.pdf)][[Code](https://github.com/proroklab/gnngls)]
 - Learning the Travelling Salesperson Problem Requires Rethinking Generalization, 2022, arXiv.[[PDF](https://arxiv.org/pdf/2006.07054.pdf)][[Code](https://github.com/chaitjo/learning-tsp)]
 - Learning to Solve Travelling Salesman Problem with Hardness-Adaptive Curriculum, 2022, **_AAAI_**.[[PDF](https://arxiv.org/pdf/2204.03236.pdf)][None]
