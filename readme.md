@@ -37,6 +37,7 @@ Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
 - 【Position】Position: Rethinking Post-Hoc Search-Based Neural Approaches for Solving Large-Scale Traveling Salesman Problems, **_ICML_**, 2024.[[PDF](https://arxiv.org/abs/2406.03503)][[Code](https://github.com/xyfffff/rethink_mcts_for_tsp)]
 - 【ESF-DS】Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture, arXiv, 2024.[[PDF](https://arxiv.org/abs/2406.06652)][[Code](https://github.com/xybFight/VRP-Generalization)]
 - 【RouteFinder】RouteFinder: Towards Foundation Models for Vehicle Routing Problems, **_ICML_**, 2024.[[PDF](https://arxiv.org/abs/2406.15007)][[Code](https://github.com/ai4co/routefinder)]
+- 【Step&Reconsider】Take a Step and Reconsider: Sequence Decoding for Self-Improved Neural Combinatorial Optimization, **_ECAI_**, 2024.[[PDF](https://arxiv.org/abs/2407.17206)][[Code](https://github.com/grimmlab/step-and-reconsider)]
 ## 2023
 - 【IIL】IMITATION IMPROVEMENT LEARNING FOR LARGESCALE CAPACITATED VEHICLE ROUTING PROBLEMS, 2023, **_ICAPS_**.[[PDF](https://dl.acm.org/doi/10.1609/icaps.v33i1.27236)][[Code](https://github.com/vietbtx/VRPpp)]
 - 【UTSP】Unsupervised Learning for solving the TSP, 2023, **_NeurIPS_**.[[PDF](https://arxiv.org/abs/2303.10538)][[Code](https://github.com/yimengmin/UTSP)]
