@@ -2,7 +2,7 @@
 - The full name of **COP** is **C**ombinatorial **O**ptimization **P**roblems.
 - The repository is devoted to sharing advanced and lasted papers that solve challenging Combinatorial Optimization Problems.
 # Biography
-Jinkun Dong is a first-year phd student at Beijing Jiaotong university.
+JinkunDong is a second-year phd student at Key Laboratory of Big Data & Artificial Intelligence in Transportation, Beijing Jiaotong university.
 # CCF ranking
 - [[CCF推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
 - [[CCF计算领域高质量科技期刊分级目录](https://www.ccf.org.cn/ccftjgjxskwml/)]
