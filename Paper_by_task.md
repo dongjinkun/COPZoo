@@ -34,7 +34,7 @@
 |AMDKD|Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation|2022|NIPS|CCF-A|[PDF](https://arxiv.org/pdf/2210.07686.pdf)|[Code](https://github.com/jieyibi/AMDKD)|
 |MVGCL|Multi-View Graph Contrastive Learning for Solving Vehicle Routing Problems|2023|UAI|CCF-B|[PDF](https://proceedings.mlr.press/v216/jiang23a/jiang23a.pdf)||
 |T2T|T2T: From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization|2023|NIPS|CCF-A|||
-|INViT|INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer|2024|arXiv|None|[PDF](https://arxiv.org/abs/2402.02317)||
+|INViT|INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer|2024|ICML|None|[PDF](https://arxiv.org/abs/2402.02317)||
 |EL-DRL|Ensemble-based Deep Reinforcement Learning for Vehicle Routing Problems under Distribution Shift|2023|NIPS|CCF-A|||
 
 
