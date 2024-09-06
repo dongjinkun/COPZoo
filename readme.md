@@ -14,6 +14,7 @@ JinkunDong is a second-year phd student at Key Laboratory of Big Data & Artifici
 - 【Survey】Learning to Solve Vehicle Routing Problems: A Survey, **_T-ITS_**, 2022.[[PDF](https://arxiv.org/abs/2205.02453)]
 - 【Survey】Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives, 2024. [[PDF](https://arxiv.org/pdf/2406.00415)]
 ## 2024
+- 【MEMENTO】Memory-Enhanced Neural Solvers for Efficient Adaptation in Combinatorial Optimization, 2024, arXiv.[[PDF](https://arxiv.org/abs/2408.03585)][[Code](https://github.com/instadeepai/memento)]
 - 【HNC】Hierarchical Neural Constructive Solver for Real-world TSP Scenarios, 2024, _**SIGKDD**_.[[PDF](https://arxiv.org/abs/2408.03585)][[None]()]
 - 【GD】Self-Improvement for Neural Combinatorial Optimization: Sample without Replacement, but Improvement, 2024, _**TMLR**_.[[PDF](https://arxiv.org/abs/2403.15180)][[Code](https://github.com/grimmlab/gumbeldore)]
 - 【LR-POMO】Leader Reward for POMO-Based Neural Combinatorial Optimization, 2024, arXiv.[[PDF](https://arxiv.org/abs/2405.13947)][[None]()]
