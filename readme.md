@@ -2,10 +2,10 @@
 - The full name of **COP** is **C**ombinatorial **O**ptimization **P**roblems.
 - The repository is devoted to sharing advanced and lasted papers that solve challenging Combinatorial Optimization Problems.
 # Biography
-JinkunDong is a second-year phd student at Key Laboratory of Big Data & Artificial Intelligence in Transportation, Beijing Jiaotong university.
+JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Beijing Jiaotong University.
 # CCF ranking
-- [[CCF推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
-- [[CCF计算领域高质量科技期刊分级目录](https://www.ccf.org.cn/ccftjgjxskwml/)]
+- [[CCF ranking](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
+- [[CCF ranking](https://www.ccf.org.cn/ccftjgjxskwml/)]
 # Tsinghua ranking
 - [[Tsinghua ranking](https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)]
 # Neural Combinatorial Optimization(NCO)
@@ -13,6 +13,7 @@ JinkunDong is a second-year phd student at Key Laboratory of Big Data & Artifici
 - 【Survey】Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, Bengio, 2018, European Journal of Operations Research.[[PDF](https://arxiv.org/abs/1811.06128)]
 - 【Survey】Learning to Solve Vehicle Routing Problems: A Survey, **_T-ITS_**, 2022.[[PDF](https://arxiv.org/abs/2205.02453)]
 - 【Survey】Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives, 2024. [[PDF](https://arxiv.org/pdf/2406.00415)]
+- 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _ **AIC**_, 2023. [[PDF](https://arxiv.org/abs/2008.12248)]
 ## 2024
 - 【MEMENTO】Memory-Enhanced Neural Solvers for Efficient Adaptation in Combinatorial Optimization, 2024, arXiv.[[PDF](https://arxiv.org/abs/2408.03585)][[Code](https://github.com/instadeepai/memento)]
 - 【HNC】Hierarchical Neural Constructive Solver for Real-world TSP Scenarios, 2024, _**SIGKDD**_.[[PDF](https://arxiv.org/abs/2408.03585)][[None]()]
