@@ -1,27 +1,22 @@
-# Welcome COP Zoo
+# 🦄🦄🦄Welcome COP Zoo
 - The full name of **COP** is **C**ombinatorial **O**ptimization **P**roblems.
 - The repository is devoted to sharing advanced and lasted papers that solve challenging Combinatorial Optimization Problems.
-# Biography
+# 🐯🐯🐯Biography
 JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Beijing Jiaotong University.
-# CCF ranking
-- [[CCF ranking](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
-- [[CCF ranking](https://www.ccf.org.cn/ccftjgjxskwml/)]
-# Tsinghua ranking
-- [[Tsinghua ranking](https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)]
-# Neural Combinatorial Optimization(NCO)
-## Survey
+# 🦌🦌🦌Neural Combinatorial Optimization(NCO)
+## 🐒🐒🐒Survey
 - 【Survey】Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, Bengio, 2018, European Journal of Operations Research.[[PDF](https://Preprint.org/abs/1811.06128)]
 - 【Survey】Learning to Solve Vehicle Routing Problems: A Survey, **_T-ITS_**, 2022.[[PDF](https://Preprint.org/abs/2205.02453)]
 - 【Survey】Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives, 2024. [[PDF](https://Preprint.org/pdf/2406.00415)]
 - 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _**AIC**_, 2023. [[PDF](https://Preprint.org/abs/2008.12248)]
-## 2024
+## 🦍🦍🦍2024
 - Prompt Learning for Generalized Vehicle Routing, 2024, _**IJCAI**_.[[PDF](https://Preprint.org/abs/2405.12262)][[Code](https://github.com/FeiLiu36/PromptVRP)]
-- 【DISCO】DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems, 2024, Preprint.[[PDF](https://Preprint.org/abs/2406.19705)][[None]()]
-- Instance-Conditioned Adaptation for Large-scale Generalization of Neural Combinatorial Optimization, 2024, Preprint. [[PDF](https://Preprint.org/abs/2405.01906)][[None]()]
+- 【DISCO】DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems, 2024, Preprint.[[PDF](https://Preprint.org/abs/2406.19705)]
+- Instance-Conditioned Adaptation for Large-scale Generalization of Neural Combinatorial Optimization, 2024, Preprint. [[PDF](https://Preprint.org/abs/2405.01906)]
 - 【MEMENTO】Memory-Enhanced Neural Solvers for Efficient Adaptation in Combinatorial Optimization, 2024, Preprint. [[PDF](https://Preprint.org/abs/2408.03585)][[Code](https://github.com/instadeepai/memento)]
-- 【HNC】Hierarchical Neural Constructive Solver for Real-world TSP Scenarios, 2024, _**SIGKDD**_.[[PDF](https://Preprint.org/abs/2408.03585)][[None]()]
+- 【HNC】Hierarchical Neural Constructive Solver for Real-world TSP Scenarios, 2024, _**SIGKDD**_.[[PDF](https://Preprint.org/abs/2408.03585)]
 - 【GD】Self-Improvement for Neural Combinatorial Optimization: Sample without Replacement, but Improvement, 2024, _**TMLR**_.[[PDF](https://Preprint.org/abs/2403.15180)][[Code](https://github.com/grimmlab/gumbeldore)]
-- 【LR-POMO】Leader Reward for POMO-Based Neural Combinatorial Optimization, 2024, Preprint.[[PDF](https://Preprint.org/abs/2405.13947)][[None]()]
+- 【LR-POMO】Leader Reward for POMO-Based Neural Combinatorial Optimization, 2024, Preprint.[[PDF](https://Preprint.org/abs/2405.13947)]
 - 【INViT】INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer, 2024, **_ICML_**.[[PDF](https://Preprint.org/abs/2402.02317)][[Code](https://github.com/Kasumigaoka-Utaha/INViT)]
 - 【GNARKD】Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, 2024, **_AAAI_**.[[PDF](https://Preprint.org/pdf/2312.12469.pdf)][[Code](https://github.com/xybFight/GNARKD)]
 - An adaptive variable neighborhood search approach for the dynamic vehicle routing problem, 2024, Computers and Operations Research.[[PDF](https://www.sciencedirect.com/science/article/pii/S0305054824000030)]
@@ -45,15 +40,15 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【ESF-DS】Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture, Preprint, 2024. [[PDF](https://Preprint.org/abs/2406.06652)][[Code](https://github.com/xybFight/VRP-Generalization)]
 - 【RouteFinder】RouteFinder: Towards Foundation Models for Vehicle Routing Problems, **_ICML_**, 2024.[[PDF](https://Preprint.org/abs/2406.15007)][[Code](https://github.com/ai4co/routefinder)]
 - 【Step&Reconsider】Take a Step and Reconsider: Sequence Decoding for Self-Improved Neural Combinatorial Optimization, **_ECAI_**, 2024. [[PDF](https://Preprint.org/abs/2407.17206)][[Code](https://github.com/grimmlab/step-and-reconsider)]
-## 2023
+## 🐕🐕🐕2023
 - 【IIL】IMITATION IMPROVEMENT LEARNING FOR LARGESCALE CAPACITATED VEHICLE ROUTING PROBLEMS, 2023, **_ICAPS_**.[[PDF](https://dl.acm.org/doi/10.1609/icaps.v33i1.27236)][[Code](https://github.com/vietbtx/VRPpp)]
 - 【UTSP】Unsupervised Learning for solving the TSP, 2023, **_NeurIPS_**.[[PDF](https://Preprint.org/abs/2303.10538)][[Code](https://github.com/yimengmin/UTSP)]
 - 【FER】Learning Feature Embedding Refiner for Solving Vehicle Routing Problems, 2023, **_TNNLS_**.[[PDF](https://ieeexplore.ieee.org/document/10160045)][[Code](https://github.com/Demon0312/Feature-Embedding-Refiner)]
 - 【Poppy】Population-based reinforcement learning for combinatorial optimization, 2023, **_NeurIPS_**.[[PDF](https://openreview.net/forum?id=JRFSLFyYAII)][[Code](https://github.com/instadeepai/poppy)]
 - 【COMPASS】Combinatorial Optimization with Policy Adaptation using Latent Space Search, 2023, **_NeurIPS_**.[[PDF](https://Preprint.org/abs/2311.13569)][[Code](https://github.com/instadeepai/compass)]
-- 【TAM】Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time, 2023, **_ICLR_**.[[PDF](https://openreview.net/pdf?id=6ZajpxqTlQ)][None]
+- 【TAM】Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time, 2023, **_ICLR_**.[[PDF](https://openreview.net/pdf?id=6ZajpxqTlQ)]
 - 【Meta-SAGE】Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization, 2023, **_ICML_**.[[PDF](https://Preprint.org/pdf/2306.02688.pdf)][[Code](https://github.com/kaist-silab/meta-sage)]
-- DATA-EFFICIENT SUPERVISED LEARNING IS POWERFUL FOR NEURAL COMBINATORIAL OPTIMIZATION, 2023, Preprint.[[PDF](https://openreview.net/pdf?id=a_yFkJ4-uEK)][None]
+- DATA-EFFICIENT SUPERVISED LEARNING IS POWERFUL FOR NEURAL COMBINATORIAL OPTIMIZATION, 2023, Preprint.[[PDF](https://openreview.net/pdf?id=a_yFkJ4-uEK)]
 - 【Omni-VRP】Towards Omni-generalizable Neural Methods for Vehicle Routing Problems, 2023, **_ICML_**.[[PDF](https://Preprint.org/pdf/2305.19587.pdf)][[Code](https://github.com/RoyalSkye/Omni-VRP)]
 - 【DIFUSCO】DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization, 2023, **_NeurIPS_**.[[PDF](https://Preprint.org/pdf/2302.08224.pdf)][[Code](https://Preprint.org/pdf/2302.08224.pdf)]
 - 【LEHD】Neural Combinatorial Optimization with Heavy Decoder: Toward Large Scale Generalization, 2023, **_NeurIPS_**.[[PDF](https://Preprint.org/pdf/2310.07985.pdf)][[Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LEHD)]
@@ -61,19 +56,19 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【Tspformer】Memory-efficient Transformer-based network model for Traveling Salesman Problem, 2023, **_Neural Networks_**.[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000771)][[Code](https://github.com/yhnju/tspFormer)]
 - 【H-TSP】H-TSP: Hierarchically Solving the Large-Scale Travelling Salesman Problem, 2023, **_AAAI_**.[[PDF](https://Preprint.org/pdf/2304.09395.pdf)][[Code](https://github.com/Learning4Optimization-HUST/H-TSP)]
 - Efficient graph neural architecture search using Monte Carlo Tree search and prediction network, 2023, **_ESWA_**.[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0957417422019340)][[Code]()]
-- An Edge-Aware Graph Autoencoder Trained on Scale-Imbalanced Data for Travelling Salesman Problems, 2023, **_KBS_**.[[PDF](https://Preprint.org/pdf/2310.06543.pdf)][None]
-- 【HDR】A Hierarchical Destroy and Repair Approach for Solving Very Large-Scale Travelling Salesman Problem, 2023, Preprint.[[PDF](https://Preprint.org/pdf/2308.04639.pdf)][None]
+- An Edge-Aware Graph Autoencoder Trained on Scale-Imbalanced Data for Travelling Salesman Problems, 2023, **_KBS_**.[[PDF](https://Preprint.org/pdf/2310.06543.pdf)]
+- 【HDR】A Hierarchical Destroy and Repair Approach for Solving Very Large-Scale Travelling Salesman Problem, 2023, Preprint.[[PDF](https://Preprint.org/pdf/2308.04639.pdf)]
 - 【SO】Select and Optimize: Learning to solve large-scale TSP instances, 2023, **_AISTATS_**.[[PDF](https://proceedings.mlr.press/v206/cheng23a/cheng23a.pdf)][[Code](https://github.com/honey0920/select-and-optimize)]
-- Revisiting Sampling for Combinatorial Optimization, 2023, **_ICML_**.[[PDF](https://openreview.net/pdf?id=ZMP0Bki9aK)][None]
+- Revisiting Sampling for Combinatorial Optimization, 2023, **_ICML_**.[[PDF](https://openreview.net/pdf?id=ZMP0Bki9aK)]
 - 【ROCO】ROCO: A General Framework for Evaluating Robustness of Combinatorial Optimization Solvers on Graphs, 2023, **_ICLR_**.[[PDF](https://openreview.net/forum?id=2r6YMqz4Mml)][[Code](https://github.com/Thinklab-SJTU/ROCO)]
 - A GNN-GUIDED PREDICT-AND-SEARCH FRAMEWORK FOR MIXED-INTEGER LINEAR PROGRAMMING, 2023, **_ICLR_**.[[PDF](https://openreview.net/forum?id=pHMpgT5xWaE)][[Code](https://github.com/sribdcn/Predict-and-Search_MILP_method)]
-- 【MVGCL】Multi-View Graph Contrastive Learning for Solving Vehicle Routing Problems, 2023, **_UAI_**.[[PDF](https://proceedings.mlr.press/v216/jiang23a/jiang23a.pdf)][None]
+- 【MVGCL】Multi-View Graph Contrastive Learning for Solving Vehicle Routing Problems, 2023, **_UAI_**.[[PDF](https://proceedings.mlr.press/v216/jiang23a/jiang23a.pdf)]
 - BOOSTING DIFFERENTIABLE CAUSAL DISCOVERY VIA ADAPTIVE SAMPLE REWEIGHTING, 2023, **_ICLR_**.[[PDF](https://Preprint.org/abs/2303.03187)][[Code](https://github.com/anzhang314/ReScore
 )]
 - 【DeepACO】DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization, 2023, **_NeurIPS_**.[[PDF](https://Preprint.org/abs/2309.14032)][[Code](https://github.com/henry-yeh/DeepACO)]
 - 【BQ-NCO】BQ-NCO: Bisimulation Quotienting for Efficient Neural Combinatorial Optimization, 2023, **_NeurIPS_**.[[PDF](https://Preprint.org/abs/2301.03313)][[Code](https://github.com/naver/bq-nco)]
 - 【RL-CSL】RL-CSL: A Combinatorial Optimization Method Using Reinforcement Learning and Contrastive Self-Supervised Learning, 2023, **_TETCI_**.[[PDF](https://ieeexplore.ieee.org/document/9690950)][[Code](https://github.com/zjyuan1208/CPC_AM_master)]
-## 2022
+## 🦊🦊🦊2022
 - 【Sym-NCO】Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization, 2022, **_NeurIPS_**.[[PDF](https://Preprint.org/abs/2205.13209)][[Code](https://github.com/fedebotu/Sym-NCO/blob/main/README.md)]
 - Learning to Solve Routing Problems via Distributionally Robust Optimization, 2022, **_AAAI_**.[[PDF](https://Preprint.org/pdf/2202.07241.pdf)][[Code](https://github.com/jiang-yuan/Learning-routing-DRO)]
 - 【AMDKD】Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation, 2022, **_NeurIPS_**.[[PDF](https://Preprint.org/pdf/2210.07686.pdf)][[Code](https://github.com/jieyibi/AMDKD)]
@@ -81,16 +76,16 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【EAS】EFFICIENT ACTIVE SEARCH FOR COMBINATORIAL OPTIMIZATION PROBLEMS, 2022, **_ICLR_**.[[PDF](https://Preprint.org/pdf/2106.05126.pdf)][[Code](https://github.com/ahottung/EAS)]
 - Graph Neural Network Guided Local Search for the Traveling Salesperson Problem, 2022, **_ICLR_**.[[PDF](https://Preprint.org/pdf/2110.05291.pdf)][[Code](https://github.com/proroklab/gnngls)]
 - Learning the Travelling Salesperson Problem Requires Rethinking Generalization, 2022, Preprint.[[PDF](https://Preprint.org/pdf/2006.07054.pdf)][[Code](https://github.com/chaitjo/learning-tsp)]
-- Learning to Solve Travelling Salesman Problem with Hardness-Adaptive Curriculum, 2022, **_AAAI_**.[[PDF](https://Preprint.org/pdf/2204.03236.pdf)][None]
-- A GAME-THEORETIC APPROACH FOR IMPROVING GENERALIZATION ABILITY OF TSP SOLVERS, 2022, **_ICLR_**.[[PDF](https://Preprint.org/pdf/2110.15105.pdf)][None]
+- Learning to Solve Travelling Salesman Problem with Hardness-Adaptive Curriculum, 2022, **_AAAI_**.[[PDF](https://Preprint.org/pdf/2204.03236.pdf)]
+- A GAME-THEORETIC APPROACH FOR IMPROVING GENERALIZATION ABILITY OF TSP SOLVERS, 2022, **_ICLR_**.[[PDF](https://Preprint.org/pdf/2110.15105.pdf)]
 - 【SGBS】Simulation-guided Beam Search for Neural Combinatorial Optimization, 2022, **_NeurIPS_**.[[PDF](https://Preprint.org/pdf/2207.06190.pdf)][[Code](https://github.com/yd-kwon/SGBS)]
 - Large Neighborhood Search based on Neural Construction Heuristics, 2022, Preprint.[[PDF](https://Preprint.org/pdf/2205.00772.pdf)][[Code](https://github.com/jokofa/JAMPR_plus)]
-- Reinforced Hybrid Genetic Algorithm for the Traveling Salesman Problem, 2022, **_Computers & Operations Research_**.[[PDF](https://Preprint.org/pdf/2107.06870.pdf)][None]
-- 【RBG】Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, 2022, **_KDD_**.[[PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539037)][None]
-## other
-- GENERALIZATION IN DEEP RL FOR TSP PROBLEMS VIA EQUIVARIANCE AND LOCAL SEARCH, 2021, **_SN Computer Science_**.[[PDF](https://Preprint.org/abs/2110.03595)][None]
+- Reinforced Hybrid Genetic Algorithm for the Traveling Salesman Problem, 2022, **_Computers & Operations Research_**.[[PDF](https://Preprint.org/pdf/2107.06870.pdf)]
+- 【RBG】Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, 2022, **_KDD_**.[[PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539037)]
+## 🐱🐱🐱other
+- GENERALIZATION IN DEEP RL FOR TSP PROBLEMS VIA EQUIVARIANCE AND LOCAL SEARCH, 2021, **_SN Computer Science_**.[[PDF](https://Preprint.org/abs/2110.03595)]
 - Learning 2‑Opt Heuristics for Routing Problems via Deep Reinforcement Learning, 2021, **_SN Computer Science_**.[[PDF](https://link.springer.com/article/10.1007/s42979-021-00779-2)][[Code](https://github.com/paulorocosta/learning-2opt-drl)]
-- 【SADM】Attention, Filling in The Gaps for Generalization in Routing Problems, 2022, **_ECML-PKDD_**.[[PDF](https://Preprint.org/abs/2207.07212)][None]
+- 【SADM】Attention, Filling in The Gaps for Generalization in Routing Problems, 2022, **_ECML-PKDD_**.[[PDF](https://Preprint.org/abs/2207.07212)]
 - 【Att-GCRN】Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, 2021, **_AAAI_**.[[PDF](https://Preprint.org/pdf/2012.10658.pdf)][[Code](https://github.com/Spider-scnu/TSP)]
 - LEARNING A LATENT SEARCH SPACE FOR ROUTING PROBLEMS USING VARIATIONAL AUTOENCODERS, 2021, **_ICLR_**.[[PDF](https://openreview.net/pdf?id=90JprVrJBO)][[Code](https://github.com/ahottung/CVAE-Opt)]
 - Deep Policy Dynamic Programming for Vehicle Routing Problems, 2021.[[PDF](https://Preprint.org/pdf/2102.11756.pdf)][[Code](https://github.com/wouterkool/dpdp)]
@@ -104,7 +99,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【POMO】POMO: Policy Optimization with Multiple Optima for Reinforcement Learning, 2020, **_NeurIPS_**.[[PDF](https://Preprint.org/pdf/2010.16011.pdf)][[Code](https://github.com/yd-kwon/POMO)]
 - Reinforcement Learning for Solving the Vehicle Routing Problem, 2018, **_NeurIPS_**.[[PDF](https://Preprint.org/pdf/1802.04240.pdf)][[Code](https://github.com/OptMLGroup/VRP-RL)]
 - NEURAL COMBINATORIAL OPTIMIZATION WITH REINFORCEMENT LEARNING, 2017, **_ICLR_**.[[PDF](https://Preprint.org/pdf/1611.09940.pdf)][[Code](https://github.com/pemami4911/neural-combinatorial-rl-pytorch)]
-- Knowledge-guided local search for the vehicle routing problem, 2019, **_Computers & Operations Research_**.[[PDF](https://www.sciencedirect.com/science/article/pii/S0305054819300024)][None]
+- Knowledge-guided local search for the vehicle routing problem, 2019, **_Computers & Operations Research_**.[[PDF](https://www.sciencedirect.com/science/article/pii/S0305054819300024)]
 - Combinatorial optimization by graph pointer networks and hierarchical reinforcement learning, 2019, Preprint.[[PDF](https://Preprint.org/pdf/1911.04936.pdf)][[Code](https://github.com/qiang-ma/graph-pointer-network)]
 - 【MDAM】Multi-Decoder Attention Model with Embedding Glimpse for Solving Vehicle Routing Problems, 2020, **_AAAI_**.[[PDF](https://Preprint.org/abs/2012.10638)][[Code](https://github.com/liangxinedu/MDAM)]
 - Step-wise Deep Learning Models for Solving Routing Problems, 2020, **_TII_**.[[PDF](https://ieeexplore.ieee.org/document/9226142)][[Code](https://github.com/liangxinedu/stepwise)]
