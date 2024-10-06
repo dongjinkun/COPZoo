@@ -10,8 +10,8 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【Survey】Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives, 2024. [[Paper](https://Preprint.org/Paper/2406.00415)]
 - 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _**AIC**_, 2023. [[Paper](https://Preprint.org/abs/2008.12248)]
 ## 🦍2024
-- GOAL: A Generalist Combinatorial Optimization Agent Learner, 2024, Preprint. [[Paper](https://arxiv.org/abs/2406.15079)]
-- UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems, 2024, _**Nips**_. [[Paper](https://arxiv.org/abs/2407.00312?context=cs.AI)][[Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/UDC-Large-scale-CO-master)]
+- 【GOAL】GOAL: A Generalist Combinatorial Optimization Agent Learner, 2024, Preprint. [[Paper](https://arxiv.org/abs/2406.15079)]
+- 【UDC】UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems, 2024, _**Nips**_. [[Paper](https://arxiv.org/abs/2407.00312?context=cs.AI)][[Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/UDC-Large-scale-CO-master)]
 - Prompt Learning for Generalized Vehicle Routing, 2024, _**IJCAI**_.[[Paper](https://Preprint.org/abs/2405.12262)][[Code](https://github.com/FeiLiu36/PromptVRP)]
 - 【DISCO】DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems, 2024, Preprint.[[Paper](https://Preprint.org/abs/2406.19705)]
 - Instance-Conditioned Adaptation for Large-scale Generalization of Neural Combinatorial Optimization, 2024, Preprint. [[Paper](https://Preprint.org/abs/2405.01906)]
