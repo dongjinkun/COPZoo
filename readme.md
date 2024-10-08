@@ -10,6 +10,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【Survey】Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives, 2024. [[Paper](https://Preprint.org/Paper/2406.00415)]
 - 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _**AIC**_, 2023. [[Paper](https://Preprint.org/abs/2008.12248)]
 ## 🦍2024
+- 【Collaboration】Collaboration! Towards Robust Neural Methods for Vehicle Routing Problems, 2024, _**Nips**_.[[Paper](https://arxiv.org/pdf/2410.04968)][[Code](https://github.com/RoyalSkye/Routing-CNF)]
 - 【GOAL】GOAL: A Generalist Combinatorial Optimization Agent Learner, 2024, Preprint. [[Paper](https://arxiv.org/abs/2406.15079)]
 - 【UDC】UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems, 2024, _**Nips**_. [[Paper](https://arxiv.org/abs/2407.00312?context=cs.AI)][[Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/UDC-Large-scale-CO-master)]
 - Prompt Learning for Generalized Vehicle Routing, 2024, _**IJCAI**_.[[Paper](https://Preprint.org/abs/2405.12262)][[Code](https://github.com/FeiLiu36/PromptVRP)]
@@ -29,7 +30,6 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【PolyNet】PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization, 2024, Preprint.[[Paper](https://openreview.net/Paper?id=Q9R10ZKd8z)]
 - Enhancing Sample Efficiency in Black-box Combinatorial Optimization via Symmetric Replay Training, 2024, Preprint.[[Paper](https://openreview.net/Paper?id=xzRnzHUVE9)]
 - Enhancing the Cross-Size Generalization for Solving Vehicle Routing Problems via Continual Learning, 2024, Preprint.[[Paper](https://openreview.net/Paper?id=WdvT2UgsTK)]
-- Collaboration! Towards Robust Neural Methods for Vehicle Routing Problems, 2024, Preprint.[[Paper](https://openreview.net/Paper?id=zEOnlJaRKp)]
 - EXPLORING BATTERY USAGE IN ELECTRIC VEHICLES THROUGH GRAPH BASED CASCADED CLUSTERING, 2024, **_ICLR_**.[[Paper](https://openreview.net/Paper?id=BUxuW0f6EE)]
 - Deep Reinforcement Learning for Dynamic Capacitated Vehicle Routing Problem, 2024, **_ICLR_**.[[Paper](https://openreview.net/Paper?id=Gs8jWk0F01)]
 - 【ELG】Towards Generalizable Neural Solvers for Vehicle Routing Problems via Ensemble with Transferrable Local Policy, 2024, **_IJCAI_**.[[Paper](https://Preprint.org/abs/2308.14104)][[Code](https://github.com/gaocrr/elg)]
