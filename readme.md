@@ -72,7 +72,9 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【DeepACO】DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization, 2023, **_NeurIPS_**.[[Paper](https://Preprint.org/abs/2309.14032)][[Code](https://github.com/henry-yeh/DeepACO)]
 - 【BQ-NCO】BQ-NCO: Bisimulation Quotienting for Efficient Neural Combinatorial Optimization, 2023, **_NeurIPS_**.[[Paper](https://Preprint.org/abs/2301.03313)][[Code](https://github.com/naver/bq-nco)]
 - 【RL-CSL】RL-CSL: A Combinatorial Optimization Method Using Reinforcement Learning and Contrastive Self-Supervised Learning, 2023, **_TETCI_**.[[Paper](https://ieeexplore.ieee.org/document/9690950)][[Code](https://github.com/zjyuan1208/CPC_AM_master)]
+- 【NeuralGLS】Neuralgls: learning to guide local search with graph convolutional network for the traveling salesman problem, 2023, Neural Computing and Applications.[[Paper](https://link.springer.com/article/10.1007/s00521-023-09042-6)]
 ## 🦊2022
+- 【GNNGLS】Graph Neural Network Guided Local Search for the Traveling Salesperson Problem, 2022, ICLR.[[Paper](https://arxiv.org/abs/2110.05291)][[Code](https://github.com/proroklab/gnngls)]
 - 【Sym-NCO】Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization, 2022, **_NeurIPS_**.[[Paper](https://Preprint.org/abs/2205.13209)][[Code](https://github.com/fedebotu/Sym-NCO/blob/main/README.md)]
 - Learning to Solve Routing Problems via Distributionally Robust Optimization, 2022, **_AAAI_**.[[Paper](https://Preprint.org/Paper/2202.07241.Paper)][[Code](https://github.com/jiang-yuan/Learning-routing-DRO)]
 - 【AMDKD】Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation, 2022, **_NeurIPS_**.[[Paper](https://Preprint.org/Paper/2210.07686.Paper)][[Code](https://github.com/jieyibi/AMDKD)]
@@ -86,7 +88,8 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - Large Neighborhood Search based on Neural Construction Heuristics, 2022, Preprint.[[Paper](https://Preprint.org/Paper/2205.00772.Paper)][[Code](https://github.com/jokofa/JAMPR_plus)]
 - Reinforced Hybrid Genetic Algorithm for the Traveling Salesman Problem, 2022, **_Computers & Operations Research_**.[[Paper](https://Preprint.org/Paper/2107.06870.Paper)]
 - 【RBG】Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, 2022, **_KDD_**.[[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539037)]
-## 🐱other
+## 🐱others
+- 【KGLS】Knowledge-guided local search for the vehicle routing problem, 2019, **_Computers & Operations Research_**.[[Paper](https://www.researchgate.net/publication/330254470_Knowledge-guided_local_search_for_the_Vehicle_Routing_Problem)]
 - GENERALIZATION IN DEEP RL FOR TSP PROBLEMS VIA EQUIVARIANCE AND LOCAL SEARCH, 2021, **_SN Computer Science_**.[[Paper](https://Preprint.org/abs/2110.03595)]
 - Learning 2‑Opt Heuristics for Routing Problems via Deep Reinforcement Learning, 2021, **_SN Computer Science_**.[[Paper](https://link.springer.com/article/10.1007/s42979-021-00779-2)][[Code](https://github.com/paulorocosta/learning-2opt-drl)]
 - 【SADM】Attention, Filling in The Gaps for Generalization in Routing Problems, 2022, **_ECML-PKDD_**.[[Paper](https://Preprint.org/abs/2207.07212)]
