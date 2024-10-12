@@ -114,6 +114,6 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【MDAM】Multi-Decoder Attention Model with Embedding Glimpse for Solving Vehicle Routing Problems, 2020, **_AAAI_**.[[Paper](https://Preprint.org/abs/2012.10638)][[Code](https://github.com/liangxinedu/MDAM)]
 - Step-wise Deep Learning Models for Solving Routing Problems, 2020, **_TII_**.[[Paper](https://ieeexplore.ieee.org/document/9226142)][[Code](https://github.com/liangxinedu/stepwise)]
 - 【AMD】A Deep Reinforcement Learning Algorithm Using Dynamic Attention Model for Vehicle Routing Problems, 2022, **_ISICA_**.[[Paper](https://Preprint.org/abs/2002.03282)][[Code](https://github.com/Roberto09/Dynamic-Attention-Model-for-VRP---Pytorch)]
-# Contact me
+# 🐶Contact me
 - 📧email： jinkundong@bjtu.edu.cn
 - 🤙blog： [JKDong's Blog](https://blog.csdn.net/dongjinkun?spm=1010.2135.3001.5343)
