@@ -59,7 +59,7 @@
 - 【GNARKD】Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, 2024, **_AAAI_**.[[Paper](https://Preprint.org/Paper/2312.12469.Paper)][[Code](https://github.com/xybFight/GNARKD)]
 - 【AMDKD】Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation, 2022, **_NeurIPS_**.[[Paper](https://Preprint.org/Paper/2210.07686.Paper)][[Code](https://github.com/jieyibi/AMDKD)]
 
-## 🐻🐻Meta-Learning
+### 🐻🐻Meta-Learning
 - 【Meta-SAGE】Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization, 2023, **_ICML_**.[[Paper](https://Preprint.org/Paper/2306.02688.Paper)][[Code](https://github.com/kaist-silab/meta-sage)]
 - 【Omni-VRP】Towards Omni-generalizable Neural Methods for Vehicle Routing Problems, 2023, **_ICML_**.[[Paper](https://Preprint.org/Paper/2305.19587.Paper)][[Code](https://github.com/RoyalSkye/Omni-VRP)]
 - 【DIMES】DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems, 2022, **_NeurIPS_**.[[Paper](https://Preprint.org/Paper/2210.04123.Paper)][[Code](https://github.com/DIMESTeam/DIMES)]
