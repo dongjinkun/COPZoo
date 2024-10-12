@@ -1,6 +1,6 @@
-# Hi, welcome COP ZooParty
+# 🦄Hi, welcome COP ZooParty
 
-## Reinforcement Learning
+## 🐼Reinforcement Learning
 - 【HNC】Hierarchical Neural Constructive Solver for Real-world TSP Scenarios, 2024, _**SIGKDD**_.[[Paper](https://Preprint.org/abs/2408.03585)]
 - 【LR-POMO】Leader Reward for POMO-Based Neural Combinatorial Optimization, 2024, Preprint.[[Paper](https://Preprint.org/abs/2405.13947)]
 - 【INViT】INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer, 2024, **_ICML_**.[[Paper](https://Preprint.org/abs/2402.02317)][[Code](https://github.com/Kasumigaoka-Utaha/INViT)]
@@ -27,39 +27,39 @@
 - 【POMO】POMO: Policy Optimization with Multiple Optima for Reinforcement Learning, 2020, **_NeurIPS_**.[[Paper](https://Preprint.org/Paper/2010.16011.Paper)][[Code](https://github.com/yd-kwon/POMO)]
 - 【AM】ATTENTION, LEARN TO SOLVE ROUTING PROBLEMS!, 2019, ICLR.[[Paper](https://Preprint.org/Paper/1803.08475.Paper)][[Code](https://github.com/wouterkool/attention-learn-to-route)]
 
-## Supervise Learning
+## 🐪Supervise Learning
 - 【LEHD】Neural Combinatorial Optimization with Heavy Decoder: Toward Large Scale Generalization, 2023, **_NeurIPS_**.[[Paper](https://Preprint.org/Paper/2310.07985.Paper)][[Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LEHD)]
 - 【Att-GCRN】Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, 2021, **_AAAI_**.[[Paper](https://Preprint.org/Paper/2012.10658.Paper)][[Code](https://github.com/Spider-scnu/TSP)]
 - 【GCN】An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, 2019, **_INFORMS_**.[[Paper](https://Preprint.org/Paper/1906.01227.Paper)][[Code](https://github.com/chaitjo/graph-convnet-tsp)]
 - 【Ptr-Net】Pointer Networks, 2017, **_NeurIPS_**.[[Paper](https://Preprint.org/Paper/1506.03134.Paper)][[Code](https://github.com/shirgur/pointernet)]
 
-## Unsupervised Learning
+## 🦙Unsupervised Learning
 - Unsupervised graph neural networks with recurrent features for solving combinatorial optimization problems, 2024, Preprint.[[Paper](https://openreview.net/Paper?id=9qtswuW5ux)]
 - 【UTSP】Unsupervised Learning for solving the TSP, 2023, **_NeurIPS_**.[[Paper](https://Preprint.org/abs/2303.10538)][[Code](https://github.com/yimengmin/UTSP)]
 
 
-## Self-Improvement Learning
+## 🐄Self-Improvement Learning
 - 【GD】Self-Improvement for Neural Combinatorial Optimization: Sample without Replacement, but Improvement, 2024, _**TMLR**_.[[Paper](https://Preprint.org/abs/2403.15180)][[Code](https://github.com/grimmlab/gumbeldore)]
 - 【SIL】Self-Improved Learning for Scalable Neural Combinatorial Optimization, 2024, Preprint.[[Paper](https://Preprint.org/Paper/2403.19561)]
 - 【Step&Reconsider】Take a Step and Reconsider: Sequence Decoding for Self-Improved Neural Combinatorial Optimization, **_ECAI_**, 2024. [[Paper](https://Preprint.org/abs/2407.17206)][[Code](https://github.com/grimmlab/step-and-reconsider)]
 - 【BQ-NCO】BQ-NCO: Bisimulation Quotienting for Efficient Neural Combinatorial Optimization, 2023, **_NeurIPS_**.[[Paper](https://Preprint.org/abs/2301.03313)][[Code](https://github.com/naver/bq-nco)]
 - 【IIL】IMITATION IMPROVEMENT LEARNING FOR LARGESCALE CAPACITATED VEHICLE ROUTING PROBLEMS, 2023, **_ICAPS_**.[[Paper](https://dl.acm.org/doi/10.1609/icaps.v33i1.27236)][[Code](https://github.com/vietbtx/VRPpp)]
 
-## Other
-### Large Language Models
+## 🐘Other
+### 🐻‍❄️🐻‍❄️Large Language Models
 - 【EoH】Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model, 2024, _**ICML**_.[[Paper](https://arxiv.org/abs/2401.02051)][[Code](https://github.com/FeiLiu36/EoH)]
 - 【ReEvo】Large Language Models as Hyper-Heuristics for Combinatorial Optimization, 2024, _**Nips**_.[[Paper](https://arxiv.org/pdf/2402.01145)][[Code](https://github.com/ai4co/reevo)]
 - Prompt Learning for Generalized Vehicle Routing, 2024, _**IJCAI**_.[[Paper](https://Preprint.org/abs/2405.12262)][[Code](https://github.com/FeiLiu36/PromptVRP)]
 
-### Duffusion model
+### 🐨🐨Duffusion model
 - 【DISCO】DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems, 2024, Preprint.[[Paper](https://Preprint.org/abs/2406.19705)]
 - 【DIFUSCO】DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization, 2023, **_NeurIPS_**.[[Paper](https://Preprint.org/Paper/2302.08224.Paper)][[Code](https://Preprint.org/Paper/2302.08224.Paper)]
 
-### Knowledge Distillation
+### 🐼🐼Knowledge Distillation
 - 【GNARKD】Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, 2024, **_AAAI_**.[[Paper](https://Preprint.org/Paper/2312.12469.Paper)][[Code](https://github.com/xybFight/GNARKD)]
 - 【AMDKD】Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation, 2022, **_NeurIPS_**.[[Paper](https://Preprint.org/Paper/2210.07686.Paper)][[Code](https://github.com/jieyibi/AMDKD)]
 
-## Meta-Learning
+## 🐻🐻Meta-Learning
 - 【Meta-SAGE】Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization, 2023, **_ICML_**.[[Paper](https://Preprint.org/Paper/2306.02688.Paper)][[Code](https://github.com/kaist-silab/meta-sage)]
 - 【Omni-VRP】Towards Omni-generalizable Neural Methods for Vehicle Routing Problems, 2023, **_ICML_**.[[Paper](https://Preprint.org/Paper/2305.19587.Paper)][[Code](https://github.com/RoyalSkye/Omni-VRP)]
 - 【DIMES】DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems, 2022, **_NeurIPS_**.[[Paper](https://Preprint.org/Paper/2210.04123.Paper)][[Code](https://github.com/DIMESTeam/DIMES)]
