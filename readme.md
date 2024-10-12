@@ -4,6 +4,9 @@
 # 🐯Biography
 JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Beijing Jiaotong University.
 # 🦌Neural Combinatorial Optimization(NCO)
+- PaperList by Learning Paradigm: [PaperList](https://github.com/dongjinkun/COPZoo/blob/main/Paper_by_learning_paradigms.md)
+- PaperList by Task: [PaperList](https://github.com/dongjinkun/COPZoo/blob/main/Paper_by_task.md)
+- Lab: [LabList](https://github.com/dongjinkun/COPZoo/blob/main/Experts4COP.md)
 ## 🐒Survey
 - 【Survey】Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, Bengio, 2018, European Journal of Operations Research.[[Paper](https://Preprint.org/abs/1811.06128)]
 - 【Survey】Learning to Solve Vehicle Routing Problems: A Survey, **_T-ITS_**, 2022.[[Paper](https://Preprint.org/abs/2205.02453)]
