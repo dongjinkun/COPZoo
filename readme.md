@@ -47,7 +47,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【ESF-DS】Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture, Preprint, 2024. [[Paper](https://Preprint.org/abs/2406.06652)][[Code](https://github.com/xybFight/VRP-Generalization)]
 - 【RouteFinder】RouteFinder: Towards Foundation Models for Vehicle Routing Problems, 2024, **_ICML_**.[[Paper](https://Preprint.org/abs/2406.15007)][[Code](https://github.com/ai4co/routefinder)]
 - 【Step&Reconsider】Take a Step and Reconsider: Sequence Decoding for Self-Improved Neural Combinatorial Optimization, 2024, **_ECAI_**. [[Paper](https://Preprint.org/abs/2407.17206)][[Code](https://github.com/grimmlab/step-and-reconsider)]
-- Symmetric Replay Training: Enhancing Sample Efficiency  in Deep Reinforcement Learning for Combinatorial Optimization, 2024, _**ICML**_. [[Paper](https://arxiv.org/abs/2306.01276)][[Code](https://github.com/kaist-silab/symmetric_replay)]
+- 【SRT】Symmetric Replay Training: Enhancing Sample Efficiency  in Deep Reinforcement Learning for Combinatorial Optimization, 2024, _**ICML**_. [[Paper](https://arxiv.org/abs/2306.01276)][[Code](https://github.com/kaist-silab/symmetric_replay)]
 ## 🐕2023
 - 【IIL】IMITATION IMPROVEMENT LEARNING FOR LARGESCALE CAPACITATED VEHICLE ROUTING PROBLEMS, 2023, **_ICAPS_**.[[Paper](https://dl.acm.org/doi/10.1609/icaps.v33i1.27236)][[Code](https://github.com/vietbtx/VRPpp)]
 - 【UTSP】Unsupervised Learning for solving the TSP, 2023, **_NeurIPS_**.[[Paper](https://Preprint.org/abs/2303.10538)][[Code](https://github.com/yimengmin/UTSP)]
