@@ -20,7 +20,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【GOAL】GOAL: A Generalist Combinatorial Optimization Agent Learner, 2024, Preprint. [[Paper](https://arxiv.org/abs/2406.15079)]
 - 【UDC】UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems, 2024, _**Nips**_. [[Paper](https://arxiv.org/abs/2407.00312?context=cs.AI)][[Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/UDC-Large-scale-CO-master)]
 - 【DISCO】DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems, 2024, Preprint.[[Paper](https://Preprint.org/abs/2406.19705)]
-- Instance-Conditioned Adaptation for Large-scale Generalization of Neural Combinatorial Optimization, 2024, Preprint. [[Paper](https://Preprint.org/abs/2405.01906)]
+- 【ICAM】Instance-Conditioned Adaptation for Large-scale Generalization of Neural Combinatorial Optimization, 2024, Preprint. [[Paper](https://Preprint.org/abs/2405.01906)]
 - 【MEMENTO】Memory-Enhanced Neural Solvers for Efficient Adaptation in Combinatorial Optimization, 2024, Preprint. [[Paper](https://Preprint.org/abs/2408.03585)][[Code](https://github.com/instadeepai/memento)]
 - 【HNC】Hierarchical Neural Constructive Solver for Real-world TSP Scenarios, 2024, _**SIGKDD**_.[[Paper](https://Preprint.org/abs/2408.03585)]
 - 【GD】Self-Improvement for Neural Combinatorial Optimization: Sample without Replacement, but Improvement, 2024, _**TMLR**_.[[Paper](https://Preprint.org/abs/2403.15180)][[Code](https://github.com/grimmlab/gumbeldore)]
