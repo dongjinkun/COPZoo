@@ -93,6 +93,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - Reinforced Hybrid Genetic Algorithm for the Traveling Salesman Problem, 2022, **_Computers & Operations Research_**.[[Paper](https://Preprint.org/Paper/2107.06870.Paper)]
 - 【RBG】Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, 2022, **_KDD_**.[[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539037)]
 ## 🐱others
+- Efficiently Solving the Practical Vehicle Routing Problem: A Novel Joint Learning Approach, 2020, **_KDD_**. [[Paper](https://dl.acm.org/doi/10.1145/3394486.3403356)][[Code](https://github.com/wang-rq/GCN-NPEC)]
 - 【KGLS】Knowledge-guided local search for the vehicle routing problem, 2019, **_Computers & Operations Research_**.[[Paper](https://www.researchgate.net/publication/330254470_Knowledge-guided_local_search_for_the_Vehicle_Routing_Problem)]
 - GENERALIZATION IN DEEP RL FOR TSP PROBLEMS VIA EQUIVARIANCE AND LOCAL SEARCH, 2021, **_SN Computer Science_**.[[Paper](https://Preprint.org/abs/2110.03595)]
 - Learning 2‑Opt Heuristics for Routing Problems via Deep Reinforcement Learning, 2021, **_SN Computer Science_**.[[Paper](https://link.springer.com/article/10.1007/s42979-021-00779-2)][[Code](https://github.com/paulorocosta/learning-2opt-drl)]
