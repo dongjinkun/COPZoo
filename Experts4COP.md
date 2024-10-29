@@ -1,6 +1,6 @@
 ## Welcome CopZoo
 
-### Experts and scholars in Domestic and foreign
+### Experts and scholars
 
 - System Intelligence Lab, Jinkyoo Park, [Homepage](http://silab.kaist.ac.kr/)
 - Singapore Management University, Zhiguang Cao, [Homepage](https://zhiguangcaosg.github.io/publications/)
