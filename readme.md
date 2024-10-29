@@ -76,7 +76,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【DeepACO】DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization, 2023, **_NeurIPS_**.[[Paper](https://Preprint.org/abs/2309.14032)][[Code](https://github.com/henry-yeh/DeepACO)]
 - 【BQ-NCO】BQ-NCO: Bisimulation Quotienting for Efficient Neural Combinatorial Optimization, 2023, **_NeurIPS_**.[[Paper](https://Preprint.org/abs/2301.03313)][[Code](https://github.com/naver/bq-nco)]
 - 【RL-CSL】RL-CSL: A Combinatorial Optimization Method Using Reinforcement Learning and Contrastive Self-Supervised Learning, 2023, **_TETCI_**.[[Paper](https://ieeexplore.ieee.org/document/9690950)][[Code](https://github.com/zjyuan1208/CPC_AM_master)]
-- 【NeuralGLS】Neuralgls: learning to guide local search with graph convolutional network for the traveling salesman problem, 2023, Neural Computing and Applications.[[Paper](https://link.springer.com/article/10.1007/s00521-023-09042-6)]
+- 【NeuralGLS】Neuralgls: learning to guide local search with graph convolutional network for the traveling salesman problem, 2023, **_Neural Computing and Applications_**.[[Paper](https://link.springer.com/article/10.1007/s00521-023-09042-6)]
 - 【Cnn-Transformer】A Lightweight CNN-Transformer Model for Learning Traveling Salesman Problems, 2023, **_Applied Intelligence_**. [[Code](https://arxiv.org/abs/2305.01883)][[PDF](https://github.com/cm8908/CNN_Transformer3)]
 ## 🦊2022
 - 【GNNGLS】Graph Neural Network Guided Local Search for the Traveling Salesperson Problem, 2022, ICLR.[[Paper](https://arxiv.org/abs/2110.05291)][[Code](https://github.com/proroklab/gnngls)]
