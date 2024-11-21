@@ -1,4 +1,4 @@
-# Welcom COPZoo
+# Welcome to COP ZooParty
 
 ## Large-scale Routing Problem
 
