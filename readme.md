@@ -12,6 +12,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【Survey】Learning to Solve Vehicle Routing Problems: A Survey, **_T-ITS_**, 2022.[[Paper](https://Preprint.org/abs/2205.02453)]
 - 【Survey】Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives, 2024. [[Paper](https://Preprint.org/Paper/2406.00415)]
 - 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _**AIC**_, 2023. [[Paper](https://Preprint.org/abs/2008.12248)]
+- 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 ## 🐣2025
 
 ## 🦍2024
