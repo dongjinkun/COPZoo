@@ -16,6 +16,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 ## 🐣2025
 
 ## 🦍2024
+-【LRBS】Scaling Combinatorial Optimization Neural Improvement Heuristics with Online Search and Adaptation, 2024, Preprint. [[Paper](https://arxiv.org/abs/2412.10163)]
 - 【PARCO】PARCO: Learning Parallel Autoregressive Policies for Efficient Multi-Agent Combinatorial Optimization, 2024, Preprint.[[Paper](https://www.arxiv.org/abs/2409.03811)][[Code](https://github.com/ai4co/parco)]
 - 【UNCO】UNCO: Towards Unifying Neural Combinatorial Optimization through Large Language Model, 2024, Preprint.[[Paper](https://arxiv.org/abs/2408.12214)]
 - 【EoH】Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model, 2024, _**ICML**_.[[Paper](https://arxiv.org/abs/2401.02051)][[Code](https://github.com/FeiLiu36/EoH)]
