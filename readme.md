@@ -14,7 +14,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _**AIC**_, 2023. [[Paper](https://Preprint.org/abs/2008.12248)]
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 ## 🐣2025
-
+- 【CAMP】CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems, 2025, _**AAMAS**_. [[Paper](https://arxiv.org/abs/2501.02977)][[Code](https://github.com/ai4co/camp)]
 ## 🦍2024
 - 【MARCO】MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization, 2024, _**IJCAI**_. [[Paper](https://www.ijcai.org/proceedings/2024/0766.pdf)][[Code](https://github.com/TheLeprechaun25/MARCO)]
 - 【LRBS】Scaling Combinatorial Optimization Neural Improvement Heuristics with Online Search and Adaptation, 2024, Preprint. [[Paper](https://arxiv.org/abs/2412.10163)]
