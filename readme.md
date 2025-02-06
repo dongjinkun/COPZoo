@@ -14,9 +14,9 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _**AIC**_, 2023. [[Paper](https://Preprint.org/abs/2008.12248)]
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 ## 🐣2025
-- Adversarial Generative Flow Network for Solving Vehicle Routing Problems, 2025, ICLR.[[Paper](https://openreview.net/forum?id=tBom4xOW1H)]
-- Rethinking Light Decoder-based Solvers for Vehicle Routing Problems, 2025, ICLR.[[Paper](https://openreview.net/forum?id=4pRwkYpa2u)]
-- 【DaulOpt】DualOpt: A Dual Divide-and-Optimize Algorithm for the Large-scale Traveling Salesman Problem, 2025, AAAI.[[Paper](https://arxiv.org/abs/2501.08565)][[Code](https://github.com/Learning4Optimization-HUST/DualOpt)]
+- Adversarial Generative Flow Network for Solving Vehicle Routing Problems, 2025, _**ICLR**_.[[Paper](https://openreview.net/forum?id=tBom4xOW1H)]
+- Rethinking Light Decoder-based Solvers for Vehicle Routing Problems, 2025, _**ICLR**_.[[Paper](https://openreview.net/forum?id=4pRwkYpa2u)]
+- 【DaulOpt】DualOpt: A Dual Divide-and-Optimize Algorithm for the Large-scale Traveling Salesman Problem, 2025, _**AAAI**_.[[Paper](https://arxiv.org/abs/2501.08565)][[Code](https://github.com/Learning4Optimization-HUST/DualOpt)]
 - 【CAMP】CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems, 2025, _**AAMAS**_. [[Paper](https://arxiv.org/abs/2501.02977)][[Code](https://github.com/ai4co/camp)]
 - Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning, 2025, Preprint. [[Paper](https://arxiv.org/abs/2501.00884)]
 - Neural Deconstruction search for Vehicle Routing Problems, 2025, Preprint.[[Paper](https://arxiv.org/abs/2501.03715)]
