@@ -14,6 +14,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _**AIC**_, 2023. [[Paper](https://Preprint.org/abs/2008.12248)]
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 ## 🐣2025
+- Reinforcement Learning-based Non-Autoregressive  Solver for Traveling Salesman Problems, 2025,**_TNNLS_**. [[Paper](https://arxiv.org/abs/2308.00560)][[Code](https://github.com/xybFight/NAR4TSP)]
 - An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem, 2025, _**SIGKDD**_. [[Paper](https://arxiv.org/abs/2501.13767)][[Code](https://github.com/DEITSP/DEITSP)]
 - Adversarial Generative Flow Network for Solving Vehicle Routing Problems, 2025, _**ICLR**_.[[Paper](https://openreview.net/forum?id=tBom4xOW1H)]
 - Rethinking Light Decoder-based Solvers for Vehicle Routing Problems, 2025, _**ICLR**_.[[Paper](https://openreview.net/forum?id=4pRwkYpa2u)]
