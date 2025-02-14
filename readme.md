@@ -20,7 +20,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - Rethinking Light Decoder-based Solvers for Vehicle Routing Problems, 2025, _**ICLR**_.[[Paper](https://openreview.net/forum?id=4pRwkYpa2u)]
 - 【DaulOpt】DualOpt: A Dual Divide-and-Optimize Algorithm for the Large-scale Traveling Salesman Problem, 2025, _**AAAI**_.[[Paper](https://arxiv.org/abs/2501.08565)][[Code](https://github.com/Learning4Optimization-HUST/DualOpt)]
 - 【CAMP】CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems, 2025, _**AAMAS**_. [[Paper](https://arxiv.org/abs/2501.02977)][[Code](https://github.com/ai4co/camp)]
-- Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning, 2025, Preprint. [[Paper](https://arxiv.org/abs/2501.00884)]
+- 【NDS】Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning, 2025, Preprint. [[Paper](https://arxiv.org/abs/2501.00884)]
 - Neural Deconstruction search for Vehicle Routing Problems, 2025, Preprint.[[Paper](https://arxiv.org/abs/2501.03715)]
 ## 🦍2024
 - 【MARCO】MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization, 2024, _**IJCAI**_. [[Paper](https://www.ijcai.org/proceedings/2024/0766.pdf)][[Code](https://github.com/TheLeprechaun25/MARCO)]
