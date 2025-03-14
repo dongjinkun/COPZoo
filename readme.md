@@ -14,6 +14,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _**AIC**_, 2023. [[Paper](https://Preprint.org/abs/2008.12248)]
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 ## 🐣2025
+- 【L2R】L2R: Learning to Reduce Search Space for Generalizable Neural Routing Solver, 2025, preprint. [[Paper](https://arxiv.org/abs/2503.03137)]
 - 【U-ML4TSP】UNIFY ML4TSP: DRAWING METHODOLOGICAL PRINCIPLES FOR TSP AND BEYOND FROM STREAMLINED  DESIGN SPACE OF LEARNING AND SEARCH, 2025, _**ICLR**_. [[Paper](https://openreview.net/forum?id=grU1VKEOLi)][[Code](https://github.com/Thinklab-SJTU/ML4TSPBench)]
 - 【PoH】Planning of Heuristics: Strategic Planning on Large Language Models with Monte Carlo Tree Search for Automating Heuristic Optimization, 2025, Preprint.[[Paper](https://arxiv.org/abs/2502.11422)]
 - 【IDEQ】IDEQ: an improved diffusion model for the TSP, 2025, Preprint.[[Paper](https://arxiv.org/abs/2412.13858)]
