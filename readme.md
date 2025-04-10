@@ -14,6 +14,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _**AIC**_, 2023. [[Paper](https://arxiv.org/abs/2008.12248)]
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 ## 🐣2025
+- 【DRHG】Destroy and Repair Using Hyper-Graphs for Routing, 2025, _**AAAI**_. [[Paper](https://arxiv.org/pdf/2502.16170)][[Code](https://github.com/CIAM-Group/DRHG)]
 - TuneNSearch: a hybrid transfer learning and local search approach for solving vehicle routing problems, 2025, arxiv. [[Paper](https://arxiv.org/pdf/2503.12662)]
 - Neural Combinatorial Optimization for Real-World Routing, 2025, arxiv. [[paper](https://arxiv.org/pdf/2503.16159)][[Code](https://github.com/ai4co/real-routing-nco)]
 - 【POCO】Neural Combinatorial Optimization via Preference Optimization, 2025, arxiv. [[Paper](https://arxiv.org/abs/2503.07580)]
@@ -28,7 +29,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【HLGP】Hierarchical Learning-based Graph Partition for Large-scale Vehicle Routing Problems, 2025,  _**AAMAS**_.[[Paper](https://arxiv.org/abs/2502.08340)][[Code](https://github.com/panyxy/hlgp_cvrp)]
 - Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems, 2025, **_TNNLS_**.[[Paper](https://arxiv.org/abs/2308.00560)][[Code](https://github.com/xybFight/NAR4TSP)]
 - An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem, 2025, _**SIGKDD**_.[[Paper](https://arxiv.org/abs/2501.13767)][[Code](https://github.com/DEITSP/DEITSP)]
-- Adversarial Generative Flow Network for Solving Vehicle Routing Problems, 2025, _**ICLR**_.[[Paper](https://openreview.net/forum?id=tBom4xOW1H)]
+- 【AGFN】Adversarial Generative Flow Network for Solving Vehicle Routing Problems, 2025, _**ICLR**_.[[Paper](https://openreview.net/forum?id=tBom4xOW1H)]
 - Rethinking Light Decoder-based Solvers for Vehicle Routing Problems, 2025, _**ICLR**_.[[Paper](https://openreview.net/forum?id=4pRwkYpa2u)]
 - 【DualOpt】DualOpt: A Dual Divide-and-Optimize Algorithm for the Large-scale Traveling Salesman Problem, 2025, _**AAAI**_.[[Paper](https://arxiv.org/abs/2501.08565)][[Code](https://github.com/Learning4Optimization-HUST/DualOpt)]
 - 【CAMP】CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems, 2025, _**AAMAS**_. [[Paper](https://arxiv.org/abs/2501.02977)][[Code](https://github.com/ai4co/camp)]
