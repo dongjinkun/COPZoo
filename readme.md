@@ -24,7 +24,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【IDEQ】IDEQ: an improved diffusion model for the TSP, 2025, arxiv.[[Paper](https://arxiv.org/abs/2412.13858)]
 - 【PolyNet】PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization, 2025, _**ICLR**_.[[Paper](https://arxiv.org/abs/2402.14048)]
 - Cascaded Large-Scale TSP Solving with Unified Neural Guidance: Bridging Local and Population-based Search, 2025, arxiv.[[Paper](https://arxiv.org/abs/2501.14285)]
-- 【SIL】Boosting Neural Combinatorial Optimization for Large-Scale Vehicle Routing Problems, 2025, **_ICLR_**.[[Paper](https://openreview.net/forum?id=TbTJJNjumY)]
+- 【SIL】Boosting Neural Combinatorial Optimization for Large-Scale Vehicle Routing Problems, 2025, **_ICLR_**.[[Paper](https://openreview.net/forum?id=TbTJJNjumY)][[Code](https://github.com/CIAM-Group/SIL)]
 - 【LocalEscaper】LocalEscaper: A Weakly-supervised Framework with Regional Reconstruction  for Scalable Neural TSP Solvers, 2025, arxiv.[[Paper](https://www.arxiv.org/abs/2502.12484)]
 - 【HLGP】Hierarchical Learning-based Graph Partition for Large-scale Vehicle Routing Problems, 2025,  _**AAMAS**_.[[Paper](https://arxiv.org/abs/2502.08340)][[Code](https://github.com/panyxy/hlgp_cvrp)]
 - Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems, 2025, **_TNNLS_**.[[Paper](https://arxiv.org/abs/2308.00560)][[Code](https://github.com/xybFight/NAR4TSP)]
