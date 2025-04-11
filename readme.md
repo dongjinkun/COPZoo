@@ -29,7 +29,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【HLGP】Hierarchical Learning-based Graph Partition for Large-scale Vehicle Routing Problems, 2025,  _**AAMAS**_.[[Paper](https://arxiv.org/abs/2502.08340)][[Code](https://github.com/panyxy/hlgp_cvrp)]
 - Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems, 2025, **_TNNLS_**.[[Paper](https://arxiv.org/abs/2308.00560)][[Code](https://github.com/xybFight/NAR4TSP)]
 - An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem, 2025, _**SIGKDD**_.[[Paper](https://arxiv.org/abs/2501.13767)][[Code](https://github.com/DEITSP/DEITSP)]
-- 【AGFN】Adversarial Generative Flow Network for Solving Vehicle Routing Problems, 2025, _**ICLR**_.[[Paper](https://openreview.net/forum?id=tBom4xOW1H)]
+- 【AGFN】Adversarial Generative Flow Network for Solving Vehicle Routing Problems, 2025, _**ICLR**_.[[Paper](https://openreview.net/forum?id=tBom4xOW1H)][[Code](https://github.com/ZHANG-NI/AGFN)]
 - Rethinking Light Decoder-based Solvers for Vehicle Routing Problems, 2025, _**ICLR**_.[[Paper](https://openreview.net/forum?id=4pRwkYpa2u)]
 - 【DualOpt】DualOpt: A Dual Divide-and-Optimize Algorithm for the Large-scale Traveling Salesman Problem, 2025, _**AAAI**_.[[Paper](https://arxiv.org/abs/2501.08565)][[Code](https://github.com/Learning4Optimization-HUST/DualOpt)]
 - 【CAMP】CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems, 2025, _**AAMAS**_. [[Paper](https://arxiv.org/abs/2501.02977)][[Code](https://github.com/ai4co/camp)]
