@@ -14,7 +14,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _**AIC**_, 2023. [[Paper](https://arxiv.org/abs/2008.12248)]
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 ## 🐣2025
-- Large Language Models Powered Neural Solvers For Generalized Vehicle Routing Problems, 2025, ICLR. [[Paper](https://openreview.net/attachment?id=EVqlVjvlt8&name=pdf)][[Code](https://github.com/Fsoft-AIC/NCO-LLM)]
+- Large Language Models Powered Neural Solvers For Generalized Vehicle Routing Problems, 2025, _**ICLR**_. [[Paper](https://openreview.net/attachment?id=EVqlVjvlt8&name=pdf)][[Code](https://github.com/Fsoft-AIC/NCO-LLM)]
 - 【DRHG】Destroy and Repair Using Hyper-Graphs for Routing, 2025, _**AAAI**_. [[Paper](https://arxiv.org/pdf/2502.16170)][[Code](https://github.com/CIAM-Group/DRHG)]
 - TuneNSearch: a hybrid transfer learning and local search approach for solving vehicle routing problems, 2025, arxiv. [[Paper](https://arxiv.org/pdf/2503.12662)]
 - Neural Combinatorial Optimization for Real-World Routing, 2025, arxiv. [[paper](https://arxiv.org/pdf/2503.16159)][[Code](https://github.com/ai4co/real-routing-nco)]
