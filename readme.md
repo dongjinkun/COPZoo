@@ -14,6 +14,11 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _**AIC**_, 2023. [[Paper](https://arxiv.org/abs/2008.12248)]
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 ## 🐣2025
+- A Mixed-Curvature based Pre-training Paradigm for Multi-Task Vehicle Routing Solver, 2025, _**IJCAI**_.
+- SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder, 2025, _**IJCAI**_.
+- Preference-based Deep Reinforcement Learning for Historical Route Estimation, 2025, _**IJCAI**_.
+- DGL: Dynamic Global-Local Information Aggregation for Scalable VRP Generalization with Self-Improvement Learning, 2025, _**IJCAI**_.
+- EFormer: An Effective Edge-based Transformer for Vehicle Routing Problems, 2025, _**IJCAI**_.
 - 【PO】Preference Optimization for Combinatorial Optimization Problems, 2025, _**ICML**_. [[Paper](https://www.arxiv.org/abs/2505.08735)]
 - 【TrajEvo】TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution, 2025, arxiv. [[Paper](https://arxiv.org/abs/2505.04480)][[Code](https://github.com/ai4co/trajevo)]
 - Large Language Models Powered Neural Solvers For Generalized Vehicle Routing Problems, 2025, _**ICLR**_. [[Paper](https://openreview.net/attachment?id=EVqlVjvlt8&name=pdf)][[Code](https://github.com/Fsoft-AIC/NCO-LLM)]
