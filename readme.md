@@ -14,6 +14,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _**AIC**_, 2023. [[Paper](https://arxiv.org/abs/2008.12248)]
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 ## 🐣2025
+- 【GELD】From Global Assessment to Local Selction: Efficiently Solving Traveling Saleman Problems of All Sizes, 2025, Preprint. [[Paper](https://openreview.net/pdf?id=SBbjwfMuik)][[Code](https://github.com/xybFight/GELD)]
 - 【L2C-insert】Learning to Insert for Constructive Neural Vehicle Routing Solver, 2025, Preprint. [[Paper](https://arxiv.org/abs/2505.13904)]
 - 【RedAHD】RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models, 2025, Preprint. [[Paper](https://arxiv.org/pdf/2505.20242)]
 - A Mixed-Curvature based Pre-training Paradigm for Multi-Task Vehicle Routing Solver, 2025, _**IJCAI**_.
