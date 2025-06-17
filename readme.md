@@ -19,7 +19,7 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【GELD】From Global Assessment to Local Selction: Efficiently Solving Traveling Saleman Problems of All Sizes, 2025, arxiv. [[Paper](https://openreview.net/pdf?id=SBbjwfMuik)][[Code](https://github.com/xybFight/GELD)]
 - 【L2C-insert】Learning to Insert for Constructive Neural Vehicle Routing Solver, 2025, arxiv. [[Paper](https://arxiv.org/abs/2505.13904)]
 - 【RedAHD】RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models, 2025, arxiv. [[Paper](https://arxiv.org/pdf/2505.20242)]
-- A Mixed-Curvature based Pre-training Paradigm for Multi-Task Vehicle Routing Solver, 2025, _**IJCAI**_.
+- A Mixed-Curvature based Pre-training Paradigm for Multi-Task Vehicle Routing Solver, 2025, _**ICML**_.
 - SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder, 2025, _**IJCAI**_.
 - Preference-based Deep Reinforcement Learning for Historical Route Estimation, 2025, _**IJCAI**_.
 - DGL: Dynamic Global-Local Information Aggregation for Scalable VRP Generalization with Self-Improvement Learning, 2025, _**IJCAI**_.
