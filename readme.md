@@ -3,6 +3,7 @@
 - The repository is devoted to sharing advanced and lasted papers that solve challenging Combinatorial Optimization Problems.
 # 🐯Biography
 JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Beijing Jiaotong University.
+My current research interest is Neural Combinatorial Optimization.
 # 🦌Neural Combinatorial Optimization(NCO)
 - PaperList by Learning Paradigm: [PaperList](https://github.com/dongjinkun/COPZoo/blob/main/Paper_by_learning_paradigms.md)
 - PaperList by Task: [PaperList](https://github.com/dongjinkun/COPZoo/blob/main/Paper_by_task.md)
