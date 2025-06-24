@@ -14,16 +14,18 @@ JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Arti
 - 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _**AIC**_, 2023. [[Paper](https://arxiv.org/abs/2008.12248)]
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 ## 🐣2025
+- Curriculum Learning in Genetic Programming  Guided Local Search for Large-scale Vehicle  Routing Problems, 2025, arxiv. [[Paper](https://arxiv.org/abs/2505.15839)]
+- 【MTL-KD】MTL-KD: Multi-Task Learning Via Knowledge Distillation for Generalizable Neural Vehicle Routing Solver, 2025, arxiv. [[Paper](https://arxiv.org/abs/2506.02935)]
 - Enhancing Generalization in Large-Scale HCVRP: A Rank-Augmented Neural Solver, 2025, **_SIGKDD_**. 
 - 【GFACS】Ant Colony Sampling with GFlowNets for Combinatorial Optimization, 2025, arxiv. [[Paper](https://arxiv.org/abs/2403.07041)][[Code](https://github.com/ai4co/gfacs)]
 - 【GELD】From Global Assessment to Local Selction: Efficiently Solving Traveling Saleman Problems of All Sizes, 2025, arxiv. [[Paper](https://openreview.net/pdf?id=SBbjwfMuik)][[Code](https://github.com/xybFight/GELD)]
 - 【L2C-insert】Learning to Insert for Constructive Neural Vehicle Routing Solver, 2025, arxiv. [[Paper](https://arxiv.org/abs/2505.13904)]
 - 【RedAHD】RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models, 2025, arxiv. [[Paper](https://arxiv.org/pdf/2505.20242)]
 - A Mixed-Curvature based Pre-training Paradigm for Multi-Task Vehicle Routing Solver, 2025, _**ICML**_.
-- SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder, 2025, _**IJCAI**_.
+- 【SHIELD】SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder, 2025, _**IJCAI**_. [[Paper](https://arxiv.org/abs/2506.08424)]
 - Preference-based Deep Reinforcement Learning for Historical Route Estimation, 2025, _**IJCAI**_.
 - DGL: Dynamic Global-Local Information Aggregation for Scalable VRP Generalization with Self-Improvement Learning, 2025, _**IJCAI**_.
-- EFormer: An Effective Edge-based Transformer for Vehicle Routing Problems, 2025, _**IJCAI**_.
+- 【EFormer】EFormer: An Effective Edge-based Transformer for Vehicle Routing Problems, 2025, _**IJCAI**_. [[Paper](https://arxiv.org/abs/2506.16428)]
 - 【PO】Preference Optimization for Combinatorial Optimization Problems, 2025, _**ICML**_. [[Paper](https://www.arxiv.org/abs/2505.08735)]
 - 【TrajEvo】TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution, 2025, arxiv. [[Paper](https://arxiv.org/abs/2505.04480)][[Code](https://github.com/ai4co/trajevo)]
 - Large Language Models Powered Neural Solvers For Generalized Vehicle Routing Problems, 2025, _**ICLR**_. [[Paper](https://openreview.net/attachment?id=EVqlVjvlt8&name=pdf)][[Code](https://github.com/Fsoft-AIC/NCO-LLM)]
