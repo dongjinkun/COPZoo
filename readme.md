@@ -122,6 +122,7 @@ My current research interest is Neural Combinatorial Optimization.
 - 【NeuralGLS】Neuralgls: learning to guide local search with graph convolutional network for the traveling salesman problem, 2023, **_Neural Computing and Applications_**.[[Paper](https://link.springer.com/article/10.1007/s00521-023-09042-6)]
 - 【Cnn-Transformer】A Lightweight CNN-Transformer Model for Learning Traveling Salesman Problems, 2023, **_Applied Intelligence_**. [[PDF](https://arxiv.org/abs/2305.01883)][[Code](https://github.com/cm8908/CNN_Transformer3)]
 ## 🦊2022
+- 【SCA】Scale-conditioned Adaptation for Large Scale Combinatorial Optimization, 2022, **_NeurIPS_**. [[Paper](https://openreview.net/forum?id=oy8hDBI8Qx)]
 - 【GNNGLS】Graph Neural Network Guided Local Search for the Traveling Salesperson Problem, 2022, _**ICLR**_.[[Paper](https://arxiv.org/abs/2110.05291)][[Code](https://github.com/proroklab/gnngls)]
 - 【Sym-NCO】Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization, 2022, **_NeurIPS_**.[[Paper](https://arxiv.org/abs/2205.13209)][[Code](https://github.com/fedebotu/Sym-NCO/blob/main/README.md)]
 - Learning to Solve Routing Problems via Distributionally Robust Optimization, 2022, **_AAAI_**.[[Paper](https://arxiv.org/Paper/2202.07241.Paper)][[Code](https://github.com/jiang-yuan/Learning-routing-DRO)]
