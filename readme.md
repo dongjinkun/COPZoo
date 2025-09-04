@@ -15,7 +15,7 @@ My current research interest is Neural Combinatorial Optimization.
 - 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _**AIC**_, 2023. [[Paper](https://arxiv.org/abs/2008.12248)]
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 ## 🐣2025
-- Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning
+- 【TTPL】Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning
 , 2025, arxiv. [[Paper](https://arxiv.org/abs/2506.02392)]
 - 【POMO+】POMO+: Leveraging starting nodes in POMO for solving Capacitated Vehicle Routing Problem, 2025, arxiv. [[Paper](https://www.arxiv.org/abs/2508.08493)]
 - 【L2Seg】Learning to Segment for Vehicle Routing Problems, 2025, arxiv. [[Paper](https://arxiv.org/abs/2507.01037)]
