@@ -29,7 +29,7 @@ My current research interest is Neural Combinatorial Optimization.
 - A Mixed-Curvature based Pre-training Paradigm for Multi-Task Vehicle Routing Solver, 2025, _**ICML**_.
 - 【SHIELD】SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder, 2025, _**IJCAI**_. [[Paper](https://arxiv.org/abs/2506.08424)]
 - Preference-based Deep Reinforcement Learning for Historical Route Estimation, 2025, _**IJCAI**_.
-- DGL: Dynamic Global-Local Information Aggregation for Scalable VRP Generalization with Self-Improvement Learning, 2025, _**IJCAI**_.
+- 【DGL】DGL: Dynamic Global-Local Information Aggregation for Scalable VRP Generalization with Self-Improvement Learning, 2025, _**IJCAI**_. [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/7957.pdf)]
 - 【EFormer】EFormer: An Effective Edge-based Transformer for Vehicle Routing Problems, 2025, _**IJCAI**_. [[Paper](https://arxiv.org/abs/2506.16428)]
 - 【PO】Preference Optimization for Combinatorial Optimization Problems, 2025, _**ICML**_. [[Paper](https://www.arxiv.org/abs/2505.08735)]
 - 【TrajEvo】TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution, 2025, arxiv. [[Paper](https://arxiv.org/abs/2505.04480)][[Code](https://github.com/ai4co/trajevo)]
