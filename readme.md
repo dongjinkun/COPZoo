@@ -1,8 +1,8 @@
-<img width="432" height="32" alt="image" src="https://github.com/user-attachments/assets/139620ce-69a9-4ed2-8e29-8339a138bbc6" /># 🦄Hi, welcome COP ZooParty
+🦄Hi, welcome to the **COP ZooParty**
 - The full name of **COP** is **C**ombinatorial **O**ptimization **P**roblems.
 - The repository is devoted to sharing advanced and lasted papers that solve challenging Combinatorial Optimization Problems.
 # 🐯Biography
-JinkunDong is a second-year PhD student at the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Beijing Jiaotong University.
+JinkunDong is a third-year PhD student at the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Beijing Jiaotong University.
 My current research interest is Neural Combinatorial Optimization.
 # 🦌Neural Combinatorial Optimization(NCO)
 - PaperList by Learning Paradigm: [PaperList](https://github.com/dongjinkun/COPZoo/blob/main/Paper_by_learning_paradigms.md)
