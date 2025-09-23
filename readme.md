@@ -1,4 +1,4 @@
-# 🦄Hi, welcome COP ZooParty
+<img width="432" height="32" alt="image" src="https://github.com/user-attachments/assets/139620ce-69a9-4ed2-8e29-8339a138bbc6" /># 🦄Hi, welcome COP ZooParty
 - The full name of **COP** is **C**ombinatorial **O**ptimization **P**roblems.
 - The repository is devoted to sharing advanced and lasted papers that solve challenging Combinatorial Optimization Problems.
 # 🐯Biography
@@ -15,8 +15,17 @@ My current research interest is Neural Combinatorial Optimization.
 - 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _**AIC**_, 2023. [[Paper](https://arxiv.org/abs/2008.12248)]
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 ## 🐣2025
+- 【PARCO】PARCO: Learning Parallel Autoregressive Policies for Efficient Multi-Agent Combinatorial Optimization, 2025,  **_Nips_**.[[Paper](https://www.arxiv.org/abs/2409.03811)][[Code](https://github.com/ai4co/parco)]
+- Neural Combinatorial Optimization for Time Dependent Traveling Salesman Problem, 2025, **_Nips_**.
+- Solving the Asymmetric Traveling Salesman Problem via Trace-Guided Cost Augmentation, 2025, **_Nips_**.
+- Large Language Models as End-to-end Combinatorial Optimization Solvers, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2509.16865)]
+- UniteFormer: Unifying Node and Edge Modalities in Transformers for Vehicle Routing Problem, 2025, **_Nips_**.
+- Probing Neural Combinatorial Optimization Models, 2025, **_Nips_**.
+- 【HBG】Hybrid-Balance GFlowNet for Solving Vehicle Routing Problems, 2025, **_Nips_**.
+- 【L2C-insert】Learning to Insert for Constructive Neural Vehicle Routing Solver, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2505.13904)]
+- Rethinking Neural Combinatorial Optimization for Vehicle Routing Problems with Different Constraint Tightness Degrees, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2505.24627)]
 - 【TTPL】Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning
-, 2025, arxiv. [[Paper](https://arxiv.org/abs/2506.02392)]
+, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2506.02392)]
 - 【POMO+】POMO+: Leveraging starting nodes in POMO for solving Capacitated Vehicle Routing Problem, 2025, arxiv. [[Paper](https://www.arxiv.org/abs/2508.08493)]
 - 【L2Seg】Learning to Segment for Vehicle Routing Problems, 2025, arxiv. [[Paper](https://arxiv.org/abs/2507.01037)]
 - Curriculum Learning in Genetic Programming  Guided Local Search for Large-scale Vehicle  Routing Problems, 2025, arxiv. [[Paper](https://arxiv.org/abs/2505.15839)]
@@ -24,7 +33,6 @@ My current research interest is Neural Combinatorial Optimization.
 - Enhancing Generalization in Large-Scale HCVRP: A Rank-Augmented Neural Solver, 2025, **_SIGKDD_**. 
 - 【GFACS】Ant Colony Sampling with GFlowNets for Combinatorial Optimization, 2025, arxiv. [[Paper](https://arxiv.org/abs/2403.07041)][[Code](https://github.com/ai4co/gfacs)]
 - 【GELD】From Global Assessment to Local Selction: Efficiently Solving Traveling Saleman Problems of All Sizes, 2025, arxiv. [[Paper](https://openreview.net/pdf?id=SBbjwfMuik)][[Code](https://github.com/xybFight/GELD)]
-- 【L2C-insert】Learning to Insert for Constructive Neural Vehicle Routing Solver, 2025, arxiv. [[Paper](https://arxiv.org/abs/2505.13904)]
 - 【RedAHD】RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models, 2025, arxiv. [[Paper](https://arxiv.org/pdf/2505.20242)]
 - A Mixed-Curvature based Pre-training Paradigm for Multi-Task Vehicle Routing Solver, 2025, _**ICML**_.
 - 【SHIELD】SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder, 2025, _**IJCAI**_. [[Paper](https://arxiv.org/abs/2506.08424)]
@@ -58,7 +66,6 @@ My current research interest is Neural Combinatorial Optimization.
 ## 🦍2024
 - 【MARCO】MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization, 2024, _**IJCAI**_. [[Paper](https://www.ijcai.org/proceedings/2024/0766.pdf)][[Code](https://github.com/TheLeprechaun25/MARCO)]
 - 【LRBS】Scaling Combinatorial Optimization Neural Improvement Heuristics with Online Search and Adaptation, 2024, arxiv. [[Paper](https://arxiv.org/abs/2412.10163)]
-- 【PARCO】PARCO: Learning Parallel Autoregressive Policies for Efficient Multi-Agent Combinatorial Optimization, 2024, arxiv.[[Paper](https://www.arxiv.org/abs/2409.03811)][[Code](https://github.com/ai4co/parco)]
 - 【UNCO】UNCO: Towards Unifying Neural Combinatorial Optimization through Large Language Model, 2024, arxiv.[[Paper](https://arxiv.org/abs/2408.12214)]
 - 【EoH】Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model, 2024, _**ICML**_.[[Paper](https://arxiv.org/abs/2401.02051)][[Code](https://github.com/FeiLiu36/EoH)]
 - 【ReEvo】Large Language Models as Hyper-Heuristics for Combinatorial Optimization, 2024, _**Nips**_.[[Paper](https://arxiv.org/pdf/2402.01145)][[Code](https://github.com/ai4co/reevo)]
