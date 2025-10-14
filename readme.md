@@ -18,7 +18,7 @@ My current research interest is Neural Combinatorial Optimization.
 - 【PARCO】PARCO: Learning Parallel Autoregressive Policies for Efficient Multi-Agent Combinatorial Optimization, 2025,  **_Nips_**.[[Paper](https://www.arxiv.org/abs/2409.03811)][[Code](https://github.com/ai4co/parco)]
 - Neural Combinatorial Optimization for Time Dependent Traveling Salesman Problem, 2025, **_Nips_**.
 - Solving the Asymmetric Traveling Salesman Problem via Trace-Guided Cost Augmentation, 2025, **_Nips_**.
-- Large Language Models as End-to-end Combinatorial Optimization Solvers, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2509.16865)]
+- Large Language Models as End-to-end Combinatorial Optimization Solvers, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2509.16865)][[Code](https://github.com/Summer142857/LLMCoSolver)]
 - UniteFormer: Unifying Node and Edge Modalities in Transformers for Vehicle Routing Problem, 2025, **_Nips_**.
 - Probing Neural Combinatorial Optimization Models, 2025, **_Nips_**.
 - 【HBG】Hybrid-Balance GFlowNet for Solving Vehicle Routing Problems, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2510.04792)][[Code](https://github.com/ZHANG-NI/HBG?tab=readme-ov-file)]
