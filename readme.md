@@ -16,7 +16,7 @@ My current research interest is Neural Combinatorial Optimization.
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 ## 🐣2025
 - Recurrent State Encoders for Efficient Neural Combinatorial Optimization, 2025, arxiv. [[Paper](https://www.arxiv.org/abs/2509.05084)][[Code](https://github.com/TimD3/Recurrent-NCO)]
-- VRPAGENT: LLM-DRIVEN DISCOVERY OF HEURISTIC OPERATORS FOR VEHICLE ROUTING PROBLEMS, 2025, arxiv. [[Paper](https://arxiv.org/abs/2510.07073)]
+- VRPAGENT: LLM-Driven Discovery Of Heuristic Operators For Vehicle Routing Problems, 2025, arxiv. [[Paper](https://arxiv.org/abs/2510.07073)]
 - 【PARCO】PARCO: Learning Parallel Autoregressive Policies for Efficient Multi-Agent Combinatorial Optimization, 2025,  **_Nips_**.[[Paper](https://www.arxiv.org/abs/2409.03811)][[Code](https://github.com/ai4co/parco)]
 - Neural Combinatorial Optimization for Time Dependent Traveling Salesman Problem, 2025, **_Nips_**.
 - Solving the Asymmetric Traveling Salesman Problem via Trace-Guided Cost Augmentation, 2025, **_Nips_**.
