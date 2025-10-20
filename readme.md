@@ -1,9 +1,9 @@
-# 🦄Hi, welcome to the **COP ZooParty**
-- The full name of **COP** is **C**ombinatorial **O**ptimization **P**roblems.
+# 🦄Hi, welcome to the **NCO ZooParty**
+- The full name of **NCO** is **N**eural **C**ombinatorial **O**ptimization.
 - The repository is devoted to sharing advanced and lasted papers that solve challenging Combinatorial Optimization Problems.
 # 🐯Biography
-JinkunDong is a third-year PhD student at the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Beijing Jiaotong University.
-My current research interest is Neural Combinatorial Optimization.
+- JinkunDong is a third-year PhD student at the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Beijing Jiaotong University.
+- Current research interest is Vehicle Routing Problems.
 # 🦌Neural Combinatorial Optimization(NCO)
 - PaperList by Learning Paradigm: [PaperList](https://github.com/dongjinkun/COPZoo/blob/main/Paper_by_learning_paradigms.md)
 - PaperList by Task: [PaperList](https://github.com/dongjinkun/COPZoo/blob/main/Paper_by_task.md)
@@ -153,7 +153,7 @@ My current research interest is Neural Combinatorial Optimization.
 - Large Neighborhood Search based on Neural Construction Heuristics, 2022, arxiv.[[Paper](https://arxiv.org/Paper/2205.00772.Paper)][[Code](https://github.com/jokofa/JAMPR_plus)]
 - Reinforced Hybrid Genetic Algorithm for the Traveling Salesman Problem, 2022, **_Computers & Operations Research_**.[[Paper](https://arxiv.org/Paper/2107.06870.Paper)]
 - 【RBG】Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, 2022, **_KDD_**.[[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539037)]
-## 🐱others
+## 🐱Earlier
 - 【L2D】Learning to delegate for large-scale vehicle routing, 2021, _**Nips**_. [[Paper](https://arxiv.org/abs/2107.04139)][[Code](https://github.com/mit-wu-lab/learning-to-delegate)]
 - Erdo ̋s Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs, 2020, _**Nips**_. [[Paper](https://proceedings.nips.cc/paper_files/paper/2020/file/49f85a9ed090b20c8bed85a5923c669f-Paper.pdf)][[Code](https://github.com/Stalence/erdos_neu)]
 - Efficiently Solving the Practical Vehicle Routing Problem: A Novel Joint Learning Approach, 2020, **_KDD_**. [[Paper](https://dl.acm.org/doi/10.1145/3394486.3403356)][[Code](https://github.com/wang-rq/GCN-NPEC)]
