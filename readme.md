@@ -1,4 +1,5 @@
-# 🦄Hi, welcome to the **NCO ZooParty**
+# 🦄**NCO-ZooParty**
+- Welcome to the NCo-ZooParty.
 - The full name of **NCO** is **N**eural **C**ombinatorial **O**ptimization.
 - The repository is devoted to sharing advanced and lasted papers that solve challenging Combinatorial Optimization Problems.
 # 🐯Biography
