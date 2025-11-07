@@ -26,7 +26,7 @@
 - Solving the Asymmetric Traveling Salesman Problem via Trace-Guided Cost Augmentation, 2025, **_Nips_**.
 - Large Language Models as End-to-end Combinatorial Optimization Solvers, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2509.16865)][[Code](https://github.com/Summer142857/LLMCoSolver)]
 - UniteFormer: Unifying Node and Edge Modalities in Transformers for Vehicle Routing Problem, 2025, **_Nips_**.
-- Probing Neural Combinatorial Optimization Models, 2025, **_Nips_**.
+- Probing Neural Combinatorial Optimization Models, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2510.22131)][[Code](https://github.com/123zhangzq/NeurIPS2025_probing)]
 - 【HBG】Hybrid-Balance GFlowNet for Solving Vehicle Routing Problems, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2510.04792)][[Code](https://github.com/ZHANG-NI/HBG?tab=readme-ov-file)]
 - 【L2C-insert】Learning to Insert for Constructive Neural Vehicle Routing Solver, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2505.13904)]
 - Rethinking Neural Combinatorial Optimization for Vehicle Routing Problems with Different Constraint Tightness Degrees, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2505.24627)]
