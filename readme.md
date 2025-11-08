@@ -28,10 +28,10 @@
 - UniteFormer: Unifying Node and Edge Modalities in Transformers for Vehicle Routing Problem, 2025, **_Nips_**.
 - Probing Neural Combinatorial Optimization Models, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2510.22131)][[Code](https://github.com/123zhangzq/NeurIPS2025_probing)]
 - 【HBG】Hybrid-Balance GFlowNet for Solving Vehicle Routing Problems, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2510.04792)][[Code](https://github.com/ZHANG-NI/HBG?tab=readme-ov-file)]
-- 【L2C-insert】Learning to Insert for Constructive Neural Vehicle Routing Solver, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2505.13904)]
-- Rethinking Neural Combinatorial Optimization for Vehicle Routing Problems with Different Constraint Tightness Degrees, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2505.24627)]
+- 【L2C-insert】Learning to Insert for Constructive Neural Vehicle Routing Solver, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2505.13904)][[Code](https://github.com/CIAM-Group/L2C_Insert)]
+- Rethinking Neural Combinatorial Optimization for Vehicle Routing Problems with Different Constraint Tightness Degrees, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2505.24627)][[Code](https://github.com/CIAM-Group/Rethinking_Constraint_Tightness)]
 - 【TTPL】Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning
-, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2506.02392)]
+, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2506.02392)][[Code](https://github.com/CIAM-Group/TTPL)]
 - 【POMO+】POMO+: Leveraging starting nodes in POMO for solving Capacitated Vehicle Routing Problem, 2025, arxiv. [[Paper](https://www.arxiv.org/abs/2508.08493)]
 - 【L2Seg】Learning to Segment for Vehicle Routing Problems, 2025, arxiv. [[Paper](https://arxiv.org/abs/2507.01037)]
 - Curriculum Learning in Genetic Programming  Guided Local Search for Large-scale Vehicle  Routing Problems, 2025, arxiv. [[Paper](https://arxiv.org/abs/2505.15839)]
@@ -80,7 +80,7 @@
 - 【GOAL】GOAL: A Generalist Combinatorial Optimization Agent Learner, 2024, arxiv. [[Paper](https://arxiv.org/abs/2406.15079)][[Code](https://github.com/naver/goal-co)]
 - 【UDC】UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems, 2024, _**Nips**_. [[Paper](https://arxiv.org/abs/2407.00312?context=cs.AI)][[Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/UDC-Large-scale-CO-master)]
 - 【DISCO】DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems, 2024, arxiv.[[Paper](https://arxiv.org/abs/2406.19705)]
-- 【ICAM】Instance-Conditioned Adaptation for Large-scale Generalization of Neural Combinatorial Optimization, 2024, arxiv. [[Paper](https://arxiv.org/abs/2405.01906)]
+- 【ICAM】Instance-Conditioned Adaptation for Large-scale Generalization of Neural Combinatorial Optimization, 2024, arxiv. [[Paper](https://arxiv.org/abs/2405.01906)][[Code](https://github.com/CIAM-Group/ICAM)]
 - 【MEMENTO】Memory-Enhanced Neural Solvers for Efficient Adaptation in Combinatorial Optimization, 2024, arxiv. [[Paper](https://arxiv.org/abs/2408.03585)][[Code](https://github.com/instadeepai/memento)]
 - 【HNC】Hierarchical Neural Constructive Solver for Real-world TSP Scenarios, 2024, _**SIGKDD**_.[[Paper](https://arxiv.org/abs/2408.03585)]
 - 【GD】Self-Improvement for Neural Combinatorial Optimization: Sample without Replacement, but Improvement, 2024, _**TMLR**_.[[Paper](https://arxiv.org/abs/2403.15180)][[Code](https://github.com/grimmlab/gumbeldore)]
