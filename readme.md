@@ -17,7 +17,8 @@
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 
 ## 🐈2026
-
+- 【EoH-S】EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design, 2026, _**AAAI**_.
+[[Paper](https://arxiv.org/abs/2508.03082)][[Code](https://github.com/FeiLiu36/EoH-S?tab=readme-ov-file)]
 ## 🐣2025
 - Recurrent State Encoders for Efficient Neural Combinatorial Optimization, 2025, arxiv. [[Paper](https://www.arxiv.org/abs/2509.05084)][[Code](https://github.com/TimD3/Recurrent-NCO)]
 - 【VRPAGENT】VRPAGENT: LLM-Driven Discovery Of Heuristic Operators For Vehicle Routing Problems, 2025, arxiv. [[Paper](https://arxiv.org/abs/2510.07073)][[Code](https://github.com/ai4co/vrpagent)]
