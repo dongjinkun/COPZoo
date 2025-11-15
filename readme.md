@@ -17,12 +17,13 @@
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 
 ## 🐈2026
-
+- Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation, 2026, _**AAAI**_. [[Code](https://github.com/HenryZhu1029/EvoReal)]
+- 【EoH-S】EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design, 2026, _**AAAI**_.
+[[Paper](https://arxiv.org/abs/2508.03082)][[Code](https://github.com/FeiLiu36/EoH-S?tab=readme-ov-file)]
+- Scale-Net: A Hierarchical U-Net Framework for Cross-Scale Generalization in Multi-Task Vehicle Routing, 2026,  _**AAAI**_. [[Code](https://github.com/lsyysl9711/Scale-Net)]
 ## 🐣2025
 - 【URS】URS: A unified neural routing solver for cross-problem zero-shot generalization, 2025, arxiv. [[Paper](https://arxiv.org/abs/2509.23413)]
 - Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design, 2025, _**Nips**_. [[Paper](https://arxiv.org/abs/2501.08603)][[Code](https://github.com/zz1358m/MCTS-AHD-master)]
-- 【EoH-S】EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design, 2026, _**AAAI**_.
-[[Paper](https://arxiv.org/abs/2508.03082)][[Code](https://github.com/FeiLiu36/EoH-S?tab=readme-ov-file)]
 - Recurrent State Encoders for Efficient Neural Combinatorial Optimization, 2025, arxiv. [[Paper](https://www.arxiv.org/abs/2509.05084)][[Code](https://github.com/TimD3/Recurrent-NCO)]
 - 【VRPAGENT】VRPAGENT: LLM-Driven Discovery Of Heuristic Operators For Vehicle Routing Problems, 2025, arxiv. [[Paper](https://arxiv.org/abs/2510.07073)][[Code](https://github.com/ai4co/vrpagent)]
 - 【PARCO】PARCO: Learning Parallel Autoregressive Policies for Efficient Multi-Agent Combinatorial Optimization, 2025,  **_Nips_**.[[Paper](https://www.arxiv.org/abs/2409.03811)][[Code](https://github.com/ai4co/parco)]
