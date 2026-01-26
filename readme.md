@@ -17,13 +17,13 @@
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 
 ## 🐈2026
-- DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization, 2026, **_AAMAS_**. [[Paper](https://arxiv.org/abs/2601.06502)][[Code]()]
-- LLMAide: Language-Assisted Neural Solver for Vehicle Routing Problems, 2026, **_AAMAS_**.
-- PyVRP+: LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems, 2026, **_AAMAS_**.
-- Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation, 2026, _**AAAI**_. [[Paper](https://arxiv.org/abs/2511.10233)][[Code](https://github.com/HenryZhu1029/EvoReal)]
+- 【DRAGON】DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization, 2026, **_AAMAS_**. [[Paper](https://arxiv.org/abs/2601.06502)][[Code]()]
+- 【LLMAide】LLMAide: Language-Assisted Neural Solver for Vehicle Routing Problems, 2026, **_AAMAS_**.
+- 【PyVRP+】PyVRP+: LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems, 2026, **_AAMAS_**.
+- 【EvoReal】Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation, 2026, _**AAAI**_. [[Paper](https://arxiv.org/abs/2511.10233)][[Code](https://github.com/HenryZhu1029/EvoReal)]
 - 【EoH-S】EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design, 2026, _**AAAI**_.
 [[Paper](https://arxiv.org/abs/2508.03082)][[Code](https://github.com/FeiLiu36/EoH-S?tab=readme-ov-file)]
-- Scale-Net: A Hierarchical U-Net Framework for Cross-Scale Generalization in Multi-Task Vehicle Routing, 2026,  _**AAAI**_. [[Paper](https://github.com/lsyysl9711/Scale-Net/tree/main/Paper)][[Code](https://github.com/lsyysl9711/Scale-Net)]
+- 【Scale-Net】Scale-Net: A Hierarchical U-Net Framework for Cross-Scale Generalization in Multi-Task Vehicle Routing, 2026,  _**AAAI**_. [[Paper](https://github.com/lsyysl9711/Scale-Net/tree/main/Paper)][[Code](https://github.com/lsyysl9711/Scale-Net)]
 ## 🐣2025
 - 【URS】URS: A unified neural routing solver for cross-problem zero-shot generalization, 2025, arxiv. [[Paper](https://arxiv.org/abs/2509.23413)]
 - Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design, 2025, _**Nips**_. [[Paper](https://arxiv.org/abs/2501.08603)][[Code](https://github.com/zz1358m/MCTS-AHD-master)]
