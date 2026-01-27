@@ -17,6 +17,24 @@
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 
 ## 🐈2026
+- MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization, 2026, _**ICLR**_.
+- Gelato: Graph Edit Distance via Autoregressive Neural Combinatorial Optimization, 2026, _**ICLR**_.
+- From Sequential to Parallel: Reformulating Dynamic Programming as GPU Kernels for Large-Scale Stochastic Combinatorial Optimization, 2026, _**ICLR**_.
+- ConRep4CO: Contrastive Representation Learning of Combinatorial Optimization Instances across Types, 2026, _**ICLR**_.
+- FrontierCO: Real-World and Large-Scale Evaluation of Machine Learning Solvers for Combinatorial Optimization, 2026, _**ICLR**_.
+- Multi-Action Self-Improvement For Neural Combinatorial Optimization, 2026, _**ICLR**_.
+- Representation Learning and Exploiting for Combinatorial Optimization, 2026, _**ICLR**_.
+- HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization, 2026, _**ICLR**_.
+- Native Adaptive Solution Expansion for Diffusion-based Combinatorial Optimization, 2026, _**ICLR**_.
+- ViTSP: A Vision Language Models Guided Framework for Large-Scale Traveling Salesman Problems, 2026, _**ICLR**_.
+- Generalizable Heuristic Generation Through LLMs with Meta-Optimization, 2026, _**ICLR**_.
+- Towards Real-World Routing with Neural Combinatorial Optimization, 2026, _**ICLR**_.
+- Towards Efficient Constraint Handling in Neural Solvers for Routing Problems, 2026, _**ICLR**_.
+- Chain-of-Context Learning: Dynamic Constraint Understanding for Multi-Task VRPs, 2026, _**ICLR**_.
+- RADAR: Learning to Route with Asymmetry-aware Distance Representations, 2026, _**ICLR**_.
+- Combination-of-Experts with Knowledge Sharing for Cross-Task Vehicle Routing Problems, 2026, _**ICLR**_.
+- An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems, 2026, _**ICLR**_.
+- 【L2Seg】Learning to Segment for Vehicle Routing Problems, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2507.01037)]
 - 【DRAGON】DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization, 2026, **_AAMAS_**. [[Paper](https://arxiv.org/abs/2601.06502)][[Code]()]
 - 【LLMAide】LLMAide: Language-Assisted Neural Solver for Vehicle Routing Problems, 2026, **_AAMAS_**.
 - 【PyVRP+】PyVRP+: LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems, 2026, **_AAMAS_**.
@@ -41,7 +59,6 @@
 - 【TTPL】Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning
 , 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2506.02392)][[Code](https://github.com/CIAM-Group/TTPL)]
 - 【POMO+】POMO+: Leveraging starting nodes in POMO for solving Capacitated Vehicle Routing Problem, 2025, arxiv. [[Paper](https://www.arxiv.org/abs/2508.08493)]
-- 【L2Seg】Learning to Segment for Vehicle Routing Problems, 2025, arxiv. [[Paper](https://arxiv.org/abs/2507.01037)]
 - Curriculum Learning in Genetic Programming  Guided Local Search for Large-scale Vehicle  Routing Problems, 2025, arxiv. [[Paper](https://arxiv.org/abs/2505.15839)]
 - 【MTL-KD】MTL-KD: Multi-Task Learning Via Knowledge Distillation for Generalizable Neural Vehicle Routing Solver, 2025, arxiv. [[Paper](https://arxiv.org/abs/2506.02935)]
 - Enhancing Generalization in Large-Scale HCVRP: A Rank-Augmented Neural Solver, 2025, **_SIGKDD_**. 
