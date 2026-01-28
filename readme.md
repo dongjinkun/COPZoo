@@ -28,7 +28,7 @@
 - Native Adaptive Solution Expansion for Diffusion-based Combinatorial Optimization, 2026, _**ICLR**_.
 - ViTSP: A Vision Language Models Guided Framework for Large-Scale Traveling Salesman Problems, 2026, _**ICLR**_.
 - Generalizable Heuristic Generation Through LLMs with Meta-Optimization, 2026, _**ICLR**_.
-- Towards Real-World Routing with Neural Combinatorial Optimization, 2026, _**ICLR**_.
+- Towards Real-World Routing with Neural Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2503.16159)][[Code](https://github.com/ai4co/real-routing-nco)]
 - Towards Efficient Constraint Handling in Neural Solvers for Routing Problems, 2026, _**ICLR**_.
 - Chain-of-Context Learning: Dynamic Constraint Understanding for Multi-Task VRPs, 2026, _**ICLR**_.
 - RADAR: Learning to Route with Asymmetry-aware Distance Representations, 2026, _**ICLR**_.
