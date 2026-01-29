@@ -17,7 +17,7 @@
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 
 ## 🐈2026
-- MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization, 2026, _**ICLR**_.
+- 【MaskCO】MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization, 2026, _**ICLR**_.
 - Gelato: Graph Edit Distance via Autoregressive Neural Combinatorial Optimization, 2026, _**ICLR**_.
 - From Sequential to Parallel: Reformulating Dynamic Programming as GPU Kernels for Large-Scale Stochastic Combinatorial Optimization, 2026, _**ICLR**_.
 - ConRep4CO: Contrastive Representation Learning of Combinatorial Optimization Instances across Types, 2026, _**ICLR**_.
