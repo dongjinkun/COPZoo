@@ -18,23 +18,23 @@
 
 ## 🐈2026
 - 【GMS】Beyond Simple Graphs: Neural Multi-Objective Routing on Multigraphs, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2506.22095)]
-- 【MaskCO】MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization, 2026, _**ICLR**_.
-- Gelato: Graph Edit Distance via Autoregressive Neural Combinatorial Optimization, 2026, _**ICLR**_.
+- 【MaskCO】MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=psUjNnLhl9)]
+- Gelato: Graph Edit Distance via Autoregressive Neural Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=6ZTcLNmguc)]
 - From Sequential to Parallel: Reformulating Dynamic Programming as GPU Kernels for Large-Scale Stochastic Combinatorial Optimization, 2026, _**ICLR**_.
-- ConRep4CO: Contrastive Representation Learning of Combinatorial Optimization Instances across Types, 2026, _**ICLR**_.
-- FrontierCO: Real-World and Large-Scale Evaluation of Machine Learning Solvers for Combinatorial Optimization, 2026, _**ICLR**_.
-- Multi-Action Self-Improvement For Neural Combinatorial Optimization, 2026, _**ICLR**_.
+- ConRep4CO: Contrastive Representation Learning of Combinatorial Optimization Instances across Types, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=OXRnvOOiAf)]
+- FrontierCO: Real-World and Large-Scale Evaluation of Machine Learning Solvers for Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=BVprkacwFY)]
+- Multi-Action Self-Improvement For Neural Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2510.12273)]
 - Representation Learning and Exploiting for Combinatorial Optimization, 2026, _**ICLR**_.
-- HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization, 2026, _**ICLR**_.
-- Native Adaptive Solution Expansion for Diffusion-based Combinatorial Optimization, 2026, _**ICLR**_.
-- ViTSP: A Vision Language Models Guided Framework for Large-Scale Traveling Salesman Problems, 2026, _**ICLR**_.
-- Generalizable Heuristic Generation Through LLMs with Meta-Optimization, 2026, _**ICLR**_.
+- HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2506.07972)]
+- Native Adaptive Solution Expansion for Diffusion-based Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=KMaBXMWsBM)]
+- ViTSP: A Vision Language Models Guided Framework for Large-Scale Traveling Salesman Problems, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2509.23465)]
+- Generalizable Heuristic Generation Through LLMs with Meta-Optimization, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2505.20881)]
 - 【RRNCO】Towards Real-World Routing with Neural Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2503.16159)][[Code](https://github.com/ai4co/real-routing-nco)]
-- Towards Efficient Constraint Handling in Neural Solvers for Routing Problems, 2026, _**ICLR**_.
+- Towards Efficient Constraint Handling in Neural Solvers for Routing Problems, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=raDFGuQxvD)]
 - Chain-of-Context Learning: Dynamic Constraint Understanding for Multi-Task VRPs, 2026, _**ICLR**_.
-- RADAR: Learning to Route with Asymmetry-aware Distance Representations, 2026, _**ICLR**_.
+- RADAR: Learning to Route with Asymmetry-aware Distance Representations, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=lWdxX5s9T1)]
 - Combination-of-Experts with Knowledge Sharing for Cross-Task Vehicle Routing Problems, 2026, _**ICLR**_.
-- An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems, 2026, _**ICLR**_.
+- An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2510.16701)]
 - 【L2Seg】Learning to Segment for Vehicle Routing Problems, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2507.01037)]
 - 【DRAGON】DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization, 2026, **_AAMAS_**. [[Paper](https://arxiv.org/abs/2601.06502)][[Code]()]
 - 【LLMAide】LLMAide: Language-Assisted Neural Solver for Vehicle Routing Problems, 2026, **_AAMAS_**.
