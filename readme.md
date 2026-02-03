@@ -17,6 +17,7 @@
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 
 ## 🐈2026
+- 【EGAM】EGAM: Extended Graph Attention Model for Solving Routing Problems, 2026, arxiv. [[Paper](https://www.arxiv.org/abs/2601.21281)]
 - 【GMS】Beyond Simple Graphs: Neural Multi-Objective Routing on Multigraphs, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2506.22095)]
 - 【MaskCO】MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=psUjNnLhl9)]
 - Gelato: Graph Edit Distance via Autoregressive Neural Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=6ZTcLNmguc)]
