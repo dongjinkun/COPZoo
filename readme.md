@@ -25,16 +25,16 @@
 - ConRep4CO: Contrastive Representation Learning of Combinatorial Optimization Instances across Types, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=OXRnvOOiAf)]
 - FrontierCO: Real-World and Large-Scale Evaluation of Machine Learning Solvers for Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=BVprkacwFY)]
 - Multi-Action Self-Improvement For Neural Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2510.12273)]
-- Representation Learning and Exploiting for Combinatorial Optimization, 2026, _**ICLR**_.
+- Representation Learning and Exploiting for Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=vaJ4FObpXN)]
 - HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2506.07972)]
 - Native Adaptive Solution Expansion for Diffusion-based Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=KMaBXMWsBM)]
 - ViTSP: A Vision Language Models Guided Framework for Large-Scale Traveling Salesman Problems, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2509.23465)]
 - Generalizable Heuristic Generation Through LLMs with Meta-Optimization, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2505.20881)]
 - 【RRNCO】Towards Real-World Routing with Neural Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2503.16159)][[Code](https://github.com/ai4co/real-routing-nco)]
 - Towards Efficient Constraint Handling in Neural Solvers for Routing Problems, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=raDFGuQxvD)]
-- Chain-of-Context Learning: Dynamic Constraint Understanding for Multi-Task VRPs, 2026, _**ICLR**_.
+- Chain-of-Context Learning: Dynamic Constraint Understanding for Multi-Task VRPs, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=AhE6aSlz5g)]
 - RADAR: Learning to Route with Asymmetry-aware Distance Representations, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=lWdxX5s9T1)]
-- Combination-of-Experts with Knowledge Sharing for Cross-Task Vehicle Routing Problems, 2026, _**ICLR**_.
+- Combination-of-Experts with Knowledge Sharing for Cross-Task Vehicle Routing Problems, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=lHBs9mbgwp)]
 - An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2510.16701)]
 - 【L2Seg】Learning to Segment for Vehicle Routing Problems, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2507.01037)]
 - 【DRAGON】DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization, 2026, **_AAMAS_**. [[Paper](https://arxiv.org/abs/2601.06502)][[Code]()]
