@@ -61,9 +61,9 @@
 - Rethinking Neural Combinatorial Optimization for Vehicle Routing Problems with Different Constraint Tightness Degrees, 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2505.24627)][[Code](https://github.com/CIAM-Group/Rethinking_Constraint_Tightness)]
 - 【TTPL】Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning
 , 2025, **_Nips_**. [[Paper](https://arxiv.org/abs/2506.02392)][[Code](https://github.com/CIAM-Group/TTPL)]
+- 【MTL-KD】MTL-KD: Multi-Task Learning Via Knowledge Distillation for Generalizable Neural Vehicle Routing Solver, 2025, _**Nips**_. [[Paper](https://arxiv.org/abs/2506.02935)][[Code](https://github.com/CIAM-Group/MTLKD)]
 - 【POMO+】POMO+: Leveraging starting nodes in POMO for solving Capacitated Vehicle Routing Problem, 2025, arxiv. [[Paper](https://www.arxiv.org/abs/2508.08493)]
 - Curriculum Learning in Genetic Programming  Guided Local Search for Large-scale Vehicle  Routing Problems, 2025, arxiv. [[Paper](https://arxiv.org/abs/2505.15839)]
-- 【MTL-KD】MTL-KD: Multi-Task Learning Via Knowledge Distillation for Generalizable Neural Vehicle Routing Solver, 2025, arxiv. [[Paper](https://arxiv.org/abs/2506.02935)]
 - Enhancing Generalization in Large-Scale HCVRP: A Rank-Augmented Neural Solver, 2025, **_SIGKDD_**. 
 - 【GFACS】Ant Colony Sampling with GFlowNets for Combinatorial Optimization, 2025, arxiv. [[Paper](https://arxiv.org/abs/2403.07041)][[Code](https://github.com/ai4co/gfacs)]
 - 【GELD】From Global Assessment to Local Selction: Efficiently Solving Traveling Saleman Problems of All Sizes, 2025, arxiv. [[Paper](https://openreview.net/pdf?id=SBbjwfMuik)][[Code](https://github.com/xybFight/GELD)]
