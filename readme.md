@@ -17,6 +17,7 @@
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
 
 ## 🐈2026
+- Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2510.11121)]
 - 【EGAM】EGAM: Extended Graph Attention Model for Solving Routing Problems, 2026, arxiv. [[Paper](https://www.arxiv.org/abs/2601.21281)]
 - 【GMS】Beyond Simple Graphs: Neural Multi-Objective Routing on Multigraphs, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2506.22095)]
 - 【MaskCO】MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=psUjNnLhl9)]
@@ -33,7 +34,7 @@
 - 【RRNCO】Towards Real-World Routing with Neural Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2503.16159)][[Code](https://github.com/ai4co/real-routing-nco)]
 - Towards Efficient Constraint Handling in Neural Solvers for Routing Problems, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=raDFGuQxvD)]
 - Chain-of-Context Learning: Dynamic Constraint Understanding for Multi-Task VRPs, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=AhE6aSlz5g)]
-- RADAR: Learning to Route with Asymmetry-aware Distance Representations, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=lWdxX5s9T1)]
+- 【RADAR】RADAR: Learning to Route with Asymmetry-aware Distance Representations, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=lWdxX5s9T1)]
 - Combination-of-Experts with Knowledge Sharing for Cross-Task Vehicle Routing Problems, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=lHBs9mbgwp)]
 - An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2510.16701)]
 - 【L2Seg】Learning to Segment for Vehicle Routing Problems, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2507.01037)]
