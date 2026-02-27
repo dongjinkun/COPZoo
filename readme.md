@@ -198,7 +198,6 @@
 - 【NeuroLKH】NeuroLKH: Combining Deep Learning Model with Lin-Kernighan-Helsgaun Heuristic for Solving the Traveling Salesman Problem, 2021, **_NeurIPS_**.[[Paper](https://arxiv.org/Paper/2110.07983.Paper)][[Code](https://github.com/liangxinedu/NeuroLKH)]
 - 【LCP】Learning Collaborative Policies to Solve NP-hard Routing Problems, 2021, **_NeurIPS_**.[[Paper](https://arxiv.org/abs/2110.13987)][[Code](https://github.com/alstn12088/LCP)]
 - 【DACT】Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer, 2021, **_NeurIPS_**.[[Paper](https://arxiv.org/abs/2110.02544)][[Code](https://github.com/yining043/VRP-DACT?tab=readme-ov-file)]
-- 【MatNet】Matrix Encoding Networks for Neural Combinatorial Optimization, 2021, **_NeurIPS_**.[[Paper](https://arxiv.org/abs/2106.11113)][[Code](https://github.com/yd-kwon/MatNet)]
 - 【Ptr-Net】Pointer Networks, 2017, **_NeurIPS_**.[[Paper](https://arxiv.org/Paper/1506.03134.Paper)][[Code](https://github.com/shirgur/pointernet)]
 - 【GCN】An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, 2019, **_INFORMS_**.[[Paper](https://arxiv.org/Paper/1906.01227.Paper)][[Code](https://github.com/chaitjo/graph-convnet-tsp)]
 - 【AM】ATTENTION, LEARN TO SOLVE ROUTING PROBLEMS!, 2019, ICLR.[[Paper](https://arxiv.org/Paper/1803.08475.Paper)][[Code](https://github.com/wouterkool/attention-learn-to-route)]
