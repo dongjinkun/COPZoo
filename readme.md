@@ -32,7 +32,7 @@
 - ViTSP: A Vision Language Models Guided Framework for Large-Scale Traveling Salesman Problems, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2509.23465)]
 - Generalizable Heuristic Generation Through LLMs with Meta-Optimization, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2505.20881)]
 - 【RRNCO】Towards Real-World Routing with Neural Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2503.16159)][[Code](https://github.com/ai4co/real-routing-nco)]
-- Towards Efficient Constraint Handling in Neural Solvers for Routing Problems, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=raDFGuQxvD)]
+- 【CaR】Towards Efficient Constraint Handling in Neural Solvers for Routing Problems, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=raDFGuQxvD)][[Code](https://github.com/jieyibi/CaR-constraint)]
 - Chain-of-Context Learning: Dynamic Constraint Understanding for Multi-Task VRPs, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=AhE6aSlz5g)]
 - 【RADAR】RADAR: Learning to Route with Asymmetry-aware Distance Representations, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=lWdxX5s9T1)]
 - Combination-of-Experts with Knowledge Sharing for Cross-Task Vehicle Routing Problems, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=lHBs9mbgwp)]
