@@ -15,7 +15,7 @@
 - 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _**AIC**_, 2023. [[Paper](https://arxiv.org/abs/2008.12248)]
 - 【Survey】Learning to Solve Vehicle Routing Problems: A Survey, **_T-ITS_**, 2022.[[Paper](https://arxiv.org/abs/2205.02453)]
 - 【Survey】A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing, _**IET Collaborative Intelligent Manufacturing**_, 2022. [[PDF](https://research.tue.nl/en/publications/a-review-on-learning-to-solve-combinatorial-optimisation-problems)]
-- 【Survey】Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, Bengio, 2018, _**EJOR**_.[[Paper](https://arxiv.org/abs/1811.06128)]
+- 【Survey】Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, _**EJOR**_, 2018.[[Paper](https://arxiv.org/abs/1811.06128)]
 
 ## 🐈2026
 - Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2510.11121)]
