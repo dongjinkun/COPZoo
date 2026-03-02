@@ -37,7 +37,7 @@
 - Chain-of-Context Learning: Dynamic Constraint Understanding for Multi-Task VRPs, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=AhE6aSlz5g)]
 - 【RADAR】RADAR: Learning to Route with Asymmetry-aware Distance Representations, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=lWdxX5s9T1)]
 - Combination-of-Experts with Knowledge Sharing for Cross-Task Vehicle Routing Problems, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=lHBs9mbgwp)]
-- An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2510.16701)]
+- 【AFL】An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2510.16701)][[Code](https://github.com/ZHANG-NI/AFL)]
 - 【L2Seg】Learning to Segment for Vehicle Routing Problems, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2507.01037)]
 - 【DRAGON】DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization, 2026, **_AAMAS_**. [[Paper](https://arxiv.org/abs/2601.06502)][[Code]()]
 - 【LLMAide】LLMAide: Language-Assisted Neural Solver for Vehicle Routing Problems, 2026, **_AAMAS_**.
