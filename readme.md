@@ -104,6 +104,7 @@
 - Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning, 2025, arxiv. [[Paper](https://arxiv.org/abs/2501.00884)]
 - 【NDS】Neural Deconstruction search for Vehicle Routing Problems, 2025, arxiv.[[Paper](https://arxiv.org/abs/2501.03715)]
 ## 🦍2024
+- 【PIP】Learning to handle complex constraints for vehicle routing problems, 2024, _**NIPs**_. [[Paper](https://arxiv.org/pdf/2410.21066)][[Code](https://github.com/jieyibi/pip-constraint)]
 - 【MVMoE】MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts, 2024, _**ICML**_. [[Paper](https://arxiv.org/abs/2405.01029)][[Code](https://github.com/RoyalSkye/Routing-MVMoE)]
 - 【MARCO】MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization, 2024, _**IJCAI**_. [[Paper](https://www.ijcai.org/proceedings/2024/0766.pdf)][[Code](https://github.com/TheLeprechaun25/MARCO)]
 - 【LRBS】Scaling Combinatorial Optimization Neural Improvement Heuristics with Online Search and Adaptation, 2024, arxiv. [[Paper](https://arxiv.org/abs/2412.10163)]
