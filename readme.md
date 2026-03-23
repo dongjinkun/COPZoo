@@ -98,7 +98,7 @@
 - Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems, 2025, **_TNNLS_**.[[Paper](https://arxiv.org/abs/2308.00560)][[Code](https://github.com/xybFight/NAR4TSP)]
 - An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem, 2025, _**SIGKDD**_.[[Paper](https://arxiv.org/abs/2501.13767)][[Code](https://github.com/DEITSP/DEITSP)]
 - 【AGFN】Adversarial Generative Flow Network for Solving Vehicle Routing Problems, 2025, _**ICLR**_.[[Paper](https://openreview.net/forum?id=tBom4xOW1H)][[Code](https://github.com/ZHANG-NI/AGFN)]
-- 【ReLD】Rethinking Light Decoder-based Solvers for Vehicle Routing Problems, 2025, _**ICLR**_.[[Paper](https://openreview.net/forum?id=4pRwkYpa2u)]
+- 【ReLD】Rethinking Light Decoder-based Solvers for Vehicle Routing Problems, 2025, _**ICLR**_.[[Paper](https://openreview.net/forum?id=4pRwkYpa2u)][[Code](https://github.com/ziweileonhuang/reld-nco)]
 - 【DualOpt】DualOpt: A Dual Divide-and-Optimize Algorithm for the Large-scale Traveling Salesman Problem, 2025, _**AAAI**_.[[Paper](https://arxiv.org/abs/2501.08565)][[Code](https://github.com/Learning4Optimization-HUST/DualOpt)]
 - 【CAMP】CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems, 2025, _**AAMAS**_. [[Paper](https://arxiv.org/abs/2501.02977)][[Code](https://github.com/ai4co/camp)]
 - Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning, 2025, arxiv. [[Paper](https://arxiv.org/abs/2501.00884)]
