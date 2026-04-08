@@ -50,6 +50,7 @@
 [[Paper](https://arxiv.org/abs/2508.03082)][[Code](https://github.com/FeiLiu36/EoH-S?tab=readme-ov-file)]
 - 【Scale-Net】Scale-Net: A Hierarchical U-Net Framework for Cross-Scale Generalization in Multi-Task Vehicle Routing, 2026,  _**AAAI**_. [[Paper](https://github.com/lsyysl9711/Scale-Net/tree/main/Paper)][[Code](https://github.com/lsyysl9711/Scale-Net)]
 ## 🐣2025
+- COExpander: Adaptive Solution Expansion for Combinatorial Optimization, 2025, _**ICML**_. [[Paper](https://proceedings.mlr.press/v267/ma25r.html)][[Code](https://github.com/Thinklab-SJTU/COExpander)]
 - 【DRI】Decompose-route-improve framework for solving large-scale vehicle routing problems with time windows, 2025, _**TR-E**_. [[Paper](https://www.sciencedirect.com/science/article/pii/S1366554525004508)]
 - 【ARS】ARS: Automatic Routing Solver with Large Language Models, 2025, arxiv. [[Paper](https://arxiv.org/html/2502.15359v1)][[Code](https://github.com/Ahalikai/ARS-Routbench)]
 - 【URS】URS: A unified neural routing solver for cross-problem zero-shot generalization, 2025, arxiv. [[Paper](https://arxiv.org/abs/2509.23413)]
