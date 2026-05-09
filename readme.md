@@ -24,7 +24,7 @@
 - Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2510.11121)]
 - 【EGAM】EGAM: Extended Graph Attention Model for Solving Routing Problems, 2026, arxiv. [[Paper](https://www.arxiv.org/abs/2601.21281)]
 - 【GMS】Beyond Simple Graphs: Neural Multi-Objective Routing on Multigraphs, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2506.22095)]
-- 【MaskCO】MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=psUjNnLhl9)]
+- 【MaskCO】MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=psUjNnLhl9)][[Code](https://github.com/Thinklab-SJTU/MaskCO)]
 - Gelato: Graph Edit Distance via Autoregressive Neural Combinatorial Optimization, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=6ZTcLNmguc)]
 - From Sequential to Parallel: Reformulating Dynamic Programming as GPU Kernels for Large-Scale Stochastic Combinatorial Optimization, 2026, _**ICLR**_.
 - ConRep4CO: Contrastive Representation Learning of Combinatorial Optimization Instances across Types, 2026, _**ICLR**_. [[Paper](https://openreview.net/forum?id=OXRnvOOiAf)]
