@@ -145,6 +145,7 @@
 - 【Step&Reconsider】Take a Step and Reconsider: Sequence Decoding for Self-Improved Neural Combinatorial Optimization, 2024, **_ECAI_**. [[Paper](https://arxiv.org/abs/2407.17206)][[Code](https://github.com/grimmlab/step-and-reconsider)]
 - 【SRT】Symmetric Replay Training: Enhancing Sample Efficiency  in Deep Reinforcement Learning for Combinatorial Optimization, 2024, _**ICML**_. [[Paper](https://arxiv.org/abs/2306.01276)][[Code](https://github.com/kaist-silab/symmetric_replay)]
 ## 🐕2023
+- 【NRR】Too big, so fail? -- enabling neural construction methods to solve large-scale routing problems, 2023, _**arxiv**_. [[Paper](https://arxiv.org/pdf/2309.17089)]
 - 【IIL】IMITATION IMPROVEMENT LEARNING FOR LARGESCALE CAPACITATED VEHICLE ROUTING PROBLEMS, 2023, **_ICAPS_**.[[Paper](https://dl.acm.org/doi/10.1609/icaps.v33i1.27236)][[Code](https://github.com/vietbtx/VRPpp)]
 - 【UTSP】Unsupervised Learning for solving the TSP, 2023, **_NeurIPS_**.[[Paper](https://arxiv.org/abs/2303.10538)][[Code](https://github.com/yimengmin/UTSP)]
 - 【FER】Learning Feature Embedding Refiner for Solving Vehicle Routing Problems, 2023, **_TNNLS_**.[[Paper](https://ieeexplore.ieee.org/document/10160045)][[Code](https://github.com/Demon0312/Feature-Embedding-Refiner)]
