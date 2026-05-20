@@ -103,7 +103,7 @@
 - 【DualOpt】DualOpt: A Dual Divide-and-Optimize Algorithm for the Large-scale Traveling Salesman Problem, 2025, _**AAAI**_.[[Paper](https://arxiv.org/abs/2501.08565)][[Code](https://github.com/Learning4Optimization-HUST/DualOpt)]
 - 【CAMP】CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems, 2025, _**AAMAS**_. [[Paper](https://arxiv.org/abs/2501.02977)][[Code](https://github.com/ai4co/camp)]
 - Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning, 2025, arxiv. [[Paper](https://arxiv.org/abs/2501.00884)]
-- 【NDS】Neural Deconstruction search for Vehicle Routing Problems, 2025, arxiv.[[Paper](https://arxiv.org/abs/2501.03715)][[Code](https://github.com/ahottung/NDS)]
+- 【NDS】Neural Deconstruction search for Vehicle Routing Problems, 2025, _**TMLR**_.[[Paper](https://arxiv.org/abs/2501.03715)][[Code](https://github.com/ahottung/NDS)]
 ## 🦍2024
 - 【PIP】Learning to handle complex constraints for vehicle routing problems, 2024, _**NIPs**_. [[Paper](https://arxiv.org/pdf/2410.21066)][[Code](https://github.com/jieyibi/pip-constraint)]
 - 【MVMoE】MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts, 2024, _**ICML**_. [[Paper](https://arxiv.org/abs/2405.01029)][[Code](https://github.com/RoyalSkye/Routing-MVMoE)]
