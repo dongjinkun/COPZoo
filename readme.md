@@ -45,6 +45,7 @@
 - 【DRAGON】DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization, 2026, **_AAMAS_**. [[Paper](https://arxiv.org/abs/2601.06502)][[Code]()]
 - 【LLMAide】LLMAide: Language-Assisted Neural Solver for Vehicle Routing Problems, 2026, **_AAMAS_**.
 - 【PyVRP+】PyVRP+: LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems, 2026, **_AAMAS_**.
+- 【EPR】Elite Pattern Reinforcement for Vehicle Routing Problems, 2026,  _**AAAI**_. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40949/44910)][[Code](https://github.com/1477619915/EPR-POMO)]
 - 【EvoReal】Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation, 2026, _**AAAI**_. [[Paper](https://arxiv.org/abs/2511.10233)][[Code](https://github.com/HenryZhu1029/EvoReal)]
 - 【EoH-S】EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design, 2026, _**AAAI**_.
 [[Paper](https://arxiv.org/abs/2508.03082)][[Code](https://github.com/FeiLiu36/EoH-S?tab=readme-ov-file)]
