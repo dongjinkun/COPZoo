@@ -18,6 +18,15 @@
 - 【Survey】Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, _**EJOR**_, 2018.[[Paper](https://arxiv.org/abs/1811.06128)]
 
 ## 🐈2026
+- Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization, 2026, _**ICML**_.
+- Unsupervised Diffusion for Combinatorial Optimization via Adjoint Matching, 2026, _**ICML**_.
+- Latent Guided Sampling for Combinatorial Optimization, 2026, _**ICML**_.
+- Position: Neural Approximation Is Rarely Justified for Hard Combinatorial Problems, 2026, _**ICML**_.
+- URS: A Unified Neural Routing Solver for Cross-Problem Zero-Shot Generalization, 2026, _**ICML**_. [[Paper](https://arxiv.org/abs/2509.23413)]
+- PoMtVRS: Preference-Optimized Multi-Task Vehicle Routing Solver with Preference Gating, 2026, _**ICML**_.
+- 【L2R】L2R: Learning to Reduce Search Space for Generalizable Neural Routing Solver, 2026, _**SIGKDD**_. [[Paper](https://arxiv.org/abs/2503.03137)]
+- AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network, 2026, _**SIGKDD**_. 
+- Learning to Handle Constrained Routing Problems From a Decoupling Perspective, 2026, _**SIGKDD**_. 
 - Efficient decoder scaling strategy for neural routing solvers, 2026, arxiv. [[Paper](https://arxiv.org/abs/2603.00430)]
 - Constraints matrix diffusion based generative neural solver for vehicle routing problems, 2026, arxiv. [[Paper](https://arxiv.org/abs/2603.07568)]
 - 【G-LNS】G-LNS: Generative Large Neighborhood Search for  LLM-Based Automatic Heuristic Design, 2026, arxiv. [[Paper](https://arxiv.org/abs/2602.08253)][[Code](https://github.com/zboyn/G-LNS)]
@@ -54,7 +63,6 @@
 - 【COExpander】COExpander: Adaptive Solution Expansion for Combinatorial Optimization, 2025, _**ICML**_. [[Paper](https://proceedings.mlr.press/v267/ma25r.html)][[Code](https://github.com/Thinklab-SJTU/COExpander)]
 - 【DRI】Decompose-route-improve framework for solving large-scale vehicle routing problems with time windows, 2025, _**TR-E**_. [[Paper](https://www.sciencedirect.com/science/article/pii/S1366554525004508)]
 - 【ARS】ARS: Automatic Routing Solver with Large Language Models, 2025, arxiv. [[Paper](https://arxiv.org/html/2502.15359v1)][[Code](https://github.com/Ahalikai/ARS-Routbench)]
-- 【URS】URS: A unified neural routing solver for cross-problem zero-shot generalization, 2025, arxiv. [[Paper](https://arxiv.org/abs/2509.23413)]
 - Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design, 2025, _**Nips**_. [[Paper](https://arxiv.org/abs/2501.08603)][[Code](https://github.com/zz1358m/MCTS-AHD-master)]
 - Recurrent State Encoders for Efficient Neural Combinatorial Optimization, 2025, arxiv. [[Paper](https://www.arxiv.org/abs/2509.05084)][[Code](https://github.com/TimD3/Recurrent-NCO)]
 - 【VRPAGENT】VRPAGENT: LLM-Driven Discovery Of Heuristic Operators For Vehicle Routing Problems, 2025, arxiv. [[Paper](https://arxiv.org/abs/2510.07073)][[Code](https://github.com/ai4co/vrpagent)]
@@ -88,7 +96,6 @@
 - TuneNSearch: a hybrid transfer learning and local search approach for solving vehicle routing problems, 2025, arxiv. [[Paper](https://arxiv.org/pdf/2503.12662)]
 - Neural Combinatorial Optimization for Real-World Routing, 2025, arxiv. [[paper](https://arxiv.org/pdf/2503.16159)][[Code](https://github.com/ai4co/real-routing-nco)]
 - 【POCO】Neural Combinatorial Optimization via Preference Optimization, 2025, arxiv. [[Paper](https://arxiv.org/abs/2503.07580)]
-- 【L2R】L2R: Learning to Reduce Search Space for Generalizable Neural Routing Solver, 2025, arxiv. [[Paper](https://arxiv.org/abs/2503.03137)]
 - 【U-ML4TSP】UNIFY ML4TSP: DRAWING METHODOLOGICAL PRINCIPLES FOR TSP AND BEYOND FROM STREAMLINED  DESIGN SPACE OF LEARNING AND SEARCH, 2025, _**ICLR**_. [[Paper](https://openreview.net/forum?id=grU1VKEOLi)][[Code](https://github.com/Thinklab-SJTU/ML4TSPBench)]
 - 【PoH】Planning of Heuristics: Strategic Planning on Large Language Models with Monte Carlo Tree Search for Automating Heuristic Optimization, 2025, arxiv.[[Paper](https://arxiv.org/abs/2502.11422)]
 - 【IDEQ】IDEQ: an improved diffusion model for the TSP, 2025, arxiv.[[Paper](https://arxiv.org/abs/2412.13858)]
