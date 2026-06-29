@@ -20,9 +20,9 @@
 ## 🐈2026
 - Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization, 2026, _**ICML**_.
 - Unsupervised Diffusion for Combinatorial Optimization via Adjoint Matching, 2026, _**ICML**_.
-- Latent Guided Sampling for Combinatorial Optimization, 2026, _**ICML**_.
+- Latent Guided Sampling for Combinatorial Optimization, 2026, _**ICML**_. [[Paper](https://arxiv.org/abs/2506.03672)][[Code](https://github.com/SobihanSurendran/LGS)]
 - Position: Neural Approximation Is Rarely Justified for Hard Combinatorial Problems, 2026, _**ICML**_.
-- URS: A Unified Neural Routing Solver for Cross-Problem Zero-Shot Generalization, 2026, _**ICML**_. [[Paper](https://arxiv.org/abs/2509.23413)]
+- URS: A Unified Neural Routing Solver for Cross-Problem Zero-Shot Generalization, 2026, _**ICML**_. [[Paper](https://arxiv.org/abs/2509.23413)][[Code](https://github.com/CIAM-Group/URS)]
 - PoMtVRS: Preference-Optimized Multi-Task Vehicle Routing Solver with Preference Gating, 2026, _**ICML**_.
 - 【L2R】L2R: Learning to Reduce Search Space for Generalizable Neural Routing Solver, 2026, _**SIGKDD**_. [[Paper](https://arxiv.org/abs/2503.03137)]
 - AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network, 2026, _**SIGKDD**_. 
