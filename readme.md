@@ -25,7 +25,7 @@
 - URS: A Unified Neural Routing Solver for Cross-Problem Zero-Shot Generalization, 2026, _**ICML**_. [[Paper](https://arxiv.org/abs/2509.23413)][[Code](https://github.com/CIAM-Group/URS)]
 - PoMtVRS: Preference-Optimized Multi-Task Vehicle Routing Solver with Preference Gating, 2026, _**ICML**_.
 - 【L2R】L2R: Learning to Reduce Search Space for Generalizable Neural Routing Solver, 2026, _**SIGKDD**_. [[Paper](https://arxiv.org/abs/2503.03137)]
-- AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network, 2026, _**SIGKDD**_. 
+- 【AGDN】AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network, 2026, _**SIGKDD**_. [[Paper](https://arxiv.org/abs/2606.19185)][[Code](https://github.com/LabRAI/AGDN)]
 - Learning to Handle Constrained Routing Problems From a Decoupling Perspective, 2026, _**SIGKDD**_. 
 - Efficient decoder scaling strategy for neural routing solvers, 2026, arxiv. [[Paper](https://arxiv.org/abs/2603.00430)]
 - Constraints matrix diffusion based generative neural solver for vehicle routing problems, 2026, arxiv. [[Paper](https://arxiv.org/abs/2603.07568)]
