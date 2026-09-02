@@ -18,15 +18,16 @@
 - 【Survey】Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, _**EJOR**_, 2018.[[Paper](https://arxiv.org/abs/1811.06128)]
 
 ## 🐈2026
-- Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization, 2026, _**ICML**_.
-- Unsupervised Diffusion for Combinatorial Optimization via Adjoint Matching, 2026, _**ICML**_.
+- 【ASAP】ASAP: Exploiting the Satisficing Generalization Edge in Neural Combinatorial Optimization, 2026, _**ICML**_. [[Paper](https://arxiv.org/abs/2501.17377)]
+- Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization, 2026, _**ICML**_. [[Paper](https://arxiv.org/abs/2603.02462)][[Code](https://github.com/semihcanturk/COPT-MT)]
+- Unsupervised Diffusion for Combinatorial Optimization via Adjoint Matching, 2026, _**ICML**_. [[Paper](https://arxiv.org/abs/2605.30920)][[Code](https://github.com/Shengyu-Feng/CAM)]
 - Latent Guided Sampling for Combinatorial Optimization, 2026, _**ICML**_. [[Paper](https://arxiv.org/abs/2506.03672)][[Code](https://github.com/SobihanSurendran/LGS)]
-- Position: Neural Approximation Is Rarely Justified for Hard Combinatorial Problems, 2026, _**ICML**_.
+- Position: Neural Approximation Is Rarely Justified for Hard Combinatorial Problems, 2026, _**ICML**_. [[Paper]()][[Code]()]
 - URS: A Unified Neural Routing Solver for Cross-Problem Zero-Shot Generalization, 2026, _**ICML**_. [[Paper](https://arxiv.org/abs/2509.23413)][[Code](https://github.com/CIAM-Group/URS)]
-- PoMtVRS: Preference-Optimized Multi-Task Vehicle Routing Solver with Preference Gating, 2026, _**ICML**_.
+- PoMtVRS: Preference-Optimized Multi-Task Vehicle Routing Solver with Preference Gating, 2026, _**ICML**_. [[Paper](https://icml.cc/virtual/2026/poster/60922)][[Code](https://github.com/Regina921/PoMtVRS)]
 - 【L2R】L2R: Learning to Reduce Search Space for Generalizable Neural Routing Solver, 2026, _**SIGKDD**_. [[Paper](https://arxiv.org/abs/2503.03137)]
 - 【AGDN】AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network, 2026, _**SIGKDD**_. [[Paper](https://arxiv.org/abs/2606.19185)][[Code](https://github.com/LabRAI/AGDN)]
-- Learning to Handle Constrained Routing Problems From a Decoupling Perspective, 2026, _**SIGKDD**_. 
+- Learning to Handle Constrained Routing Problems From a Decoupling Perspective, 2026, _**SIGKDD**_. [[Paper]()][[Code]()]
 - Efficient decoder scaling strategy for neural routing solvers, 2026, arxiv. [[Paper](https://arxiv.org/abs/2603.00430)]
 - Constraints matrix diffusion based generative neural solver for vehicle routing problems, 2026, arxiv. [[Paper](https://arxiv.org/abs/2603.07568)]
 - 【G-LNS】G-LNS: Generative Large Neighborhood Search for  LLM-Based Automatic Heuristic Design, 2026, arxiv. [[Paper](https://arxiv.org/abs/2602.08253)][[Code](https://github.com/zboyn/G-LNS)]
