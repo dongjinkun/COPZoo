@@ -4,7 +4,8 @@
 - The repository is devoted to sharing advanced and lasted papers that solve challenging Combinatorial Optimization Problems.
 # 🐯Biography
 - JinkunDong is a third-year PhD student at the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Beijing Jiaotong University.
-- Current research interest is Vehicle Routing Problems.
+- Current research interest is Vehicle Routing Problems (TSP, CVRP, PCTSP, CVRPTW...).
+- Research philosophy is to conduct some **simple and effective** studies that are meaningful to the current field of research.
 # 🦌Neural Combinatorial Optimization(NCO)
 - PaperList by Learning Paradigm: [PaperList](https://github.com/dongjinkun/COPZoo/blob/main/Paper_by_learning_paradigms.md)
 - PaperList by Task: [PaperList](https://github.com/dongjinkun/COPZoo/blob/main/Paper_by_task.md)
