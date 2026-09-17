@@ -19,6 +19,7 @@
 - 【Survey】Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, _**EJOR**_, 2018.[[Paper](https://arxiv.org/abs/1811.06128)]
 
 ## 🐈2026
+- RouteRepair: Instance-Level Failure Diagnosis and Targeted Repair in LLM-Based Automated Heuristic Design for Routing Optimization, 2026, Preprint.[[Paper](https://arxiv.org/abs/2609.11452)]
 - Reinforcement Learning Enhanced LLM Agents for Complex Vehicle Routing Problems, 2026, Preprint.[[Paper](https://arxiv.org/abs/2608.24859)]
 - Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement, 2026, Preprint.[[Paper](https://arxiv.org/abs/2608.24859)][[Code](https://github.com/AJ-Correa/Routing-POLAR)]
 - Graph neural networks and the energetic cavity method for combinatorial optimization, 2026, Preprint. [[Paper](https://arxiv.org/html/2609.07456v1)][[Code](https://github.com/joebacchus/GNN-cavity-opt)]
