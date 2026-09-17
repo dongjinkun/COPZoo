@@ -19,7 +19,7 @@
 - 【Survey】Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, _**EJOR**_, 2018.[[Paper](https://arxiv.org/abs/1811.06128)]
 
 ## 🐈2026
-- Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement,[[Paper](https://arxiv.org/abs/2608.24859)][[Code](https://github.com/AJ-Correa/Routing-POLAR)]
+- Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement, 2026, Preprint.[[Paper](https://arxiv.org/abs/2608.24859)][[Code](https://github.com/AJ-Correa/Routing-POLAR)]
 - Graph neural networks and the energetic cavity method for combinatorial optimization, 2026, Preprint. [[Paper](https://arxiv.org/html/2609.07456v1）][[Code](https://github.com/joebacchus/GNN-cavity-opt)]
 - The Time-Dependent Traveling Salesman Problem with Loose Time Windows, 2026, Preprint. [[Paper](https://arxiv.org/pdf/2608.26360）]
 - GNN-Guided Graph Coarsening and Adaptive QUBO Penalties for the Capacitated Vehicle Routing Problem with Time Windows on a Quantum Annealer, 2026, Preprint. [[Paper](https://arxiv.org/abs/2609.04593)]
