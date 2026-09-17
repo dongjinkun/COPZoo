@@ -21,8 +21,8 @@
 ## 🐈2026
 - Reinforcement Learning Enhanced LLM Agents for Complex Vehicle Routing Problems, 2026, Preprint.[[Paper](https://arxiv.org/abs/2608.24859)]
 - Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement, 2026, Preprint.[[Paper](https://arxiv.org/abs/2608.24859)][[Code](https://github.com/AJ-Correa/Routing-POLAR)]
-- Graph neural networks and the energetic cavity method for combinatorial optimization, 2026, Preprint. [[Paper](https://arxiv.org/html/2609.07456v1）][[Code](https://github.com/joebacchus/GNN-cavity-opt)]
-- The Time-Dependent Traveling Salesman Problem with Loose Time Windows, 2026, Preprint. [[Paper](https://arxiv.org/pdf/2608.26360）]
+- Graph neural networks and the energetic cavity method for combinatorial optimization, 2026, Preprint. [[Paper](https://arxiv.org/html/2609.07456v1)][[Code](https://github.com/joebacchus/GNN-cavity-opt)]
+- The Time-Dependent Traveling Salesman Problem with Loose Time Windows, 2026, Preprint. [[Paper](https://arxiv.org/pdf/2608.26360)]
 - GNN-Guided Graph Coarsening and Adaptive QUBO Penalties for the Capacitated Vehicle Routing Problem with Time Windows on a Quantum Annealer, 2026, Preprint. [[Paper](https://arxiv.org/abs/2609.04593)]
 - Information-theoretic formulation of the Traveling Salesman Problem, 2026, Preprint. [[Paper](https://arxiv.org/pdf/2608.26339)]
 - LLM-Driven Joint Evolution of Coupled Heuristics Components for Routing Optimization, 2026, Preprint. [[Paper](https://arxiv.org/abs/2609.02353)]
