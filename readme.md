@@ -19,6 +19,14 @@
 - 【Survey】Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, _**EJOR**_, 2018.[[Paper](https://arxiv.org/abs/1811.06128)]
 
 ## 🐈2026
+- Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement,[[Paper](https://arxiv.org/abs/2608.24859)][[Code](https://github.com/AJ-Correa/Routing-POLAR)]
+- Graph neural networks and the energetic cavity method for combinatorial optimization, 2026, Preprint. [[Paper](https://arxiv.org/html/2609.07456v1）][[Code](https://github.com/joebacchus/GNN-cavity-opt)]
+- The Time-Dependent Traveling Salesman Problem with Loose Time Windows, 2026, Preprint. [[Paper](https://arxiv.org/pdf/2608.26360）]
+- GNN-Guided Graph Coarsening and Adaptive QUBO Penalties for the Capacitated Vehicle Routing Problem with Time Windows on a Quantum Annealer, 2026, Preprint. [[Paper](https://arxiv.org/abs/2609.04593)]
+- Information-theoretic formulation of the Traveling Salesman Problem, 2026, Preprint. [[Paper](https://arxiv.org/pdf/2608.26339)]
+- LLM-Driven Joint Evolution of Coupled Heuristics Components for Routing Optimization, 2026, Preprint. [[Paper](https://arxiv.org/abs/2609.02353)]
+- ES-AHD: An Evolution Strategy Framework for Automatic Heuristic Design, 2026,Preprint. [[Paper](https://arxiv.org/pdf/2609.00023)]
+- HyCO: A Hybrid Neural Solver for Combinatorial Optimization, 2026,Preprint. [[Paper](https://arxiv.org/abs/2609.07990)]
 - 【ASAP】ASAP: Exploiting the Satisficing Generalization Edge in Neural Combinatorial Optimization, 2026, _**ICML**_. [[Paper](https://arxiv.org/abs/2501.17377)]
 - Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization, 2026, _**ICML**_. [[Paper](https://arxiv.org/abs/2603.02462)][[Code](https://github.com/semihcanturk/COPT-MT)]
 - Unsupervised Diffusion for Combinatorial Optimization via Adjoint Matching, 2026, _**ICML**_. [[Paper](https://arxiv.org/abs/2605.30920)][[Code](https://github.com/Shengyu-Feng/CAM)]
