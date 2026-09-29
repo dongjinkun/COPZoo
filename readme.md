@@ -19,6 +19,9 @@
 - 【Survey】Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, _**EJOR**_, 2018.[[Paper](https://arxiv.org/abs/1811.06128)]
 
 ## 🐈2026
+- SimpleEvol: Efficient Intelligence Conversion via Less Human Prior in Automated Heuristic Design, 2026, _**Nips**_.
+- MixRoute: Rethinking Single-Distribution Training for Generalizable Neural Routing, 2026, _**Nips**_.
+- Diffusion-Enhanced GFlowNet for Solving Vehicle Routing Problems, 2026, _**Nips**_.
 - RouteRepair: Instance-Level Failure Diagnosis and Targeted Repair in LLM-Based Automated Heuristic Design for Routing Optimization, 2026, Preprint.[[Paper](https://arxiv.org/abs/2609.11452)]
 - Reinforcement Learning Enhanced LLM Agents for Complex Vehicle Routing Problems, 2026, Preprint.[[Paper](https://arxiv.org/abs/2608.24859)]
 - Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement, 2026, Preprint.[[Paper](https://arxiv.org/abs/2608.24859)][[Code](https://github.com/AJ-Correa/Routing-POLAR)]
