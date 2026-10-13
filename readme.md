@@ -11,6 +11,7 @@
 - PaperList by Task: [PaperList](https://github.com/dongjinkun/COPZoo/blob/main/Paper_by_task.md)
 - Lab: [LabList](https://github.com/dongjinkun/COPZoo/blob/main/Experts4COP.md)
 ## 🐒Survey
+- 【Survey】Advances in LLM-Assisted Combinatorial Optimization, 2026. [[Paper](https://www.sciopen.com/article/10.23919/CSMS.2026.0007)]
 - 【Survey】Survey on neural routing solvers, 2026. [[Paper](https://arxiv.org/abs/2602.21761)]
 - 【Survey】Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives, 2024. [[Paper](https://arxiv.org/Paper/2406.00415)]
 - 【Survey】A Survey on Reinforcement Learning for Combinatorial Optimization, _**AIC**_, 2023. [[Paper](https://arxiv.org/abs/2008.12248)]
