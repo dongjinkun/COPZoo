@@ -19,6 +19,12 @@
 - 【Survey】Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, _**EJOR**_, 2018.[[Paper](https://arxiv.org/abs/1811.06128)]
 
 ## 🐈2026
+- Just Initialize: A Training-Free Initialization Component for Large-Scale Routing Optimization, 2026, Preprint.
+- MiLoop: Selective memory propagation for neural combinatorial optimization, 2026, Preprint.
+- Multi-task evolution for zero-shot cross-problem generalization using LLMs, 2026, Preprint.
+- RAISE: LLM-based Automated Heuristic Design with Robust Adversary Instance Search, 2026, Preprint.
+- AlgoEvo: Self-Evolving Agentic Search for Automated Algorithm Discovery, 2026, Preprint.
+- OD-Gear: Online Decomposition and Group Sampling for Expert-Guided Adversarial Routing in Scalable Capacitated Vehicle Routing, 2026, Preprint.
 - SimpleEvol: Efficient Intelligence Conversion via Less Human Prior in Automated Heuristic Design, 2026, _**Nips**_.
 - MixRoute: Rethinking Single-Distribution Training for Generalizable Neural Routing, 2026, _**Nips**_.
 - Diffusion-Enhanced GFlowNet for Solving Vehicle Routing Problems, 2026, _**Nips**_.
