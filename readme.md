@@ -52,6 +52,7 @@
 - Efficient decoder scaling strategy for neural routing solvers, 2026, arxiv. [[Paper](https://arxiv.org/abs/2603.00430)]
 - Constraints matrix diffusion based generative neural solver for vehicle routing problems, 2026, arxiv. [[Paper](https://arxiv.org/abs/2603.07568)]
 - 【G-LNS】G-LNS: Generative Large Neighborhood Search for  LLM-Based Automatic Heuristic Design, 2026, arxiv. [[Paper](https://arxiv.org/abs/2602.08253)][[Code](https://github.com/zboyn/G-LNS)]
+- Beyond the Heatmap: A Rigorous Evaluation of Component Impact in MCTS-Based TSP Solvers, 2026, _**ICLR**_. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/file/e3bf2f0f10774c474de22a12cb060e2c-Paper-Conference.pdf)][[Code](https://github.com/LOGO-CUHKSZ/beyond-heatmap-mcts-tsp)]
 - Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2510.11121)]
 - 【EGAM】EGAM: Extended Graph Attention Model for Solving Routing Problems, 2026, arxiv. [[Paper](https://www.arxiv.org/abs/2601.21281)]
 - 【GMS】Beyond Simple Graphs: Neural Multi-Objective Routing on Multigraphs, 2026, _**ICLR**_. [[Paper](https://arxiv.org/abs/2506.22095)]
