@@ -20,6 +20,7 @@
 - 【Survey】Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, _**EJOR**_, 2018.[[Paper](https://arxiv.org/abs/1811.06128)]
 
 ## 🐈2026
+- Size Generalization for Diffusion Routing Solvers, 2026, Preprint. [[Paper](https://arxiv.org/abs/2610.17192)]
 - Just Initialize: A Training-Free Initialization Component for Large-Scale Routing Optimization, 2026, Preprint.
 - MiLoop: Selective memory propagation for neural combinatorial optimization, 2026, Preprint.
 - Multi-task evolution for zero-shot cross-problem generalization using LLMs, 2026, Preprint.
@@ -39,6 +40,7 @@
 - LLM-Driven Joint Evolution of Coupled Heuristics Components for Routing Optimization, 2026, Preprint. [[Paper](https://arxiv.org/abs/2609.02353)]
 - ES-AHD: An Evolution Strategy Framework for Automatic Heuristic Design, 2026,Preprint. [[Paper](https://arxiv.org/pdf/2609.00023)]
 - HyCO: A Hybrid Neural Solver for Combinatorial Optimization, 2026,Preprint. [[Paper](https://arxiv.org/abs/2609.07990)]
+- Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation, 2026, _**ICML**_. [[Paper](https://openreview.net/pdf?id=OfxgzjqzeA)][[Code](https://github.com/Thinklab-SJTU/M2GenCO)]
 - 【ASAP】ASAP: Exploiting the Satisficing Generalization Edge in Neural Combinatorial Optimization, 2026, _**ICML**_. [[Paper](https://arxiv.org/abs/2501.17377)]
 - Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization, 2026, _**ICML**_. [[Paper](https://arxiv.org/abs/2603.02462)][[Code](https://github.com/semihcanturk/COPT-MT)]
 - Unsupervised Diffusion for Combinatorial Optimization via Adjoint Matching, 2026, _**ICML**_. [[Paper](https://arxiv.org/abs/2605.30920)][[Code](https://github.com/Shengyu-Feng/CAM)]
