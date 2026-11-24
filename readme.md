@@ -20,6 +20,7 @@
 - 【Survey】Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon∗, _**EJOR**_, 2018.[[Paper](https://arxiv.org/abs/1811.06128)]
 
 ## 🐈2026
+- 【DEG】DEG: Diffusion-Enhanced GFlowNet for Solving Vehicle Routing Problems,  2026, _**Nips**_. [[Paper](https://openreview.net/forum?id=5pGVh6PbGd#discussion)][[Code](https://github.com/ZHANG-NI/DEG)]
 - Size Generalization for Diffusion Routing Solvers, 2026, Preprint. [[Paper](https://arxiv.org/abs/2610.17192)]
 - Just Initialize: A Training-Free Initialization Component for Large-Scale Routing Optimization, 2026, Preprint.
 - MiLoop: Selective memory propagation for neural combinatorial optimization, 2026, Preprint.
